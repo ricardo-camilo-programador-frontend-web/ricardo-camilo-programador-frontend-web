@@ -25,8 +25,9 @@
 				<div align="left">
 					<img src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 					<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-					<img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-				</div>
+					<img src="https://img.shields.io/badge/Windicss-%2338B2AC.svg?style=for-the-badge&logo=windicss&logoColor=white" />
+					<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+					<img src="https://img.shields.io/badge/vueuse-%2338B2AC.svg?style=for-the-badge&logo=vue.js&logoColor=white" />				</div>
 			</li>
 			<li>
 				<a
@@ -41,6 +42,7 @@
 					<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 					<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 					<img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
+					<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 				</div>
 			</li>
 			<li>
@@ -140,16 +142,17 @@
 	align="center"
 	style="width: 100%;"
 >
+	  <img
+		src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo564&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+		style="width: 100%;"
+	/>
   <img
     src="https://github-readme-stats.vercel.app/api?username=ricardo564&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
 		style="width: 100%;"
 	/>
-  <img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo564&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-		style="width: 100%;"
-	/>
+
 </div>
 
 # 🌟 Core Principles

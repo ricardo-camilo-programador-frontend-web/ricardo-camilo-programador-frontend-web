@@ -223,15 +223,3 @@
   <img src="https://komarev.com/ghpvc/?username=ricardo564&label=Profile%20views&color=0e75b6&style=flat"
   alt="profile views" />
 </div>
-
-
-<div align="center">
-  <h3>Open for exciting opportunities and collaborations! 🚀</h3>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ricardo564&label=Profile%20views&color=0e75b6&style=flat"
-  alt="profile views" />
-</div>

@@ -1,6 +1,7 @@
 
+<h3>Collaborations with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a><h3>
 <details>
-  <summary>Recent Collaborations with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a></summary>
+  <summary>Projects</a></summary>
 	<div>
 	<div style="
 		display: grid;

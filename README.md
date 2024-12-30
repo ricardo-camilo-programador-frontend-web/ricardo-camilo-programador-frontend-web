@@ -1,6 +1,40 @@
+<h3>Personal Study Projects</h3>
+<details>
+  <summary>Study Projects</summary>
+  <div>
+    <div style="
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      min-width: 17rem;
+      width: 100%;
+    ">
+      <h3>
+        I will be highlighting the latest projects in which I actively participated in the development of the front:
+      </h3>
+      <ul>
+        <li>
+          <a
+            href="https://food-hut-angular-chronicles-1.netlify.app/"
+            target="_blank"
+            aria-label="Food Hut Angular Chronicles Part 1"
+          >
+            🍽️ Food Hut - Angular Chronicles - Part 1
+          </a>
+          <br>
+          <div align="left">
+        	<img height="28px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+		<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</details>
+
 <h3>Collaborations with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a></h3>
 <details>
-  <summary>Projects</summary>
+  <summary>Corporative Projects</summary>
   <div>
     <div style="
       display: grid;

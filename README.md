@@ -29,7 +29,7 @@
   </div>
 </details>
 
-<h3>Collaborations with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a></h3>
+<h3>Collaborations with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (Until December 2023)</h3>
 <details>
   <summary>Corporative Projects</summary>
   <div>

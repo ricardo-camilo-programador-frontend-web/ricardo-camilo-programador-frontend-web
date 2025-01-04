@@ -10,6 +10,24 @@
       width: 100%;
     ">
       <ul>
+	<li>
+	  <a
+	    href="https://breath-natural-nest-chronicles-part1.netlify.app"
+	    target="_blank"
+	    aria-label="Breath Natural NestJS Chronicles Part 1"
+	  >
+	    🪴 Breath Natural - NestJS Chronicles Part 1
+	  </a>
+	  <br>
+	  <div align="left">
+	    <img height="28px" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+	    <img height="28px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+	    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+	    <img height="28px" alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+	    <img height="28px" alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
+	    <img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+	  </div>
+	</li>
         <li>
           <a
             href="https://food-hut-angular-chronicles-1.netlify.app/"
@@ -22,6 +40,8 @@
           <div align="left">
         	<img height="28px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 		<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+		<img height="28px" alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
+		<img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">	
           </div>
         </li>
       </ul>

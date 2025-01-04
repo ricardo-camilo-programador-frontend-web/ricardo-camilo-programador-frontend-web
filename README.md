@@ -16,7 +16,7 @@
 	    target="_blank"
 	    aria-label="Breath Natural NestJS Chronicles Part 1"
 	  >
-	    🪴 Breath Natural - NestJS Chronicles Part 1
+	    🪴 Breath Natural - NestJS Chronicles Part 1 <- On Going
 	  </a>
 	  <br>
 	  <div align="left">

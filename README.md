@@ -49,9 +49,9 @@
   </div>
 </details>
 
-<h3>Collaborations with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (Until December 2024)</h3>
+<h3>Collaborations</h3>
 <details>
-  <summary>Corporative Projects</summary>
+  <summary>Corporative Projects  with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
   <div>
     <div style="
       display: grid;

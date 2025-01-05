@@ -96,7 +96,15 @@
           >
             Tippbank.com.br
           </a>
-          <br>
+          <br><br>
+          <details>
+            <summary>Tippbank.com.br Preview</summary>
+            <img
+              src="./assets/projects/tippbank.png"
+              alt="Tippbank.com.br website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
           <div align="left">
             <img src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />

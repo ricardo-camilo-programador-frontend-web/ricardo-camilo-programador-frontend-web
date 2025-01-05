@@ -12,15 +12,15 @@
       <ul>
         <li>
           <a
-            href="https://breath-natural-nest-chronicles-part1.netlify.app"
+            href="https://breath-natural-nextjs-chronicles-part1.netlify.app"
             target="_blank"
-            aria-label="Breath Natural NestJS Chronicles Part 1"
+            aria-label="Breath Natural NextJS Chronicles Part 1"
           >
-            🪴 Breath Natural - NestJS Chronicles Part 1 <- On Going
+            🪴 Breath Natural - NextJS Chronicles Part 1 <- On Going
           </a>
           <br>
           <div align="left">
-            <img height="28px" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+            <img height="28px" alt="NextJS" src="https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white">
             <img height="28px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
             <img height="28px" alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
@@ -291,8 +291,8 @@
 			alt="RESPONSIVE Badge"
 		/>
 		<img
-			src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"
-			alt="NestJS Badge"
+			src="https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white"
+			alt="NextJS Badge"
 		/>
 		<img
 			src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"

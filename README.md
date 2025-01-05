@@ -461,9 +461,11 @@
 #
 
 <div>
- <h3>Estudando no momento:</h3>
- <img height="28px" alt="Node.js" src="https://img.shields.io/badge/Node-43853d?style=for-the-badge&logo=node.js&logoColor=white">
- <img height="28px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+ <h3>Currently Studying:</h3>
+ 		<img
+			src="https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white"
+			alt="NextJS Badge"
+		/>
 </div>
 
 #

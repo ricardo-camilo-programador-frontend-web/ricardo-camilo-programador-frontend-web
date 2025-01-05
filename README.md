@@ -439,7 +439,7 @@
     />
   </a>
   <a
-    href="https://www.99freelas.com.br/user/camillusbloodfallen-2"
+    href="https://www.99freelas.com.br/user/ricardo-camilo-frontend-developer-typescript"
     target="_blank"
   >
     <img

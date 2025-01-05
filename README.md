@@ -121,7 +121,7 @@
             target="_blank"
             aria-label="Painel.loor.vc"
           >
-            Painel.loor.vc
+            Painel.loor.vc - Admin Dashboard
           </a>
           <br>
           <div align="left">

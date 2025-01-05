@@ -73,11 +73,14 @@
             Labi9.com
           </a>
           <br>
-          <img
-            src="./assets/projects/labi9.png"
-            alt="Labi9 website preview"
-            style="width: 100%; max-width: 300px; margin: 10px 0;"
-          />
+          <details>
+            <summary>Labi9.com Preview</summary>
+            <img
+              src="./assets/projects/labi9.png"
+              alt="Labi9 website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
           <br>
           <div align="left">
             <img src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" />

@@ -60,9 +60,9 @@
       min-width: 17rem;
       width: 100%;
     ">
-      <h3>
+      <p>
         I will be highlighting the latest projects in which I actively participated, and remember, in the development of the front:
-      </h3>
+      </p>
       <ul>
         <li>
           <a

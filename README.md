@@ -366,9 +366,9 @@
 
 # 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
   <a
-		href="https://linkedin.com/in/ricardo-camilo-492b95b3"
+		href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/"
 		target="_blank"
 	>
     <img

@@ -270,6 +270,38 @@
 			src="https://img.shields.io/badge/RESPONSIVE-000000?style=for-the-badge&logo=responsive&logoColor=white"
 			alt="RESPONSIVE Badge"
 		/>
+		<img
+			src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"
+			alt="NestJS Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"
+			alt="Axios Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220"
+			alt="pnpm Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+			alt="Figma Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white"
+			alt="Qwik Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
+			alt="Vite Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Windicss-%2338B2AC.svg?style=for-the-badge&logo=windicss&logoColor=white"
+			alt="Windicss Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/vueuse-%2338B2AC.svg?style=for-the-badge&logo=vue.js&logoColor=white"
+			alt="VueUse Badge"
+		/>
 	</div>
 
 # 📦 GitHub Stats

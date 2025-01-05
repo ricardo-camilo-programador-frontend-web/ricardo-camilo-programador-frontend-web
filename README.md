@@ -342,6 +342,34 @@
 			src="https://img.shields.io/badge/Google_Analytics-%23E37400.svg?style=for-the-badge&logo=google-analytics&logoColor=white"
 			alt="Google Analytics Badge"
 		/>
+		<img
+			src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+			alt="REST APIs Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/UX_Design-FF4088?style=for-the-badge&logo=ux&logoColor=white"
+			alt="User Experience Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white"
+			alt="Lighthouse Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white"
+			alt="Agile Methodologies Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Unit_Testing-14C213?style=for-the-badge&logo=testing-library&logoColor=white"
+			alt="Unit Testing Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Code_Review-000000?style=for-the-badge&logo=github&logoColor=white"
+			alt="Code Review Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/English_B2~C1-0052CC?style=for-the-badge&logo=duolingo&logoColor=white"
+			alt="English Proficiency Badge"
+		/>
 	</div>
 
 # 📦 GitHub Stats

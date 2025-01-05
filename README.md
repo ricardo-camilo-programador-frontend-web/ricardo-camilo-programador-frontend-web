@@ -12,7 +12,7 @@
       <ul>
         <li>
           <a
-            href="https://breath-natural-nextjs-chronicles-part1.netlify.app"
+            href="https://breath-natural-nextjs-chronicles.netlify.app"
             target="_blank"
             aria-label="Breath Natural NextJS Chronicles Part 1"
           >

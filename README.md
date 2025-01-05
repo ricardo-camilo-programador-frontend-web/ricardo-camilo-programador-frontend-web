@@ -384,22 +384,49 @@
 
 <div align="left">
   <a
-		href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/"
-		target="_blank"
-	>
+    href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/"
+    target="_blank"
+  >
     <img
-			src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    	alt="LinkedIn"
-		/>
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a
-		href="https://resume.io/r/4bDKkHLB9"
-		target="_blank"
-	>
+    href="https://resume.io/r/4bDKkHLB9"
+    target="_blank"
+  >
     <img
-			src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white"
+      src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white"
       alt="Resume"
-		/>
+    />
+  </a>
+  <a
+    href="https://x.com/Ricardo50993066"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="Twitter"
+    />
+  </a>
+  <a
+    href="https://www.99freelas.com.br/user/camillusbloodfallen-2"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/99Freelas-%2300B057.svg?style=for-the-badge&logo=99freelas&logoColor=white"
+      alt="99Freelas"
+    />
+  </a>
+  <a
+    href="https://www.workana.com/freelancer/7a5de74a4785b737b517d8746a01cd23"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/Workana-%23204ECF.svg?style=for-the-badge&logo=workana&logoColor=white"
+      alt="Workana"
+    />
   </a>
 </div>
 

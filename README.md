@@ -196,7 +196,7 @@
       width: 100%;
     ">
       <h3>
-        Em breve
+        Coming soon
       </h3>
     </div>
   </div>

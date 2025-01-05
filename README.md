@@ -113,7 +113,15 @@
           >
             Loor.vc
           </a>
-          <br>
+          <br><br>
+          <details>
+            <summary>Loor.vc Preview</summary>
+            <img
+              src="./assets/projects/loor.png"
+              alt="Loor.vc website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
           <div align="left">
             <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />

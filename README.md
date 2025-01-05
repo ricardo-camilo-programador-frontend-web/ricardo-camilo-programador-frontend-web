@@ -72,7 +72,7 @@
           >
             Labi9.com
           </a>
-          <br>
+          <br><br>
           <details>
             <summary>Labi9.com Preview</summary>
             <img

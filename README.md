@@ -113,6 +113,21 @@
             <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
           </div>
         </li>
+        <li>
+          <a
+            href="https://www.glbk.com.br/"
+            target="_blank"
+            aria-label="Global Liberty Bank"
+          >
+            Global Liberty Bank
+          </a>
+          <br>
+          <div align="left">
+            <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+            <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
+          </div>
+        </li>
       </ul>
     </div>
   </div>

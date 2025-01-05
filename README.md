@@ -421,24 +421,6 @@
     />
   </a>
   <a
-    href="https://resume.io/r/4bDKkHLB9"
-    target="_blank"
-  >
-    <img
-      src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white"
-      alt="Resume"
-    />
-  </a>
-  <a
-    href="https://x.com/Ricardo50993066"
-    target="_blank"
-  >
-    <img
-      src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="Twitter"
-    />
-  </a>
-  <a
     href="https://www.99freelas.com.br/user/ricardo-camilo-frontend-developer-typescript"
     target="_blank"
   >
@@ -454,6 +436,24 @@
     <img
       src="https://img.shields.io/badge/Workana-%23204ECF.svg?style=for-the-badge&logo=workana&logoColor=white"
       alt="Workana"
+    />
+  </a>
+  <a
+    href="https://resume.io/r/4bDKkHLB9"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white"
+      alt="Resume"
+    />
+  </a>
+  <a
+    href="https://x.com/Ricardo50993066"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="Twitter"
     />
   </a>
 </div>

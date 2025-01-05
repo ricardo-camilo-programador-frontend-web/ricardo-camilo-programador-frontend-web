@@ -81,7 +81,6 @@
               style="width: 100%; max-width: 300px; margin: 10px 0;"
             />
           </details>
-          <br>
           <div align="left">
             <img src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" />
             <img src="https://img.shields.io/badge/particles.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -146,7 +145,15 @@
           >
             Global Liberty Bank
           </a>
-          <br>
+          <br><br>
+          <details>
+            <summary>Global Liberty Bank Preview</summary>
+            <img
+              src="./assets/projects/glbk.png"
+              alt="Global Liberty Bank website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
           <div align="left">
             <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />

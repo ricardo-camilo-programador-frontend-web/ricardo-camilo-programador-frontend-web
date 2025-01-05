@@ -123,7 +123,15 @@
           >
             Painel.loor.vc - Financial Admin Dashboard
           </a>
-          <br>
+          <br><br>
+          <details>
+            <summary>Painel.loor.vc Preview</summary>
+            <img
+              src="./assets/projects/loor.png"
+              alt="Painel.loor.vc website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
           <div align="left">
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
             <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />

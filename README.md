@@ -227,6 +227,10 @@
 	gap: 10px;
 ">
 		<img
+			src="https://img.shields.io/badge/English_B2~C1-0052CC?style=for-the-badge&logo=duolingo&logoColor=white"
+			alt="English Proficiency Badge"
+		/>
+		<img
 			src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
 			alt="React Badge"
 		/>
@@ -365,10 +369,6 @@
 		<img
 			src="https://img.shields.io/badge/Code_Review-000000?style=for-the-badge&logo=github&logoColor=white"
 			alt="Code Review Badge"
-		/>
-		<img
-			src="https://img.shields.io/badge/English_B2~C1-0052CC?style=for-the-badge&logo=duolingo&logoColor=white"
-			alt="English Proficiency Badge"
 		/>
 	</div>
 

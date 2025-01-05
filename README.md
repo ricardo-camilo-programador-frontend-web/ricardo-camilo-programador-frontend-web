@@ -36,7 +36,15 @@
           >
             🍽️ Food Hut - Angular Chronicles - Part 1
           </a>
-          <br>
+          <br><br>
+          <details>
+            <summary>Food Hut Angular Chronicles Part 1 Preview</summary>
+            <img
+              src="./assets/projects/food-hut.png"
+              alt="Food Hut Angular Chronicles Part 1 website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
           <div align="left">
             <img height="28px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />

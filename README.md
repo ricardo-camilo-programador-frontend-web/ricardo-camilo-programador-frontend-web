@@ -127,7 +127,7 @@
           <details>
             <summary>Painel.loor.vc Preview</summary>
             <img
-              src="./assets/projects/loor.png"
+              src="./assets/projects/loor-admin.png"
               alt="Painel.loor.vc website preview"
               style="width: 100%; max-width: 300px; margin: 10px 0;"
             />

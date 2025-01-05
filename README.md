@@ -90,7 +90,7 @@
             />
           </details>
           <div align="left">
-            <img src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" />
+            <img src="https://img.shields.io/badge/QwikJs-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" />
             <img src="https://img.shields.io/badge/particles.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" />
             <img src="https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white" />
             <img src="https://img.shields.io/badge/Open_Graph-%234285F4.svg?style=for-the-badge&logo=opengraph&logoColor=white" />
@@ -119,7 +119,7 @@
           <div align="left">
             <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-            <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
+            <img src="https://img.shields.io/badge/astrojs-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
             <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
           </div>
         </li>
@@ -144,7 +144,7 @@
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
             <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-            <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
+            <img src="https://img.shields.io/badge/astrojs-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
           </div>
         </li>
         <li>
@@ -167,7 +167,7 @@
           <div align="left">
             <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-            <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
+            <img src="https://img.shields.io/badge/astrojs-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
           </div>
         </li>
         <li>
@@ -243,7 +243,7 @@
 			alt="Nuxt.js Badge"
 		/>
 		<img
-			src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"
+			src="https://img.shields.io/badge/astrojs-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"
 			alt="Astro Badge"
 		/>
 		<img
@@ -303,7 +303,7 @@
 			alt="Figma Badge"
 		/>
 		<img
-			src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white"
+			src="https://img.shields.io/badge/QwikJs-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white"
 			alt="Qwik Badge"
 		/>
 		<img

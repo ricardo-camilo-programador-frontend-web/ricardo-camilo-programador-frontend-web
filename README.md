@@ -66,6 +66,22 @@
       <ul>
         <li>
           <a
+            href="https://labi9.com/"
+            target="_blank"
+            aria-label="Labi9.com"
+          >
+            Labi9.com
+          </a>
+          <br>
+          <div align="left">
+            <img src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" />
+            <img src="https://img.shields.io/badge/particles.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+            <img src="https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white" />
+            <img src="https://img.shields.io/badge/Open_Graph-%234285F4.svg?style=for-the-badge&logo=opengraph&logoColor=white" />
+          </div>
+        </li>
+        <li>
+          <a
             href="https://tippbank.com.br/"
             target="_blank"
             aria-label="Tippbank.com.br"

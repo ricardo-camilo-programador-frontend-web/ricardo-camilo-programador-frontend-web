@@ -118,6 +118,24 @@
   </div>
 </details>
 
+<h3>Freelance Projects</h3>
+<details>
+  <summary>Freelance Projects</summary>
+  <div>
+    <div style="
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      min-width: 17rem;
+      width: 100%;
+    ">
+      <h3>
+        Em breve
+      </h3>
+    </div>
+  </div>
+</details>
+
 
 # 💻 Tech Stack
 

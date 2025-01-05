@@ -1,6 +1,6 @@
 <h3>Personal Study Projects</h3>
 <details>
-  <summary>Study Projects</summary>
+  <summary>Study Projects for Web Development</summary>
   <div>
     <div style="
       display: grid;

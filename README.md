@@ -90,31 +90,6 @@
         </li>
         <li>
           <a
-            href="https://tippbank.com.br/"
-            target="_blank"
-            aria-label="Tippbank.com.br"
-          >
-            Tippbank.com.br
-          </a>
-          <br><br>
-          <details>
-            <summary>Tippbank.com.br Preview</summary>
-            <img
-              src="./assets/projects/tippbank.png"
-              alt="Tippbank.com.br website preview"
-              style="width: 100%; max-width: 300px; margin: 10px 0;"
-            />
-          </details>
-          <div align="left">
-            <img src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-            <img src="https://img.shields.io/badge/Windicss-%2338B2AC.svg?style=for-the-badge&logo=windicss&logoColor=white" />
-            <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-            <img src="https://img.shields.io/badge/vueuse-%2338B2AC.svg?style=for-the-badge&logo=vue.js&logoColor=white" />
-          </div>
-        </li>
-        <li>
-          <a
             href="https://loor.vc/"
             target="_blank"
             aria-label="Loor.vc"
@@ -174,6 +149,31 @@
             <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
             <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
             <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
+          </div>
+        </li>
+        <li>
+          <a
+            href="https://tippbank.com.br/"
+            target="_blank"
+            aria-label="Tippbank.com.br"
+          >
+            Tippbank.com.br
+          </a>
+          <br><br>
+          <details>
+            <summary>Tippbank.com.br Preview</summary>
+            <img
+              src="./assets/projects/tippbank.png"
+              alt="Tippbank.com.br website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
+          <div align="left">
+            <img src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+            <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+            <img src="https://img.shields.io/badge/Windicss-%2338B2AC.svg?style=for-the-badge&logo=windicss&logoColor=white" />
+            <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+            <img src="https://img.shields.io/badge/vueuse-%2338B2AC.svg?style=for-the-badge&logo=vue.js&logoColor=white" />
           </div>
         </li>
       </ul>

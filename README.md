@@ -73,6 +73,12 @@
             Labi9.com
           </a>
           <br>
+          <img
+            src="./assets/projects/labi9.png"
+            alt="Labi9 website preview"
+            style="width: 100%; max-width: 300px; margin: 10px 0;"
+          />
+          <br>
           <div align="left">
             <img src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" />
             <img src="https://img.shields.io/badge/particles.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -166,7 +172,6 @@
     </div>
   </div>
 </details>
-
 
 # 💻 Tech Stack
 
@@ -266,9 +271,8 @@
 </div>
 </div>
 
-
-
 # 🌟 Core Principles
+
 - 📱 Mobile-First Development
 - ♿ WCAG Accessibility Standards
 - 🎯 Clean & Maintainable Code
@@ -297,7 +301,6 @@
 		/>
   </a>
 </div>
-
 
 #
 

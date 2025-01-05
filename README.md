@@ -302,6 +302,30 @@
 			src="https://img.shields.io/badge/vueuse-%2338B2AC.svg?style=for-the-badge&logo=vue.js&logoColor=white"
 			alt="VueUse Badge"
 		/>
+		<img
+			src="https://img.shields.io/badge/particles.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white"
+			alt="Particles.js Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white"
+			alt="PWA Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Open_Graph-%234285F4.svg?style=for-the-badge&logo=opengraph&logoColor=white"
+			alt="Open Graph Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft&logoColor=white"
+			alt="Microsoft Clarity Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white"
+			alt="Google Tag Manager Badge"
+		/>
+		<img
+			src="https://img.shields.io/badge/Google_Analytics-%23E37400.svg?style=for-the-badge&logo=google-analytics&logoColor=white"
+			alt="Google Analytics Badge"
+		/>
 	</div>
 
 # 📦 GitHub Stats

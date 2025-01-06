@@ -18,7 +18,15 @@
           >
             🪴 Breath Natural - NextJS Chronicles Part 1 <- On Going
           </a>
-          <br>
+          <br><br>
+          <details>
+            <summary>Breath Natural NextJS Chronicles Part 1 Preview</summary>
+            <img
+              src="./assets/projects/breath-natural.png"
+              alt="Breath Natural NextJS Chronicles Part 1 website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
           <div align="left">
             <img height="28px" alt="NextJS" src="https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white">
             <img height="28px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">

@@ -1,4 +1,4 @@
-<h3 align="center" style="color: #2563eb; font-size: 2rem; margin: 2rem 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">Frontend Developer Specialist in React/Next.js 🚀</h3>
+<h3 align="center" style="color: #2563eb; font-size: 2rem; margin: 2rem 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">Frontend Developer Specialist in Vue.js & Nuxt 🚀</h3>
 
 <details style="margin: 2rem 0; border: 1px solid #e5e7eb; padding: 1rem; border-radius: 8px; background: #f8fafc;">
   <summary style="cursor: pointer; color: #2563eb; font-size: 1.5rem; font-weight: bold;">
@@ -25,6 +25,7 @@
               style="width: 100%; max-width: 300px; margin: 10px 0;"
             />
           </details>
+          <br>
           <div align="left">
             <img height="28px" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
             <img height="28px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -50,6 +51,7 @@
               style="width: 100%; max-width: 300px; margin: 10px 0;"
             />
           </details>
+          <br>
           <div align="left">
             <img height="28px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
             <img height="28px" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -64,7 +66,7 @@
 <h3 style="color: #2563eb; font-size: 1.5rem; margin: 2rem 0;">🔧 Specialties</h3>
 
 <ul style="list-style: none; padding: 0;">
-  <li style="margin: 0.5rem 0; padding: 0.5rem; background: #f8fafc; border-radius: 6px;">🎯 Frontend Development (React, Next.js)</li>
+  <li style="margin: 0.5rem 0; padding: 0.5rem; background: #f8fafc; border-radius: 6px;">🎯 Frontend Development (Vue.js, Nuxt)</li>
   <li style="margin: 0.5rem 0; padding: 0.5rem; background: #f8fafc; border-radius: 6px;">💻 TypeScript & JavaScript Expert</li>
   <li style="margin: 0.5rem 0; padding: 0.5rem; background: #f8fafc; border-radius: 6px;">🎨 UI/UX & Design Systems</li>
   <li style="margin: 0.5rem 0; padding: 0.5rem; background: #f8fafc; border-radius: 6px;">⚡ Performance Optimization</li>
@@ -88,7 +90,7 @@
 
 <h3 style="color: #2563eb; font-size: 1.5rem; margin: 2rem 0;">🌱 Currently Studying</h3>
 <div style="margin: 1rem 0;">
-  <img src="https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 </div>
 
 <div style="text-align: center; margin: 3rem 0; padding: 2rem; background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px;">

@@ -85,6 +85,11 @@
 
 ### 📊 Loor.vc Admin Dashboard
 
+<details>
+<summary>Project Preview</summary>
+<img src="./assets/projects/loor-admin.png" alt="Loor.vc Admin Dashboard website preview" width="300"/>
+</details>
+
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://painel.loor.vc/investor/login)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

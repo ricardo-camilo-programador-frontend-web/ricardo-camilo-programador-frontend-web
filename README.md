@@ -196,3 +196,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ricardo564&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
+
+## 🎓 Certificates
+
+### 🌐 English Proficiency - EF SET
+[![EF SET English Certificate](https://img.shields.io/badge/EF_SET-C1_Advanced-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARUlEQVR4nGNgGAWMDAwM/6Hs/0TMYIQy/xPDpxgYGP5DnUgxALKBYmMYGBj+4zIFm7EMDAz/ceqB8SlzKsVOpTiVRgEDAwMAuO4Q3uB2AR0AAAAASUVORK5CYII=)](https://cert.efset.org/pt/75Zscf)
+
+- **Score:** 66/100 (C1 Advanced)
+- **Reading:** 72/100 (C2 Mastery)
+- **Listening:** 60/100 (B2 Independent)
+- **Valid until:** January 10, 2025

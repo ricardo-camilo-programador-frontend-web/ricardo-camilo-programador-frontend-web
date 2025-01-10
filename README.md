@@ -380,34 +380,6 @@
 		/>
 	</div>
 
-# 📦 GitHub Stats
-
-<div
-	align="center"
-	style="width: 100%;"
->
-  <img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo564&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-		style="width: 100%;"
-	/>
-
-<div align="center">
-  <img
-		width="49%"
-		height="195px"
-		src="https://github-readme-stats.vercel.app/api?username=ricardo564&show_icons=true&count_private=true&hide_border=true&title_color=dcdcdc&icon_color=dcdcdc&text_color=5289ab&theme=transparent&border_radius=10"
-		alt="Ricardo Camilo's GitHub Stats"
-	/>
-  <img
-		width="41%"
-		height="195px"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo564&layout=compact&hide_border=true&title_color=dcdcdc&text_color=5a94b8&theme=transparent&border_radius=10"
-		alt="Ricardo Camilo's Most Used Languages"
-	/>
-</div>
-</div>
-
 # 🌟 Core Principles
 
 - 📱 Mobile-First Development
@@ -488,6 +460,34 @@
 </div>
 
 ---
+
+# 📦 GitHub Stats
+
+<div
+	align="center"
+	style="width: 100%;"
+>
+  <img
+		src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo564&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+		style="width: 100%;"
+	/>
+
+<div align="center">
+  <img
+		width="49%"
+		height="195px"
+		src="https://github-readme-stats.vercel.app/api?username=ricardo564&show_icons=true&count_private=true&hide_border=true&title_color=dcdcdc&icon_color=dcdcdc&text_color=5289ab&theme=transparent&border_radius=10"
+		alt="Ricardo Camilo's GitHub Stats"
+	/>
+  <img
+		width="41%"
+		height="195px"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo564&layout=compact&hide_border=true&title_color=dcdcdc&text_color=5a94b8&theme=transparent&border_radius=10"
+		alt="Ricardo Camilo's Most Used Languages"
+	/>
+</div>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ricardo564&label=Profile%20views&color=0e75b6&style=flat"

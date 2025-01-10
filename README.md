@@ -175,6 +175,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" />
+</p>
+
 ## 🌱 Currently Studying
 
 ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white)

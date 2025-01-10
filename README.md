@@ -4,8 +4,8 @@
   <div>
     <div style="
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 20px;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
       min-width: 17rem;
       width: 100%;
     ">

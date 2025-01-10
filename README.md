@@ -2,7 +2,7 @@
   <h3>Personal Study Projects</h3>
   <div style="
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 2rem;
     padding: 1rem;
   ">

@@ -7,7 +7,8 @@
 ">
   <div style="
     border: 1px solid #30363d;
-    border-radius: 8px;
+    border-radius: 1px;
+    border-radius: 2%;
     padding: 1.5rem;
     background: rgba(255, 255, 255, 0.05);
   ">
@@ -100,7 +101,8 @@
 
   <div style="
     border: 1px solid #30363d;
-    border-radius: 8px;
+    border-radius: 1px;
+    border-radius: 2%;
     padding: 1.5rem;
     background: rgba(255, 255, 255, 0.05);
   ">

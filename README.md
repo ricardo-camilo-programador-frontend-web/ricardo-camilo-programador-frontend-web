@@ -61,7 +61,7 @@
             aria-label="Food Hut Angular Chronicles Part 1 Repository"
             style="color: #2563eb; font-size: 1.2rem; font-weight: bold; text-decoration: none; transition: color 0.3s;"
           >
-            🚀 Food Hut - Angular Chronicles - Part 1 Repository
+            🚀 Food Hut - Repository
           </a>
           <br><br>
           <details>

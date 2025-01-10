@@ -1,69 +1,168 @@
 <h3>Personal Study Projects</h3>
-<details>
-  <summary>Study Projects for Web Development</summary>
-  <div>
-    <div style="
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 2rem;
-      min-width: 17rem;
-      width: 100%;
-    ">
-      <ul>
-        <li>
-          <a
-            href="https://breath-natural-nextjs-chronicles.netlify.app"
-            target="_blank"
-            aria-label="Breath Natural NextJS Chronicles Part 1"
-          >
-            🪴 Breath Natural - NextJS Chronicles Part 1 <- On Going
-          </a>
-          <br><br>
-          <details>
-            <summary>Breath Natural NextJS Chronicles Part 1 Preview</summary>
-            <img
-              src="./assets/projects/breath-natural-nextjs.png"
-              alt="Breath Natural NextJS Chronicles Part 1 website preview"
-              style="width: 100%; max-width: 300px; margin: 10px 0;"
-            />
-          </details>
-          <div align="left">
-            <img height="28px" alt="NextJS" src="https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white">
-            <img height="28px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-            <img height="28px" alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-            <img height="28px" alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
-            <img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-          </div>
-        </li>
-        <li>
-          <a
-            href="https://food-hut-angular-chronicles-1.netlify.app/"
-            target="_blank"
-            aria-label="Food Hut Angular Chronicles Part 1"
-          >
-            🍽️ Food Hut - Angular Chronicles - Part 1
-          </a>
-          <br><br>
-          <details>
-            <summary>Food Hut Angular Chronicles Part 1 Preview</summary>
-            <img
-              src="./assets/projects/food-hut.png"
-              alt="Food Hut Angular Chronicles Part 1 website preview"
-              style="width: 100%; max-width: 300px; margin: 10px 0;"
-            />
-          </details>
-          <div align="left">
-            <img height="28px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-            <img height="28px" alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
-            <img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-          </div>
-        </li>
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 1rem;
+">
+  <div style="
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.05);
+  ">
+    <h4
+      style="
+        margin: 0 0 1rem 0;
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: #1B2316;
+        max-width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      "
+    >
+      🪴 Breath Natural - NextJS Chronicles
+    </h4>
+    <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
+      <img
+        src="./assets/projects/breath-natural-nextjs.png"
+        alt="Breath Natural website preview"
+        style="
+          width: 100%;
+          height: 200px;
+          object-fit: cover;
+          object-position: top;
+          border: 1px solid #1B2316;
+          border-radius: 4px;
+          margin-bottom: 1rem;
+        "
+      />
+    </a>
+    <div style="margin-bottom: 1rem;">
+      <a
+        href="https://breath-natural-nextjs-chronicles.netlify.app"
+        target="_blank"
+        style="
+          display: inline-block;
+          padding: 0.5rem 1rem;
+          background: #0070f3;
+          color: white;
+          text-decoration: none;
+          border: 1px solid #0070f3;
+          border-radius: 4px;
+          margin-bottom: 1rem;
+          transition: background 0.3s ease;
+        "
+        onMouseOver="this.style.backgroundColor='#0052cc'"
+        onMouseOut="this.style.backgroundColor='#0070f3'"
+        title="Click to view the Breath Natural project"
+        aria-label="Click to view the Breath Natural project"
+      >
+        View Project →
+      </a>
+    </div>
+    <div style="margin-bottom: 1rem;">
+      <img
+        height="28px" alt="NextJS"
+        src="https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white"
+      >
+      <img
+        height="28px"
+        alt="TypeScript"
+        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+      >
+      <img
+        src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      >
+      <img
+        height="28px"
+        alt="Axios"
+        src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"
+      >
+    </div>
+    <div>
+      <h5 style="margin: 0 0 0.5rem 0;">What I Learned:</h5>
+      <ul style="
+        margin: 0;
+        padding-left: 1.2rem;
+        list-style-type: disc;
+      ">
+        <li>Next.js 14 App Router implementation</li>
+        <li>Server and Client Components</li>
+        <li>API Route Handlers</li>
+        <li>Server Actions</li>
+        <li>Advanced TypeScript patterns</li>
       </ul>
     </div>
   </div>
-</details>
+
+  <div style="
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.05);
+  ">
+    <h4 style="margin: 0 0 1rem 0;">🍽️ Food Hut - Angular Chronicles</h4>
+    <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
+      <img
+        src="./assets/projects/food-hut.png"
+        alt="Food Hut website preview"
+        style="
+          width: 100%;
+          height: 200px;
+          object-fit: cover;
+          object-position: top;
+          border: 1px solid #dd0031;
+          border-radius: 4px;
+          margin-bottom: 1rem;
+        "
+      />
+    </a>
+    <div style="margin-bottom: 1rem;">
+      <a
+        href="https://food-hut-angular-chronicles-1.netlify.app/"
+        target="_blank"
+        style="
+          display: inline-block;
+          padding: 0.5rem 1rem;
+          background: #dd0031;
+          color: white;
+          text-decoration: none;
+          border-radius: 4px;
+          margin-bottom: 1rem;
+          transition: background 0.3s ease;
+        "
+        onMouseOver="this.style.backgroundColor='#8b0000'"
+        onMouseOut="this.style.backgroundColor='#dd0031'"
+        title="Click to view the Food Hut project"
+        aria-label="Click to view the Food Hut project"
+      >
+        View Project →
+      </a>
+    </div>
+    <div style="margin-bottom: 1rem;">
+      <img height="28px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img height="28px" alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
+    </div>
+    <div>
+      <h5 style="margin: 0 0 0.5rem 0;">What I Learned:</h5>
+      <ul style="
+        margin: 0;
+        padding-left: 1.2rem;
+        list-style-type: disc;
+      ">
+        <li>Angular 17 new features</li>
+        <li>Signals and computed values</li>
+        <li>Control flow syntax</li>
+        <li>Standalone components</li>
+        <li>Performance optimization techniques</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 <h3>Collaborations</h3>
 <details>

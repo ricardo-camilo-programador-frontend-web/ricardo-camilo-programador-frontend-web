@@ -1,14 +1,4 @@
-<main
-  style="
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    min-height: 100vh;
-    padding: 1rem;
-    border-radius: 8px;
-    background-color: #f0f0f0;
-    color: #1B2316;
-  "
->
+
   <h3>Personal Study Projects</h3>
   <div style="
     display: grid;
@@ -618,4 +608,3 @@
     <img src="https://komarev.com/ghpvc/?username=ricardo564&label=Profile%20views&color=0e75b6&style=flat"
     alt="profile views" />
   </div>
-</main>

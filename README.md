@@ -132,6 +132,13 @@
 
 </details>
 
+<details>
+<summary><h3>Freelance Projects</h3></summary>
+
+Coming Soon...
+
+</details>
+
 ## 🔧 Specialties
 
 - 🎯 Frontend Development (Vue, Javascript Frameworks)
@@ -192,7 +199,7 @@
 ---
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ricardo564&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>

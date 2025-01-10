@@ -142,41 +142,24 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />&nbsp;
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt.js Badge" />&nbsp;
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge" />&nbsp;
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="Vuetify Badge" />&nbsp;
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" />&nbsp;
   <img src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" alt="Qwik Badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID Badge" />&nbsp;
   <img src="https://img.shields.io/badge/CLEAN_CODE-000000?style=for-the-badge&logo=clean-code&logoColor=white" alt="CLEAN CODE Badge" />&nbsp;
   <img src="https://img.shields.io/badge/PERFORMANCE-000000?style=for-the-badge&logo=performance&logoColor=white" alt="PERFORMANCE Badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/DATA--DRIVEN-000000?style=for-the-badge" alt="DATA-DRIVEN Badge" />&nbsp;
   <img src="https://img.shields.io/badge/MOBILE--FIRST-000000?style=for-the-badge" alt="MOBILE-FIRST Badge" />&nbsp;
   <img src="https://img.shields.io/badge/ACCESSIBILITY-000000?style=for-the-badge" alt="ACCESSIBILITY Badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/CROSS--BROWSER-000000?style=for-the-badge" alt="CROSS-BROWSER Badge" />&nbsp;
   <img src="https://img.shields.io/badge/RESPONSIVE-000000?style=for-the-badge" alt="RESPONSIVE Badge" />&nbsp;
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />&nbsp;
   <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm Badge" />&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" alt="REST API Badge" />
 </p>
 
 ## 🌱 Currently Studying

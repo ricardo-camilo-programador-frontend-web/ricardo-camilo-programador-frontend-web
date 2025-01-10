@@ -22,7 +22,7 @@
           <details>
             <summary>Breath Natural NextJS Chronicles Part 1 Preview</summary>
             <img
-              src="./assets/projects/breath-natural-nextjs.png"
+              src="./assets/projects/breath-natural.png"
               alt="Breath Natural NextJS Chronicles Part 1 website preview"
               style="width: 100%; max-width: 300px; margin: 10px 0;"
             />

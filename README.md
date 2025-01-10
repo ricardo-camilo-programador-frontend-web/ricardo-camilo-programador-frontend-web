@@ -7,15 +7,15 @@
 <details>
 <summary><h3>Personal Projects</h3></summary>
 
-<details>
-<summary><h4>🪴 Breath Natural</h4></summary>
-  [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://breath-natural-nextjs-chronicles.netlify.app)
-  [![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/nextjs-chronicles-part-1)
+### 🪴 Breath Natural
 
-  <details>
-  <summary>Project Preview</summary>
-  <img src="./assets/projects/breath-natural.png" alt="Breath Natural NextJS Chronicles Part 1 website preview" width="300"/>
-  </details>
+[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://breath-natural-nextjs-chronicles.netlify.app)
+[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/nextjs-chronicles-part-1)
+
+<details>
+<summary>Project Preview</summary>
+<img src="./assets/projects/breath-natural.png" alt="Breath Natural NextJS Chronicles Part 1 website preview" width="300"/>
+</details>
 
 ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,19 +24,17 @@
 ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</details>
-
 ---
 
-<details>
-<summary><h4>🍽️ Food Hut</h4></summary>
-  [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://food-hut-angular-chronicles-1.netlify.app/)
-  [![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/angular-chronicles-part-1)
+### 🍽️ Food Hut
 
-  <details>
-  <summary>Project Preview</summary>
-  <img src="./assets/projects/food-hut.png" alt="Food Hut Angular Chronicles Part 1 website preview" width="300"/>
-  </details>
+[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://food-hut-angular-chronicles-1.netlify.app/)
+[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/angular-chronicles-part-1)
+
+<details>
+<summary>Project Preview</summary>
+<img src="./assets/projects/food-hut.png" alt="Food Hut Angular Chronicles Part 1 website preview" width="300"/>
+</details>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -44,8 +42,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
-</details>
----
 
 <details>
 <summary><h3>Corporative Projects</h3></summary>
@@ -211,7 +207,6 @@ Coming Soon...
 ## 🎓 Certificates
 
 ### 🌐 English Proficiency - EF SET
-
 [![EF SET English Certificate](https://img.shields.io/badge/EF_SET-C1_Advanced-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARUlEQVR4nGNgGAWMDAwM/6Hs/0TMYIQy/xPDpxgYGP5DnUgxALKBYmMYGBj+4zIFm7EMDAz/ceqB8SlzKsVOpTiVRgEDAwMAuO4Q3uB2AR0AAAAASUVORK5CYII=)](https://cert.efset.org/pt/75Zscf)
 
 - **Score:** 66/100 (C1 Advanced)

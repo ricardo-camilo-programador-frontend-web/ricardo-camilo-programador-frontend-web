@@ -5,7 +5,7 @@
 </div>
 
 <details>
-<summary><h3>Featured Projects</h3></summary>
+<summary><h3>Personal Projects</h3></summary>
 
 ### 🪴 Breath Natural
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://breath-natural-nextjs-chronicles.netlify.app)

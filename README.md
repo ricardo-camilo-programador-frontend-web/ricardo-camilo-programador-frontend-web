@@ -48,6 +48,7 @@
 
 <details>
   <summary>Corporative Projects  with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
+
 ### 🏢 Labi9.com
 
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://labi9.com/)

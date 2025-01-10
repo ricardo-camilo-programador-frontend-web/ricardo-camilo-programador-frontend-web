@@ -8,6 +8,7 @@
 <summary><h3>Personal Projects</h3></summary>
 
 ### 🪴 Breath Natural
+
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://breath-natural-nextjs-chronicles.netlify.app)
 [![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/nextjs-chronicles-part-1)
 
@@ -26,6 +27,7 @@
 ---
 
 ### 🍽️ Food Hut
+
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://food-hut-angular-chronicles-1.netlify.app/)
 [![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/angular-chronicles-part-1)
 
@@ -41,11 +43,13 @@
 
 </details>
 
-
 <details>
 <summary><h3>Corporative Projects</h3></summary>
 
+<details>
+  <summary>Corporative Projects  with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
 ### 🏢 Labi9.com
+
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://labi9.com/)
 
 <details>
@@ -64,6 +68,7 @@
 ---
 
 ### 💰 Loor.vc
+
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://loor.vc/)
 
 <details>
@@ -78,6 +83,7 @@
 ---
 
 ### 📊 Loor.vc Admin Dashboard
+
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://painel.loor.vc/investor/login)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -88,6 +94,7 @@
 ---
 
 ### 🏦 Global Liberty Bank
+
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://www.glbk.com.br/)
 
 <details>
@@ -102,6 +109,7 @@
 ---
 
 ### 💳 Tippbank
+
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://tippbank.com.br/)
 
 <details>
@@ -116,6 +124,7 @@
 
 </details>
 
+</details>
 
 ## 🔧 Specialties
 

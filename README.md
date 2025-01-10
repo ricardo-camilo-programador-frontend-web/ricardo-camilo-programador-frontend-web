@@ -205,4 +205,3 @@
 - **Score:** 66/100 (C1 Advanced)
 - **Reading:** 72/100 (C2 Mastery)
 - **Listening:** 60/100 (B2 Independent)
-- **Valid until:** January 10, 2025

@@ -4,74 +4,63 @@
   <div>
     <div style="
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 2rem;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      min-width: 17rem;
       width: 100%;
     ">
-      <div class="project-card">
-        <h4>🪴 Breath Natural - NextJS Chronicles</h4>
-
-        <img
-          src="./assets/projects/breath-natural-nextjs.png"
-          alt="Breath Natural NextJS Chronicles website preview"
-          style="width: 100%; border-radius: 8px; margin: 1rem 0;"
-        />
-
-        <div class="project-links" style="margin: 1rem 0;">
-          <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">🔗 Live Demo</a> |
-          <a href="https://github.com/your-repo-link" target="_blank">📂 Repository</a>
-        </div>
-
-        <div class="tech-stack" style="margin: 1rem 0;">
-          <img height="28px" alt="NextJS" src="https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white">
-          <img height="28px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-          <img height="28px" alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-        </div>
-
-        <div class="learnings">
-          <h5>Key Learnings:</h5>
-          <ul>
-            <li>Next.js 14 App Router implementation</li>
-            <li>Server & Client Components optimization</li>
-            <li>TypeScript strict type safety</li>
-            <li>Tailwind CSS responsive design</li>
-            <li>API integration with Axios</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="project-card">
-        <h4>🍽️ Food Hut - Angular Chronicles</h4>
-
-        <img
-          src="./assets/projects/food-hut.png"
-          alt="Food Hut Angular Chronicles website preview"
-          style="width: 100%; border-radius: 8px; margin: 1rem 0;"
-        />
-
-        <div class="project-links" style="margin: 1rem 0;">
-          <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">🔗 Live Demo</a> |
-          <a href="https://github.com/your-repo-link" target="_blank">📂 Repository</a>
-        </div>
-
-        <div class="tech-stack" style="margin: 1rem 0;">
-          <img height="28px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-          <img height="28px" alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
-        </div>
-
-        <div class="learnings">
-          <h5>Key Learnings:</h5>
-          <ul>
-            <li>Angular 17 new features</li>
-            <li>Signal-based state management</li>
-            <li>Control Flow syntax</li>
-            <li>Standalone Components</li>
-            <li>Performance optimization techniques</li>
-          </ul>
-        </div>
-      </div>
+      <ul>
+        <li>
+          <a
+            href="https://breath-natural-nextjs-chronicles.netlify.app"
+            target="_blank"
+            aria-label="Breath Natural NextJS Chronicles Part 1"
+          >
+            🪴 Breath Natural - NextJS Chronicles Part 1 <- On Going
+          </a>
+          <br><br>
+          <details>
+            <summary>Breath Natural NextJS Chronicles Part 1 Preview</summary>
+            <img
+              src="./assets/projects/breath-natural-nextjs.png"
+              alt="Breath Natural NextJS Chronicles Part 1 website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
+          <div align="left">
+            <img height="28px" alt="NextJS" src="https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white">
+            <img height="28px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+            <img height="28px" alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+            <img height="28px" alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
+            <img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+          </div>
+        </li>
+        <li>
+          <a
+            href="https://food-hut-angular-chronicles-1.netlify.app/"
+            target="_blank"
+            aria-label="Food Hut Angular Chronicles Part 1"
+          >
+            🍽️ Food Hut - Angular Chronicles - Part 1
+          </a>
+          <br><br>
+          <details>
+            <summary>Food Hut Angular Chronicles Part 1 Preview</summary>
+            <img
+              src="./assets/projects/food-hut.png"
+              alt="Food Hut Angular Chronicles Part 1 website preview"
+              style="width: 100%; max-width: 300px; margin: 10px 0;"
+            />
+          </details>
+          <div align="left">
+            <img height="28px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+            <img height="28px" alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
+            <img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+          </div>
+        </li>
+      </ul>
     </div>
   </div>
 </details>
@@ -393,27 +382,30 @@
 
 # 📦 GitHub Stats
 
+<div
+	align="center"
+	style="width: 100%;"
+>
+  <img
+		src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo564&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+		style="width: 100%;"
+	/>
+
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo564&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-    style="width: 100%;"
-  />
-
-  <div>
-    <img
-      width="49%"
-      height="195px"
-      src="https://github-readme-stats.vercel.app/api?username=ricardo564&show_icons=true&count_private=true&hide_border=true&title_color=dcdcdc&icon_color=dcdcdc&text_color=5289ab&theme=transparent&border_radius=10"
-      alt="Ricardo Camilo's GitHub Stats"
-    />
-    <img
-      width="41%"
-      height="195px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo564&layout=compact&hide_border=true&title_color=dcdcdc&text_color=5a94b8&theme=transparent&border_radius=10"
-      alt="Ricardo Camilo's Most Used Languages"
-    />
-  </div>
+		width="49%"
+		height="195px"
+		src="https://github-readme-stats.vercel.app/api?username=ricardo564&show_icons=true&count_private=true&hide_border=true&title_color=dcdcdc&icon_color=dcdcdc&text_color=5289ab&theme=transparent&border_radius=10"
+		alt="Ricardo Camilo's GitHub Stats"
+	/>
+  <img
+		width="41%"
+		height="195px"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo564&layout=compact&hide_border=true&title_color=dcdcdc&text_color=5a94b8&theme=transparent&border_radius=10"
+		alt="Ricardo Camilo's Most Used Languages"
+	/>
+</div>
 </div>
 
 # 🌟 Core Principles
@@ -498,8 +490,6 @@
 ---
 
 <div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=ricardo564&label=Profile%20views&color=0e75b6&style=flat"
-    alt="profile views" 
-  />
+  <img src="https://komarev.com/ghpvc/?username=ricardo564&label=Profile%20views&color=0e75b6&style=flat"
+  alt="profile views" />
 </div>

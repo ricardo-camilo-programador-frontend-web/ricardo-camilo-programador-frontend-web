@@ -27,7 +27,7 @@
           </a>
           <br><br>
           <details>
-            <summary>Breath Natural NextJS Chronicles Part 1 Preview</summary>
+            <summary>Breath Natural NextJS Chronicles Part 1 Photo Preview</summary>
             <img
               src="./assets/projects/breath-natural.png"
               alt="Breath Natural NextJS Chronicles Part 1 website preview"
@@ -65,7 +65,7 @@
           </a>
           <br><br>
           <details>
-            <summary>Food Hut Angular Chronicles Part 1 Preview</summary>
+            <summary>Food Hut Angular Chronicles Part 1 Photo Preview</summary>
             <img
               src="./assets/projects/food-hut.png"
               alt="Food Hut Angular Chronicles Part 1 website preview"

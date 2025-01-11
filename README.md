@@ -7,7 +7,7 @@
 <details>
 <summary><h3>Personal Projects</h3></summary>
 
-### 🪴 Breath Natural
+### 🪴Breath Natural - NestJS Chronicles Part 1
 
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://breath-natural-nextjs-chronicles.netlify.app)
 [![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/nextjs-chronicles-part-1)
@@ -26,7 +26,7 @@
 
 ---
 
-### 🍽️ Food Hut
+### 🍽️ Food Hut - Angular Chronicles - Part 1
 
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://food-hut-angular-chronicles-1.netlify.app/)
 [![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/angular-chronicles-part-1)

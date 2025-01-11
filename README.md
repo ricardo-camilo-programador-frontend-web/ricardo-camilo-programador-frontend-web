@@ -25,7 +25,7 @@
 
 ---
 
-### 🪴Breath Natural - NestJS Chronicles Part 1
+### 🪴Breath Natural - NextJS Chronicles Part 1
 
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://breath-natural-nextjs-chronicles.netlify.app)
 [![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/nextjs-chronicles-part-1)
@@ -194,7 +194,6 @@ Coming Soon...
   <img src="https://img.shields.io/badge/ACCESSIBILITY-000000?style=for-the-badge" alt="ACCESSIBILITY Badge" />
   <img src="https://img.shields.io/badge/CROSS--BROWSER-000000?style=for-the-badge" alt="CROSS-BROWSER Badge" />&nbsp;
   <img src="https://img.shields.io/badge/RESPONSIVE-000000?style=for-the-badge" alt="RESPONSIVE Badge" />&nbsp;
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />&nbsp;
   <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm Badge" />&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />

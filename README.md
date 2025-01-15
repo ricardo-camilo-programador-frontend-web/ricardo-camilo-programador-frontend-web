@@ -221,6 +221,8 @@ Coming Soon...
 
 ![Visitor Count](https://profile-counter.glitch.me/ricardo-camilo-programador-frontend-web/count.svg)
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ricardo-camilo-programador-frontend-web)
+
 </div>
 
 ## 🎓 Certificates

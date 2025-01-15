@@ -219,10 +219,6 @@ Coming Soon...
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ricardo-camilo-programador-frontend-web&label=Profile%20views&color=0e75b6&style=flat)
 
-![Visitor Count](https://profile-counter.glitch.me/ricardo-camilo-programador-frontend-web/count.svg)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ricardo-camilo-programador-frontend-web)
-
 </div>
 
 ## 🎓 Certificates

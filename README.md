@@ -10,7 +10,7 @@
 ### 🎭 Persona - NextJS Chronicles Part 2
 
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://persona-nextjs-chronicles-2.netlify.app)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/nextjs-chronicles-part-2)
+[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2)
 
 <details>
 <summary>Project Preview</summary>
@@ -28,7 +28,7 @@
 ### 🪴Breath Natural - NextJS Chronicles Part 1
 
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://breath-natural-nextjs-chronicles.netlify.app)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/nextjs-chronicles-part-1)
+[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-1)
 
 <details>
 <summary>Project Preview</summary>
@@ -47,7 +47,7 @@
 ### 🍽️ Food Hut - Angular Chronicles - Part 1
 
 [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://food-hut-angular-chronicles-1.netlify.app/)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo564/angular-chronicles-part-1)
+[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1)
 
 <details>
 <summary>Project Preview</summary>
@@ -217,7 +217,9 @@ Coming Soon...
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ricardo564&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ricardo-camilo-programador-frontend-web&label=Profile%20views&color=0e75b6&style=flat)
+
+![Visitor Count](https://profile-counter.glitch.me/ricardo-camilo-programador-frontend-web/count.svg)
 
 </div>
 

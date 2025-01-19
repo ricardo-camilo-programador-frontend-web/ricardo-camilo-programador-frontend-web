@@ -247,3 +247,9 @@ Coming Soon...
 - **Score:** 66/100 (C1 Advanced)
 - **Reading:** 72/100 (C2 Mastery)
 - **Listening:** 60/100 (B2 Independent)
+
+## ☕ Support My Work
+
+If you find my work helpful and would like to support me, you can buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ricardo.camilo.frontend)

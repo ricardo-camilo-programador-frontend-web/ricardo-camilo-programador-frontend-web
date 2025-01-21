@@ -259,5 +259,5 @@ If you find my work helpful and would like to support me, you can:
 key: bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26qyta6
 <details>
 <summary>Bitcoin QR Code</summary>
-<img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="200"/>
+<img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px"/>
 </details>

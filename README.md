@@ -303,22 +303,8 @@ If you find my work helpful and would like to support me, you can:
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
 
-### ₿ Bitcoin
-<div align="center">
-  <details>
-    <summary>
-      <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin"/>
-      <em>Click to reveal address</em>
-    </summary>
-    <br/>
-    <code style="background-color: #f8f9fa; padding: 8px 12px; border-radius: 6px;">
-      bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26qyta6
-    </code>
-    <br/><br/>
-    <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="200"/>
-  </details>
-</div>
-
+### ₿ <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin"/>
+key: bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26qyta6
 
 <details>
 <summary>Bitcoin QR Code</summary>

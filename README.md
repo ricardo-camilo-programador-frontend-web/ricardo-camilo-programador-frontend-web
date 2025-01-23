@@ -5,7 +5,7 @@
 </div>
 
 # 🌟 Portfolio v1.0.0 🌟
-[![Portfolio](https://img.shields.io/badge/Portfolio-Showcase-FF6B6B?style=for-the-badge)](https://persona-nextjs-chronicles-part-2.netlify.app/pt-BR){:target="_blank"}
+[![Portfolio](https://img.shields.io/badge/Portfolio-Showcase-FF6B6B?style=for-the-badge)](https://persona-nextjs-chronicles-part-2.netlify.app/pt-BR)
 
 <details>
 <summary><h3>Personal Projects</h3></summary>

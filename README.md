@@ -5,15 +5,21 @@
 </div>
 
 # 🌟 Portfolio v1.0.0 🌟
-[![Portfolio](https://img.shields.io/badge/Portfolio-Showcase-FF6B6B?style=for-the-badge)](https://persona-nextjs-chronicles-part-2.netlify.app/pt-BR)
+<a href="https://persona-nextjs-chronicles-part-2.netlify.app/pt-BR" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Showcase-FF6B6B?style=for-the-badge" alt="Portfolio"/>
+</a>
 
 <details>
 <summary><h3>Personal Projects</h3></summary>
 
 ### 🍽️ Food Hut - Angular Chronicles - Part 1
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://food-hut-angular-chronicles-1.netlify.app/)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1)
+<a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
+<a href="https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1" target="_blank">
+  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
+</a>
 
 <details>
 <summary>Project Preview</summary>
@@ -29,8 +35,12 @@
 
 ### 🪴Breath Natural - NextJS Chronicles Part 1
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://breath-natural-nextjs-chronicles.netlify.app)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-1)
+<a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
+<a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-1" target="_blank">
+  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
+</a>
 
 <details>
 <summary>Project Preview</summary>
@@ -49,8 +59,12 @@
 
 ### 🦁 Savana - NuxtJS Chronicles Part 1
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://savana-nuxtjs-chronicles-part-1.netlify.app/en)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/nuxtjs-chronicles-part-1)
+<a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
+<a href="https://github.com/ricardo-camilo-programador-frontend-web/nuxtjs-chronicles-part-1" target="_blank">
+  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
+</a>
 
 <details>
 <summary>Project Preview</summary>
@@ -67,8 +81,12 @@
 
 ### 🎭 Persona - NextJS Chronicles Part 2
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://persona-nextjs-chronicles-2.netlify.app)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2)
+<a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
+<a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2" target="_blank">
+  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
+</a>
 
 <details>
 <summary>Project Preview</summary>
@@ -93,7 +111,9 @@
 
 ### 🏢 Labi9.com
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://labi9.com/)
+<a href="https://labi9.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
 
 <details>
 <summary>Project Preview</summary>
@@ -112,7 +132,9 @@
 
 ### 💰 Loor.vc
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://loor.vc/)
+<a href="https://loor.vc/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
 
 <details>
 <summary>Project Preview</summary>
@@ -132,7 +154,9 @@
 <img src="./assets/projects/loor-admin.png" alt="Loor.vc Admin Dashboard website preview" width="300"/>
 </details>
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://painel.loor.vc/investor/login)
+<a href="https://painel.loor.vc/investor/login" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -143,7 +167,9 @@
 
 ### 🏦 Global Liberty Bank
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://www.glbk.com.br/)
+<a href="https://www.glbk.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
 
 <details>
 <summary>Project Preview</summary>
@@ -158,7 +184,9 @@
 
 ### 💳 Tippbank
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://tippbank.com.br/)
+<a href="https://tippbank.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
 
 <details>
 <summary>Project Preview</summary>
@@ -192,11 +220,21 @@ Coming Soon...
 
 ## 📫 Professional Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/)
-[![99Freelas](https://img.shields.io/badge/99Freelas-%2300B057.svg?style=for-the-badge&logo=99freelas&logoColor=white)](https://www.99freelas.com.br/user/ricardo-camilo-frontend-developer-typescript)
-[![Workana](https://img.shields.io/badge/Workana-%23204ECF.svg?style=for-the-badge&logo=workana&logoColor=white)](https://www.workana.com/freelancer/7a5de74a4785b737b517d8746a01cd23)
-[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white)](https://resume.io/r/4bDKkHLB9)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ricardo50993066)
+<a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.99freelas.com.br/user/ricardo-camilo-frontend-developer-typescript" target="_blank">
+  <img src="https://img.shields.io/badge/99Freelas-%2300B057.svg?style=for-the-badge&logo=99freelas&logoColor=white" alt="99Freelas"/>
+</a>
+<a href="https://www.workana.com/freelancer/7a5de74a4785b737b517d8746a01cd23" target="_blank">
+  <img src="https://img.shields.io/badge/Workana-%23204ECF.svg?style=for-the-badge&logo=workana&logoColor=white" alt="Workana"/>
+</a>
+<a href="https://resume.io/r/4bDKkHLB9" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+</a>
+<a href="https://x.com/Ricardo50993066" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -248,7 +286,9 @@ Coming Soon...
 ## 🎓 Certificates
 
 ### 🌐 English Proficiency - EF SET
-[![EF SET English Certificate](https://img.shields.io/badge/EF_SET-C1_Advanced-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARUlEQVR4nGNgGAWMDAwM/6Hs/0TMYIQy/xPDpxgYGP5DnUgxALKBYmMYGBj+4zIFm7EMDAz/ceqB8SlzKsVOpTiVRgEDAwMAuO4Q3uB2AR0AAAAASUVORK5CYII=)](https://cert.efset.org/pt/75Zscf)
+<a href="https://cert.efset.org/pt/75Zscf" target="_blank">
+  <img src="https://img.shields.io/badge/EF_SET-C1_Advanced-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARUlEQVR4nGNgGAWMDAwM/6Hs/0TMYIQy/xPDpxgYGP5DnUgxALKBYmMYGBj+4zIFm7EMDAz/ceqB8SlzKsVOpTiVRgEDAwMAuO4Q3uB2AR0AAAAASUVORK5CYII=" alt="EF SET English Certificate"/>
+</a>
 
 - **Score:** 66/100 (C1 Advanced)
 - **Reading:** 72/100 (C2 Mastery)
@@ -259,10 +299,27 @@ Coming Soon...
 If you find my work helpful and would like to support me, you can:
 
 ### 💰 Buy me a coffee
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ricardo.camilo.frontend)
+<a href="https://buymeacoffee.com/ricardo.camilo.frontend" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
 
 ### ₿ Bitcoin
-key: bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26qyta6
+<div align="center">
+  <details>
+    <summary>
+      <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin"/>
+      <em>Click to reveal address</em>
+    </summary>
+    <br/>
+    <code style="background-color: #f8f9fa; padding: 8px 12px; border-radius: 6px;">
+      bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26qyta6
+    </code>
+    <br/><br/>
+    <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="200"/>
+  </details>
+</div>
+
+
 <details>
 <summary>Bitcoin QR Code</summary>
 <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px"/>

@@ -283,7 +283,8 @@ Coming Soon...
 
 </div>
 
-# 📊 GitHub Analytics
+<details>
+<summary><h2>📊 GitHub Analytics</h2></summary>
 
 <div align="center">
   <img height="180em"
@@ -301,6 +302,7 @@ Coming Soon...
     alt="GitHub Streak Stats"
   />
 </div>
+</details>
 
 > **Note:** Language percentages are calculated based on my public code and don't reflect experience or skill level.
 

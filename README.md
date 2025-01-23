@@ -296,6 +296,8 @@ Coming Soon...
 	/>
 </div>
 
+> **Note:** Language percentages are calculated based on my public code and don't reflect experience or skill level.
+
 ## 🎓 Certificates
 
 ### 🌐 English Proficiency - EF SET

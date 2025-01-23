@@ -283,36 +283,18 @@ Coming Soon...
 
 </div>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=ricardo564&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Contribution%20Statistics"
-    alt="GitHub Contribution Statistics"
-  />
-  <img height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo564&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=2D3F67"
-    alt="Current Streak Stats"
-  />
-  <br/>
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo564&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"
-    alt="Most Used Languages"
-  />
-</div>
-
-<details>
-<summary><b>📈 Detailed GitHub Metrics</b></summary>
+# 📦 GitHub Stats
 
 <div align="center">
   <img
-    src="https://metrics.lecoq.io/ricardo564?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FSao_Paulo"
-    alt="Detailed GitHub Metrics"
-  />
+    src="https://github-readme-stats.vercel.app/api?username=ricardo564&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+	/>
+  <img
+		src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo564&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+	/>
 </div>
-</details>
-
-> **Note:** Language percentages are calculated based on my public code and don't reflect experience or skill level.
 
 ## 🎓 Certificates
 

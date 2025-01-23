@@ -295,6 +295,11 @@ Coming Soon...
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-camilo-programador-frontend-web&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"
     alt="Most Used Languages"
   />
+
+  <img height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-camilo-programador-frontend-web&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </div>
 
 > **Note:** Language percentages are calculated based on my public code and don't reflect experience or skill level.

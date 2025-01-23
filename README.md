@@ -303,7 +303,7 @@ If you find my work helpful and would like to support me, you can:
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
 
-### ₿ <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin"/>
+### <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin"/>
 key: bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26qyta6
 
 <details>

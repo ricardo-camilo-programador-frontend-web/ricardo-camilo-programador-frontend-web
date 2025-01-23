@@ -4,7 +4,9 @@
 
 </div>
 
-Protifólio v1.0.0 : [![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://persona-nextjs-chronicles-2.netlify.app)
+# 🌟 Portfolio v1.0.0 🌟
+[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://persona-nextjs-chronicles-2.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Showcase-FF6B6B?style=for-the-badge)](https://persona-nextjs-chronicles-2.netlify.app)
 
 <details>
 <summary><h3>Personal Projects</h3></summary>

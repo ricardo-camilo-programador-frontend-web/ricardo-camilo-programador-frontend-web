@@ -287,11 +287,11 @@ Coming Soon...
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ricardo564&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=ricardo-camilo-programador-frontend-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
 	/>
   <img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo564&theme=tokyonight&hide_border=true"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-camilo-programador-frontend-web&theme=tokyonight&hide_border=true"
     alt="GitHub Streak Stats"
 	/>
 </div>

@@ -9,36 +9,17 @@ Protifólio v1.0.0 : [![Live Website](https://img.shields.io/badge/Live-Website-
 <details>
 <summary><h3>Personal Projects</h3></summary>
 
-### 🎭 Persona - NextJS Chronicles Part 2
+### 🍽️ Food Hut - Angular Chronicles - Part 1
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://persona-nextjs-chronicles-2.netlify.app)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2)
-
-<details>
-<summary>Project Preview</summary>
-<img src="./assets/projects/persona.png" alt="Persona NextJS Chronicles Part 2 website preview" width="300"/>
-</details>
-
-![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🦁 Savana - NuxtJS Chronicles Part 1
-
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://savana-nuxtjs-chronicles-part-1.netlify.app/en)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/nuxtjs-chronicles-part-1)
+[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://food-hut-angular-chronicles-1.netlify.app/)
+[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1)
 
 <details>
 <summary>Project Preview</summary>
-<img src="./assets/projects/savana.webp" alt="Savana NuxtJS Chronicles Part 1 website preview" width="300"/>
+<img src="./assets/projects/food-hut.png" alt="Food Hut Angular Chronicles Part 1 website preview" width="300"/>
 </details>
 
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -64,20 +45,42 @@ Protifólio v1.0.0 : [![Live Website](https://img.shields.io/badge/Live-Website-
 
 ---
 
-### 🍽️ Food Hut - Angular Chronicles - Part 1
 
-[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://food-hut-angular-chronicles-1.netlify.app/)
-[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1)
+### 🦁 Savana - NuxtJS Chronicles Part 1
+
+[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://savana-nuxtjs-chronicles-part-1.netlify.app/en)
+[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/nuxtjs-chronicles-part-1)
 
 <details>
 <summary>Project Preview</summary>
-<img src="./assets/projects/food-hut.png" alt="Food Hut Angular Chronicles Part 1 website preview" width="300"/>
+<img src="./assets/projects/savana.webp" alt="Savana NuxtJS Chronicles Part 1 website preview" width="300"/>
 </details>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🎭 Persona - NextJS Chronicles Part 2
+
+[![Live Website](https://img.shields.io/badge/Live-Website-2563eb)](https://persona-nextjs-chronicles-2.netlify.app)
+[![Repository](https://img.shields.io/badge/View-Repository-2563eb)](https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2)
+
+<details>
+<summary>Project Preview</summary>
+<img src="./assets/projects/persona.png" alt="Persona NextJS Chronicles Part 2 website preview" width="300"/>
+</details>
+
+![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 </details>
 

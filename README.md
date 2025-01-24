@@ -322,6 +322,59 @@ A modern, responsive portfolio website showcasing my professional experience as 
 </a>
 
 <details>
+<summary>Project Details</summary>
+## 📋 Project Overview
+A corporate website for Labi9, a software development company specializing in transforming ideas into reality and boosting businesses through technology solutions.
+
+## 🛠️ Technical Stack
+- **Framework:** Qwik 1.5.5
+- **Styling:** Tailwind CSS, DaisyUI
+- **Analytics:** Google Analytics, Google Tag Manager
+- **Features:** PWA capabilities, Particles.js
+- **Focus:** Performance & Visual Effects
+
+## 🎨 Frontend Features
+- Responsive design across all devices
+- Modern and clean UI/UX
+- Interactive portfolio showcase
+- Performance-optimized animations
+- Cross-browser compatibility
+- SEO optimization
+- Progressive Web App implementation
+
+## 📱 Key Sections
+- Interactive hero section
+- Services overview
+- Portfolio showcase
+- Client testimonials
+- Company information
+- Contact forms
+- Team presentation
+
+## 💼 Portfolio Highlights
+- **Loor:** Equity & Crowdfunding : [Loor - Frontend](https://loor.vc/)
+- **Tipp Bank:** Payment Solutions : [Tipp Bank](https://tippbank.com.br/)
+- **Sti3:** ERP Systems : [Sti3](https://sti3.com.br/)
+- **BCodex:** Embed Finance : [BCodex](https://bcodex.com.br/)
+- **Global Liberty Bank:** Banking Platform : [Global Liberty Bank](https://www.glbk.com.br/)
+## 🌟 Project Achievements
+- Optimized loading times
+- SEO-friendly structure
+- Modern design implementation
+- Smooth animations
+- Responsive across devices
+- Full PWA functionality
+
+## 🤝 Collaboration
+Frontend development while working closely with the backend team at Labi9, located in Jaú - SP, Brazil.
+
+---
+
+*Demonstrating expertise in modern web development and UI/UX implementation*
+</details>
+
+
+<details>
 <summary>Project Preview</summary>
 <img src="./assets/projects/labi9.png" alt="Labi9 website preview" width="300"/>
 </details>

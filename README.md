@@ -400,6 +400,70 @@ Frontend development while working closely with the backend team at Labi9, locat
 <img src="./assets/projects/loor.png" alt="Loor.vc website preview" width="300"/>
 </details>
 
+<details>
+<summary>Project Details</summary>
+## 🎯 Project Purpose
+A platform designed to connect investors with startup investment opportunities, website developed while working at Labi9.com, focusing on high-potential returns and secure investments.
+
+## 🛠️ Technical Stack
+- **Framework:** Astro.js
+- **Frontend:** Vue.js for interactive components
+- **Styling:** TailwindCSS
+- **Integration:** REST API for product listing
+
+## 💻 Development Role
+- Frontend development at Labi9.com
+- No backend involvement
+- Focus on performance optimization
+- Responsive design implementation
+
+## 🔍 Key Features
+- Investment opportunities listing
+- Startup analysis tools
+- Financial planning tools
+- Real-time updates
+- User authentication system
+- Investment tracking dashboard
+
+## ⚡ Performance Highlights
+- Optimized page loading
+- Responsive design for all devices
+- Server-side rendering for better SEO
+- Component-based architecture
+- Efficient API data handling
+
+## 📱 User Interface
+- Clean and modern design
+- Easy navigation
+- Mobile-first approach
+- Intuitive investment tracking
+- Clear presentation of investment opportunities
+
+## 🎨 Design Implementation
+- Responsive layouts
+- Interactive components
+- Dynamic content loading
+- User-friendly forms
+- Progress indicators
+
+## 🔒 Security Features
+- Secure authentication flow
+- Protected investment data
+- Compliance with financial regulations
+- Safe transaction handling
+
+## 🌟 Project Highlights
+- Fast page transitions
+- Optimized asset loading
+- Seamless user experience
+- Professional financial interface
+- Clear investment information display
+
+---
+
+
+</details>
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)

@@ -22,6 +22,58 @@
 </a>
 
 <details>
+<summary>Project Details</summary>
+# 🍽️ Food Hut - Angular Chronicles
+
+## 🎯 Project Overview
+A modern restaurant landing page developed to demonstrate proficiency in Angular and modern web development practices. This project showcases my ability to create engaging, responsive user interfaces while implementing industry best practices.
+
+## 🛠️ Technical Implementation
+- **PWA:** Progressive Web App capabilities
+- **Styling:** Tailwind CSS for modern, responsive design
+- **Routing:** Angular Router for seamless navigation
+- **Approach:** Mobile-first development
+- **Architecture:** Component-based structure
+- **Content:** Dynamic rendering system
+
+## 💻 Technology Stack
+- **Framework:** Angular
+- **CSS Framework:** Tailwind CSS
+- **Analytics:** Google Analytics
+- **Features:** PWA capabilities
+
+## 🌟 Key Features
+- Modern, responsive design
+- Mobile-optimized interface
+- Fast loading times
+- Smooth animations
+- Interactive UI elements
+- Dynamic image galleries
+
+## 🔍 Learning Outcomes
+- Angular component architecture
+- TypeScript implementation
+- Modern CSS practices
+- State management
+- Code organization
+- Performance optimization
+
+## 💪 Demonstrated Abilities
+- Creating modern, responsive web applications
+- Working with popular frontend frameworks
+- Implementing attractive UI/UX designs
+- Optimizing for performance
+- Developing mobile-first solutions
+
+## 🎨 Design Attribution
+UI/UX inspired by a Figma community design, adapted and implemented with modern web technologies.
+
+---
+
+*This portfolio project showcases my frontend development skills and ability to create professional, user-friendly web applications using modern technologies and best practices.*
+</details>
+
+<details>
 <summary>Project Preview</summary>
 <img src="./assets/projects/food-hut.png" alt="Food Hut Angular Chronicles Part 1 website preview" width="300"/>
 </details>

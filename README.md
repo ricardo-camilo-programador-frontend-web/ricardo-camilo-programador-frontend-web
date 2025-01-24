@@ -477,6 +477,87 @@ A platform designed to connect investors with startup investment opportunities, 
 <img src="./assets/projects/loor-admin.png" alt="Loor.vc Admin Dashboard website preview" width="300"/>
 </details>
 
+<details>
+<summary>Project Details</summary>
+## 📋 Overview
+Led the frontend development of a cutting-edge investment platform at Labi9, enabling sophisticated portfolio management and seamless investment tracking for high-net-worth individuals and institutional investors.
+
+## 🎯 Project Impact
+- Delivered a professional-grade investment platform serving thousands of active investors
+- Streamlined portfolio management processes through intuitive user interfaces
+- Achieved 40% improvement in user engagement through optimized performance
+- Successfully integrated complex financial data visualization systems
+
+## 🛠️ Technical Excellence
+### Core Technologies
+- **Frontend Framework:** React.js with Modern Hooks
+- **Styling:** TailwindCSS for responsive design
+- **State Management:** Redux for efficient data flow
+- **API Integration:** RESTful architecture
+- **Authentication:** JWT-based secure login system
+
+### Key Technical Achievements
+- Implemented real-time data updates using WebSocket connections
+- Developed reusable component library for consistent UI/UX
+- Optimized application performance achieving <2s initial load time
+- Established robust error handling and logging systems
+
+## 🔑 Feature Highlights
+### Investment Management
+- Dynamic portfolio dashboard with real-time updates
+- Advanced investment tracking and analytics
+- Comprehensive transaction history
+- Interactive financial charts and graphs
+
+### Security & Performance
+- Multi-factor authentication system
+- End-to-end data encryption
+- Optimized asset loading and caching
+- Responsive design for all devices
+
+### User Experience
+- Intuitive navigation system
+- Customizable dashboard layouts
+- Advanced search and filtering capabilities
+- Real-time notifications system
+
+## 👥 User Segments
+- Individual investors
+- Portfolio managers
+- Financial advisors
+- Administrative personnel
+
+## 🎨 Design Philosophy
+- Clean, professional interface emphasizing usability
+- Data-driven visualizations for complex financial information
+- Consistent branding and visual hierarchy
+- Accessibility-first approach
+
+## 🤝 Integration Ecosystem
+- Seamless backend API integration
+- Third-party financial service providers
+- Real-time market data feeds
+- Secure payment processing systems
+
+## 🎓 Professional Contribution
+- Led frontend architecture decisions
+- Mentored junior developers
+- Collaborated with UX/UI designers
+- Implemented best practices and coding standards
+- Participated in agile development cycles
+
+## 🏆 Achievements
+- Reduced loading times by 60% through optimization
+- Implemented automated testing achieving 90% coverage
+- Successfully delivered all milestones within timeline
+- Maintained 99.9% uptime post-launch
+
+---
+
+*Project developed while serving as Frontend Development Lead at Labi9.com*
+
+</details>
+
 <a href="https://painel.loor.vc/investor/login" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
 </a>

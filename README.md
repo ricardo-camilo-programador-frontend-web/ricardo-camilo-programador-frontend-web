@@ -95,6 +95,56 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 </a>
 
 <details>
+<summary>Project Details</summary>
+## 🎯 Project Overview
+A modern e-commerce platform for indoor plants, developed as a portfolio piece to demonstrate advanced frontend development capabilities. The project showcases my ability to create elegant, responsive, and user-friendly web applications.
+
+## 🛠️ Technical Implementation
+- **Framework:** Next.js
+- **Styling:** Tailwind CSS
+- **Features:**
+  - Dynamic routing and state management
+  - Interactive shopping cart functionality
+  - Clean and maintainable code architecture
+  - Integration with UI components
+  - Performance optimization
+  - SEO best practices
+
+## ✨ Key Features
+- Elegant and modern UI design
+- Responsive layout for all devices
+- Product catalog with detailed plant information
+- Shopping cart functionality
+- User testimonials section
+- Interactive product navigation
+- Smooth animations and transitions
+- Multi-language support (PT/EN)
+
+## 🎨 Design & Development
+The project features a minimalist and nature-inspired design, focusing on user experience and visual appeal. Each component was carefully crafted to ensure both aesthetics and functionality, demonstrating attention to detail and modern design principles.
+
+## 🔧 Technologies Used
+- **Frontend:** Next.js
+- **Styling:** Tailwind CSS
+- **Language:** TypeScript
+- **Analytics:** Google Tag Manager, Google Analytics
+- **Deployment:** Netlify
+
+## 🎯 Learning Outcomes
+This project served as a practical application of modern frontend development practices, showcasing:
+- Component architecture implementation
+- State management solutions
+- Responsive design techniques
+- Performance optimization strategies
+- Clean code principles
+- Version control with Git
+
+---
+
+*This portfolio project demonstrates my capability to deliver professional-grade frontend solutions, with a focus on user experience, performance, and code quality. It represents my commitment to creating engaging and functional web applications using current industry standards and best practices.*
+</details>
+
+<details>
 <summary>Project Preview</summary>
 <img src="./assets/projects/breath-natural.png" alt="Breath Natural NextJS Chronicles Part 1 website preview" width="300"/>
 </details>

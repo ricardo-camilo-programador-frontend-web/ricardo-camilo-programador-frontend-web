@@ -169,6 +169,52 @@ This project served as a practical application of modern frontend development pr
 </a>
 
 <details>
+<summary>Project Details</summary>
+## 🎯 Overview
+A portfolio project showcasing frontend development skills using NuxtJS, demonstrating modern web development practices and UI/UX implementation.
+
+## 🛠️ Technical Stack
+- **Frontend Framework:** NuxtJS
+- **State Management:** Pinia
+- **Styling:** Tailwind CSS
+- **Languages:** TypeScript/JavaScript
+- **Internationalization:** i18n
+
+## ✨ Key Features
+- 🌐 Multi-language support (English/Portuguese)
+- ❤️ Favorites system implementation
+- 📱 Responsive design for all devices
+- 🎨 Modern and clean UI/UX
+- 🔄 Global state management with Pinia
+- 🖥️ Fully adaptable layout
+- 🚀 Performance optimized
+
+## 💡 Learning Outcomes
+- Experience with NuxtJS ecosystem
+- Implementation of state management patterns
+- Responsive design practices
+- Internationalization implementation
+- Component architecture
+
+## 🎯 Project Goals
+- Demonstrate frontend development expertise
+- Showcase modern web development practices
+- Display ability to handle complex UI states
+- Show proficiency in Vue.js ecosystem
+
+## 🔍 Notable Implementations
+- Clean and intuitive navigation system
+- Smooth transitions and animations
+- Efficient state management
+- Responsive mobile-first design
+- Cross-browser compatibility
+
+---
+
+*This project serves as a practical demonstration of frontend development capabilities, particularly in the Vue.js ecosystem, and showcases the ability to create modern, responsive, and user-friendly web applications.*
+</details>
+
+<details>
 <summary>Project Preview</summary>
 <img src="./assets/projects/savana.webp" alt="Savana NuxtJS Chronicles Part 1 website preview" width="300"/>
 </details>

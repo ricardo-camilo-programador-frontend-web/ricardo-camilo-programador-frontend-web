@@ -580,6 +580,55 @@ Led the frontend development of a cutting-edge investment platform at Labi9, ena
 <img src="./assets/projects/glbk.png" alt="Global Liberty Bank website preview" width="300"/>
 </details>
 
+<details>
+<summary>Project Details</summary>
+## 🎯 Project Overview
+A modern banking website developed while working at Labi9.com, focusing solely on the frontend implementation. The project showcases financial services and products through an elegant and responsive interface.
+
+## 💻 Technical Implementation
+- **Framework:** Astro.js and Vue.js
+- **Styling:** TailwindCSS
+- **Language:** TypeScript/Javascript
+- **Focus:** Frontend only (no backend integration)
+- **Design:** Responsive for all devices
+- **Performance:** Optimized animations
+- **SEO:** Search engine optimized structure
+
+## 🎨 Design Features
+- Clean and professional banking interface
+- Modern financial sector aesthetics
+- Interactive UI elements
+- Smooth scrolling animations
+- Mobile-first approach
+
+## ⚡ Performance Metrics
+- Quick page load times
+- Optimized asset delivery
+- Smooth transitions
+- Efficient code structure
+
+## 🎯 Role & Responsibilities
+- Frontend development
+- Component architecture
+- Performance optimization
+- Responsive implementation
+- Animation development
+
+## ✨ Key Highlights
+- Fast loading times
+- Cross-browser compatibility
+- Accessible design
+- Optimized for all screen sizes
+- Interactive components
+
+## 🌟 Project Outcome
+Successfully delivered a modern, responsive banking website that effectively presents GLBK's financial services and maintains professional banking sector standards.
+
+---
+
+*Project developed as Frontend Developer at Labi9.com*
+</details>
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)

@@ -241,6 +241,64 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 <img src="./assets/projects/persona.png" alt="Persona NextJS Chronicles Part 2 website preview" width="300"/>
 </details>
 
+<details>
+<summary>Project Details</summary>
+## 📝 Description
+A modern, responsive portfolio website showcasing my professional experience as a Frontend Developer with 4+ years of expertise in transforming business challenges into high-impact digital solutions.
+
+## 🛠️ Technical Implementation
+- Built with Next.js for optimal performance
+- Responsive design for all devices
+- Modern UI/UX with smooth animations
+- Multi-language support (English/Portuguese)
+- Portfolio showcase with detailed project descriptions
+- Contact form integration
+- Performance optimized with 90+ Lighthouse score
+
+## 💻 Tech Stack
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Netlify (Hosting)
+- Google Analytics
+- PWA capabilities
+
+## 🎨 Key Features
+- Clean, minimalist design
+- Project showcase with live demos
+- Detailed technology stack presentation
+- Service offerings section
+- Professional journey timeline
+- Contact information
+- Responsive navigation
+- Dark/Light mode toggle
+
+## 📱 Highlighted Projects Showcase
+- 🪴 **Breath Natural** [Next.js E-commerce](https://breath-natural-nextjs-chronicles.netlify.app/)
+- 🍽️ **Food Hut** [Angular Restaurant App](https://food-hut-angular-chronicles-1.netlify.app/)
+- 🦁 **Savana** [Nuxt 3 Project](https://savana-nuxtjs-chronicles-part-1.netlify.app/en)
+
+## 🎯 Business Focus
+- Website performance optimization (40% faster loading times)
+- Development process efficiency (60% improvement)
+- User-centric interface design
+- Conversion-focused implementations
+- Scalable and maintainable code architecture
+
+## 🌟 Professional Highlights
+- Frontend development expertise
+- Multiple framework experience
+- Performance optimization specialist
+- Clean code practices
+- Responsive design implementation
+- Modern web technologies adoption
+
+---
+
+*This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*
+
+</details>
+
 ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)

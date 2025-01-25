@@ -662,6 +662,13 @@ Coming Soon...
 
 </details>
 
+<details>
+<summary><h3>With Friends</h3></summary>
+
+Coming Soon...
+
+</details>
+
 ## 🔧 Specialties
 
 - 🎯 Frontend Development (Vue, Javascript Frameworks)
@@ -719,6 +726,8 @@ Coming Soon...
 ## 🌱 Currently Studying
 
 ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align="center">
 

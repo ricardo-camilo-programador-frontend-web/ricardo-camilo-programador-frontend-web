@@ -665,7 +665,7 @@ Coming Soon...
 <details>
 <summary><h3>With Friends</h3></summary>
 
-### 🎮 Visual Novel Game with Anne
+### 🎮 Lembre de min - Visual Novel Game with Anne
 
 <a href="lembredemin.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>

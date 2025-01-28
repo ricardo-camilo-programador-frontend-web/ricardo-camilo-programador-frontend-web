@@ -665,7 +665,39 @@ Coming Soon...
 <details>
 <summary><h3>With Friends</h3></summary>
 
-Coming Soon...
+### 🎮 Visual Novel Game with Anne
+
+<details>
+<summary>Project Details</summary>
+
+## 🎯 Project Overview
+Currently developing a visual novel game in collaboration with [@anneanneannehp](https://www.instagram.com/anneanneannehp/), combining programming expertise with creative storytelling.
+
+## 🛠️ Technical Stack
+- **Engine:** Ren'Py
+- **Language:** Python
+- **Graphics:** Custom artwork and animations
+- **Status:** In Development
+
+## 🎨 Features
+- Interactive storytelling
+- Multiple story paths
+- Character dialogue system
+- Custom artwork integration
+- Sound and music implementation
+
+## 👥 Team
+- **Programming & Technical Implementation:** Ricardo Camilo
+- **Art & Story:** [@anneanneannehp](https://www.instagram.com/anneanneannehp/)
+
+---
+
+*More details coming soon as the project develops!*
+
+</details>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white)
 
 </details>
 

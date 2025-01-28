@@ -667,6 +667,13 @@ Coming Soon...
 
 ### 🎮 Visual Novel Game with Anne
 
+<a href="lembredemin.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
+<a href="https://github.com/ricardo-camilo-programador-frontend-web/LembreDeMin" target="_blank">
+  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
+</a>
+
 <details>
 <summary>Project Details</summary>
 

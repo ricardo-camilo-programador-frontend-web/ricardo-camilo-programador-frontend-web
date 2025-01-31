@@ -27,6 +27,7 @@
 
 <details>
 <summary>Project Details</summary>
+
 # 🍽️ Food Hut - Angular Chronicles
 
 ## 🎯 Project Overview
@@ -104,7 +105,9 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 
 <details>
 <summary>Project Details</summary>
+
 ## 🎯 Project Overview
+
 A modern e-commerce platform for indoor plants, developed as a portfolio piece to demonstrate advanced frontend development capabilities. The project showcases my ability to create elegant, responsive, and user-friendly web applications.
 
 ## 🛠️ Technical Implementation
@@ -183,7 +186,9 @@ This project served as a practical application of modern frontend development pr
 
 <details>
 <summary>Project Details</summary>
+
 ## 🎯 Overview
+
 A portfolio project showcasing frontend development skills using NuxtJS, demonstrating modern web development practices and UI/UX implementation.
 
 ## 🛠️ Technical Stack
@@ -261,7 +266,9 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 
 <details>
 <summary>Project Details</summary>
+
 ## 📝 Description
+
 A modern, responsive portfolio website showcasing my professional experience as a Frontend Developer with 4+ years of expertise in transforming business challenges into high-impact digital solutions.
 
 ## 🛠️ Technical Implementation
@@ -310,8 +317,6 @@ A modern, responsive portfolio website showcasing my professional experience as 
 - Clean code practices
 - Responsive design implementation
 - Modern web technologies adoption
-
-
 
 </details>
 
@@ -454,7 +459,9 @@ Frontend development while working closely with the backend team at Labi9, locat
 
 <details>
 <summary>Project Details</summary>
+
 ## 🎯 Project Purpose
+
 A platform designed to connect investors with startup investment opportunities, website developed while working at Labi9.com, focusing on high-potential returns and secure investments.
 
 ## 🛠️ Technical Stack
@@ -531,7 +538,9 @@ A platform designed to connect investors with startup investment opportunities, 
 
 <details>
 <summary>Project Details</summary>
+
 ## 📋 Overview
+
 Led the frontend development of a cutting-edge investment platform at Labi9, enabling sophisticated portfolio management and seamless investment tracking for high-net-worth individuals and institutional investors.
 
 ## 🎯 Project Impact
@@ -634,7 +643,9 @@ Led the frontend development of a cutting-edge investment platform at Labi9, ena
 
 <details>
 <summary>Project Details</summary>
+
 ## 🎯 Project Overview
+
 A modern banking website developed while working at Labi9.com, focusing solely on the frontend implementation. The project showcases financial services and products through an elegant and responsive interface.
 
 ## 💻 Technical Implementation

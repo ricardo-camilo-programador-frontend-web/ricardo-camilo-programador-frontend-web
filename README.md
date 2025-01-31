@@ -325,8 +325,6 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ---
 </details>
 
-
-
 <details>
 <summary><h3>Dimensions (Dart)</h3></summary>
 

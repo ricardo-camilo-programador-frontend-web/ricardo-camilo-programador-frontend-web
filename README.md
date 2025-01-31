@@ -346,6 +346,7 @@ Pomodoro timer app developed with Dart and Flutter.
 - **Framework:** Dart and Flutter
 
 </details>
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white "Dart - A client-optimized programming language for fast apps on any platform")
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter - Google's UI toolkit for building natively compiled applications")
 

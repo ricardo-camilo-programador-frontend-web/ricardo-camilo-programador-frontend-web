@@ -312,8 +312,6 @@ A modern, responsive portfolio website showcasing my professional experience as 
 
 </details>
 
-</details>
-
 ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -325,6 +323,9 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white)
 
 ---
+</details>
+
+
 
 <details>
 <summary><h3>Dimensions (Dart)</h3></summary>
@@ -344,11 +345,12 @@ Pomodoro timer app developed with Dart and Flutter.
 
 </details>
 
-</details>
-
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+
+---
+</details>
 
 ---
 

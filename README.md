@@ -329,11 +329,13 @@ Pomodoro timer app developed with Dart and Flutter.
 
 </details>
 
----
+
 
 *This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*
 
 </details>
+
+---
 
 <details>
 <summary><h3>Corporative Projects</h3></summary>
@@ -679,7 +681,7 @@ Successfully delivered a modern, responsive banking website that effectively pre
 
 </details>
 
-</details>
+---
 
 <details>
 <summary><h3>Freelance Projects</h3></summary>

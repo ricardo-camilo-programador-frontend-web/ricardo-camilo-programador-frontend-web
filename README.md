@@ -346,6 +346,10 @@ Pomodoro timer app developed with Dart and Flutter.
 
 </details>
 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
 ---
 
 *This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*

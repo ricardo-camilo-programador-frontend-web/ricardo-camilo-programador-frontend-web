@@ -301,6 +301,8 @@ A modern, responsive portfolio website showcasing my professional experience as 
 
 </details>
 
+</details>
+
 <details>
 <summary><h3>Dimensions (Dart)</h3></summary>
 
@@ -319,7 +321,6 @@ Pomodoro timer app developed with Dart and Flutter.
 
 </details>
 ---
-</details>
 
 *This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*
 

@@ -15,7 +15,6 @@
 <details>
 <summary><h3>Chronicles (TypeScript/JavaScript)</h3></summary>
 
-
 ### 🍽️ Food Hut - Angular Chronicles - Part 1
 
 <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">

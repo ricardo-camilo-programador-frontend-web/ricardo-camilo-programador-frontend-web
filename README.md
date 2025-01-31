@@ -12,6 +12,10 @@
 <details>
 <summary><h3>Personal Projects</h3></summary>
 
+<details>
+<summary><h3>Chronicles (TypeScript/JavaScript)</h3></summary>
+
+
 ### 🍽️ Food Hut - Angular Chronicles - Part 1
 
 <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
@@ -294,6 +298,14 @@ A modern, responsive portfolio website showcasing my professional experience as 
 - Modern web technologies adoption
 
 ---
+
+</details>
+
+<details>
+<summary><h3>Dimensions (Dart)</h3></summary>
+Coming Soon
+</details>
+
 
 *This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*
 

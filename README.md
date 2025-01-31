@@ -297,6 +297,12 @@ A modern, responsive portfolio website showcasing my professional experience as 
 - Responsive design implementation
 - Modern web technologies adoption
 
+![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 </details>
@@ -320,19 +326,12 @@ Pomodoro timer app developed with Dart and Flutter.
 - **Framework:** Dart and Flutter
 
 </details>
----
-
-*This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*
 
 </details>
 
-![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ---
+
+*This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*
 
 </details>
 

@@ -715,7 +715,7 @@ Coming Soon...
 
 ### 🎮 Lembre de min - Visual Novel Game with Anne
 
-<a href="lembredemin.netlify.app" target="_blank">
+<a href="https://lembredemin.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
 </a>
 <a href="https://github.com/ricardo-camilo-programador-frontend-web/LembreDeMin" target="_blank">

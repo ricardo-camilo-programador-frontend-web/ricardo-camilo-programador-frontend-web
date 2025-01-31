@@ -303,9 +303,23 @@ A modern, responsive portfolio website showcasing my professional experience as 
 
 <details>
 <summary><h3>Dimensions (Dart)</h3></summary>
-Coming Soon
-</details>
 
+### ⌛ Time Forge - Dimensions Part 1
+
+<a href="https://github.com/ricardo-camilo-programador-frontend-web/dart-dimensions-part-1" target="_blank">
+  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
+</a>
+
+<details>
+<summary>Project Details</summary>
+Pomodoro timer app developed with Dart and Flutter.
+
+## 🛠️ Technical Implementation
+- **Framework:** Dart and Flutter
+
+</details>
+---
+</details>
 
 *This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*
 

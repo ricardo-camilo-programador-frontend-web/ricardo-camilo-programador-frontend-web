@@ -5,7 +5,7 @@
 </div>
 
 <a href="https://persona-nextjs-chronicles-part-2.netlify.app/pt-BR" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Showcase-FF6B6B?style=for-the-badge" alt="Portfolio" title="View my professional portfolio - Showcasing projects and skills"/>
+  <img src="https://img.shields.io/badge/Portfolio-Showcase-v1.0.0-FF6B6B?style=for-the-badge" alt="Portfolio" title="View my professional portfolio - Showcasing projects and skills"/>
 </a>
 
 <details>

@@ -730,6 +730,8 @@ Coming Soon...
 
 </details>
 
+---
+
 <details>
 <summary><h3>With Friends</h3></summary>
 
@@ -775,6 +777,8 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white "Ren'Py - Visual Novel Engine for game development")
 
 </details>
+
+---
 
 ## 🔧 Specialties
 

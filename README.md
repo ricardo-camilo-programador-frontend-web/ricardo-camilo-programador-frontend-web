@@ -309,6 +309,8 @@ A modern, responsive portfolio website showcasing my professional experience as 
 
 </details>
 
+---
+
 <details>
 <summary><h3>Dimensions (Dart)</h3></summary>
 
@@ -678,6 +680,8 @@ Successfully delivered a modern, responsive banking website that effectively pre
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![WindiCSS](https://img.shields.io/badge/Windicss-%2338B2AC.svg?style=for-the-badge&logo=windicss&logoColor=white)
 ![VueUse](https://img.shields.io/badge/vueuse-%2338B2AC.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+
+</details>
 
 </details>
 

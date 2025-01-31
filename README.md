@@ -773,19 +773,19 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ## 📫 Professional Contact
 
 <a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect with me on LinkedIn - Professional networking and career opportunities"/>
 </a>
 <a href="https://www.99freelas.com.br/user/ricardo-camilo-frontend-developer-typescript" target="_blank">
-  <img src="https://img.shields.io/badge/99Freelas-%2300B057.svg?style=for-the-badge&logo=99freelas&logoColor=white" alt="99Freelas"/>
+  <img src="https://img.shields.io/badge/99Freelas-%2300B057.svg?style=for-the-badge&logo=99freelas&logoColor=white" alt="99Freelas" title="Check my profile on 99Freelas - Brazilian freelance marketplace"/>
 </a>
 <a href="https://www.workana.com/freelancer/7a5de74a4785b737b517d8746a01cd23" target="_blank">
-  <img src="https://img.shields.io/badge/Workana-%23204ECF.svg?style=for-the-badge&logo=workana&logoColor=white" alt="Workana"/>
+  <img src="https://img.shields.io/badge/Workana-%23204ECF.svg?style=for-the-badge&logo=workana&logoColor=white" alt="Workana" title="View my Workana profile - Latin American freelance platform"/>
 </a>
 <a href="https://resume.io/r/4bDKkHLB9" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+  <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" title="Download my professional resume - Detailed work experience and skills"/>
 </a>
 <a href="https://x.com/Ricardo50993066" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" title="Follow me on Twitter - Updates and tech discussions"/>
 </a>
 
 ## 🛠️ Tech Stack & Skills

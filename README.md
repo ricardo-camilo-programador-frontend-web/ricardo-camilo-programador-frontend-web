@@ -789,7 +789,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 <table>
 <tr>
-<td align="center" style="background-color: #ffffff;">
+<td style="background-color: #ffffff; padding: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>

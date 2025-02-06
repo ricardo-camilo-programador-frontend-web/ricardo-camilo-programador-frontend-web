@@ -22,7 +22,7 @@
 <summary><h3>🗂️ Personal Projects</h3></summary>
 
 <details>
-<summary><h3>└─💻 Chronicles (TypeScript/JavaScript)</h3></summary>
+<summary><h3>└─🗺️ Chronicles (TypeScript/JavaScript)</h3></summary>
 
 ### 🍽️ Food Hut - Angular Chronicles - Part 1
 
@@ -343,7 +343,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 </details>
 
 <details>
-<summary><h3>└─🎮 Dimensions (Dart)</h3></summary>
+<summary><h3>└─🌌 Dimensions (Dart)</h3></summary>
 
 ### ⌛ Time Forge - Dimensions Part 1
 

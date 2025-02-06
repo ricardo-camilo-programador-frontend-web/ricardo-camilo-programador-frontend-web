@@ -780,7 +780,8 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 ---
 
-## 📊 Professional Profile
+<details>
+<summary><h2>📁 Professional Profile</h2></summary>
 
 <div align="center">
   <picture>
@@ -814,9 +815,12 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
   </picture>
 </div>
 
+</details>
+
 ---
 
-## 🔧 Specialties
+<details>
+<summary><h2>📁 Professional Profile</h2></summary>
 
 - 🎯 Frontend Development (Vue, Javascript Frameworks)
 - 💻 TypeScript & JavaScript Expert
@@ -825,7 +829,11 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 - 🧪 Testing & Quality Assurance
 - 🔄 CI/CD & DevOps Practices
 
-## 📫 Professional Contact
+</details>
+
+
+<details>
+<summary><h2>📁 Professional Contact</h2></summary>
 
 <a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect with me on LinkedIn - Professional networking and career opportunities"/>
@@ -842,6 +850,10 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 <a href="https://x.com/Ricardo50993066" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" title="Follow me on Twitter - Updates and tech discussions"/>
 </a>
+
+</details>
+
+---
 
 ## 🛠️ Tech Stack & Skills
 

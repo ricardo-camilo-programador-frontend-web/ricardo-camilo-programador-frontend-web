@@ -827,20 +827,6 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 <details>
-<summary><h2>📁 Technical Skills</h2></summary>
-
-- 🎯 Frontend Development (Vue, Javascript Frameworks)
-- 💻 TypeScript & JavaScript Expert
-- 🎨 UI/UX & Design Systems
-- ⚡ Performance Optimization
-- 🧪 Testing & Quality Assurance
-- 🔄 CI/CD & DevOps Practices
-
-</details>
-
----
-
-<details>
 <summary><h2>📁 Professional Contact</h2></summary>
 
 <a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">

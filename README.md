@@ -21,7 +21,8 @@
 <details>
 <summary><h3>└─🗺️ Chronicles (TypeScript/JavaScript)</h3></summary>
 
-### 🍽️ Food Hut - Angular Chronicles - Part 1
+<details>
+<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1</summary>
 
 <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -103,10 +104,12 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Google Tag Manager - Tag management system")
 ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Google Analytics - Web analytics service")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
+</details>
 
 ---
 
-### 🪴Breath Natural - NextJS Chronicles Part 1
+<details>
+<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1</summary>
 
 <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -184,10 +187,12 @@ This project served as a practical application of modern frontend development pr
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics")
 
+</details>
+
 ---
 
-
-### 🦁 Savana - NuxtJS Chronicles Part 1
+<details>
+<summary>└─🦁 Savana - NuxtJS Chronicles Part 1</summary>
 
 <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -260,9 +265,12 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "Internationalization framework for multi-language support")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Simple and privacy-friendly website analytics")
 
+</details>
+
 ---
 
-### 🎭 Persona - NextJS Chronicles Part 2
+<details>
+<summary>└─🎭 Persona - NextJS Chronicles Part 2</summary>
 
 <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -342,6 +350,8 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Google Analytics - Web analytics service by Google")
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework for multiple language support")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
+
+</details>
 
 ---
 </details>

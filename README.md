@@ -789,7 +789,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 <div
   align="center"
-  style="display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: var(--color-canvas-default);"
+  style="display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: white"
 >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>

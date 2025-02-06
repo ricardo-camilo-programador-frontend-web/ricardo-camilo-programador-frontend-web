@@ -784,15 +784,9 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
-    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg" alt="Frontend Developer Differentiators" width="100%" style="max-width: 800px"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
-    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Frontend Developer Education" width="100%" style="max-width: 800px; margin-top: 20px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg" alt="Frontend Developer Profile" width="100%" style="max-width: 800px"/>
   </picture>
 
   <picture>
@@ -808,9 +802,15 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
-    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg" alt="Frontend Developer Profile" width="100%" style="max-width: 800px; margin-top: 20px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg" alt="Frontend Developer Differentiators" width="100%" style="max-width: 800px; margin-top: 20px"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Frontend Developer Education" width="100%" style="max-width: 800px; margin-top: 20px"/>
   </picture>
 </div>
 

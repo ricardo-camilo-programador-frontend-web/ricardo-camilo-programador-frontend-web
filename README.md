@@ -370,7 +370,7 @@ Pomodoro timer app developed with Dart and Flutter.
 ---
 
 <details>
-<summary><h3>└─📂 Corporative Projects</h3></summary>
+<summary><h3>📁 Corporative Projects</h3></summary>
 
 <details>
   <summary>└─📂 Corporative Projects  with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
@@ -724,7 +724,7 @@ Successfully delivered a modern, responsive banking website that effectively pre
 ---
 
 <details>
-<summary>└─📂 Freelance Projects</summary>
+<summary><h3>📁 Freelance Projects</h3></summary>
 
 Coming Soon...
 
@@ -733,7 +733,7 @@ Coming Soon...
 ---
 
 <details>
-<summary>└─📂 With Friends</summary>
+<summary><h3>📁 With Friends</h3></summary>
 
 ### 🎮 Lembre de min - Visual Novel Game with Anne
 

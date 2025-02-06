@@ -90,7 +90,9 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 
 <details>
 <summary>└─🎥 Video Preview</summary>
-<iframe width="300" height="533" src="https://www.youtube.com/embed/qpa0vKH8gGQ" title="Food Hut Angular Chronicles Part 1 website preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=qpa0vKH8gGQ" target="_blank">
+  <img src="https://img.shields.io/badge/Watch-Video_Preview-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch video preview on YouTube"/>
+</a>
 </details>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - A platform for building web applications")

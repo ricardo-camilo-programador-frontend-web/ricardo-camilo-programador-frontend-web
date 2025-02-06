@@ -733,7 +733,7 @@ Coming Soon...
 ---
 
 <details>
-<summary><h3>📁 With Friends</h3></summary>
+<summary><h3>📁 Projects With Friends</h3></summary>
 
 ### 🎮 Lembre de min - Visual Novel Game with Anne
 

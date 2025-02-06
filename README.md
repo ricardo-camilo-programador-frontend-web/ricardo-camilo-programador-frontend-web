@@ -13,6 +13,11 @@
   </a>
 </div>
 
+---
+
+<details>
+<summary><h2>📁 Projects</h2></summary>
+
 <details>
 <summary><h3>📁 Personal Projects</h3></summary>
 
@@ -775,6 +780,8 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python - Programming language used for game logic and scripting")
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white "Ren'Py - Visual Novel Engine for game development")
+
+</details>
 
 </details>
 

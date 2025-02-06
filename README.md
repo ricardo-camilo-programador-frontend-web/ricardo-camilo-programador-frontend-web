@@ -968,4 +968,8 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 
 ---
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ricardo-camilo-programador-frontend-web&label=Profile%20views&color=0e75b6&style=flat "Number of times my profile has been viewed")
+
+</div>

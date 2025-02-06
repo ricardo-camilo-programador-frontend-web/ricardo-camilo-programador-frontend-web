@@ -787,10 +787,9 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 <details>
 <summary><h2>📁 Professional Profile</h2></summary>
 
-<div
-  align="center"
-  style="display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: white"
->
+<table>
+<tr>
+<td align="center" style="background-color: #ffffff;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
@@ -820,7 +819,9 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
     <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Frontend Developer Education" width="100%" style="max-width: 800px; margin-top: 20px"/>
   </picture>
-</div>
+</td>
+</tr>
+</table>
 
 </details>
 

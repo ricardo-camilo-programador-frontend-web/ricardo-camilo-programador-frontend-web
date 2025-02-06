@@ -780,6 +780,20 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 ---
 
+## Profile
+
+<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg" alt="Profile" width="300"/>
+
+<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Profile" width="300"/>
+
+<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg" alt="Profile" width="300"/>
+
+<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg" alt="Profile" width="300"/>
+
+<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg" alt="Profile" width="300"/>
+
+---
+
 ## 🔧 Specialties
 
 - 🎯 Frontend Development (Vue, Javascript Frameworks)

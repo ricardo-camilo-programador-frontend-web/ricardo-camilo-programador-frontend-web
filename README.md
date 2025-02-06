@@ -789,53 +789,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 <div
   align="center"
-  <style>
-    @media (prefers-color-scheme: dark) {
-      body {
-        background-color: #1a1a1a;
-        color: #ffffff;
-      }
-      
-      a {
-        color: #63b3ed;
-      }
-      
-      a:hover {
-        color: #4299e1;
-      }
-      
-      summary {
-        color: #e2e8f0;
-      }
-      
-      img {
-        filter: brightness(0.8) contrast(1.2);
-      }
-    }
-
-    @media (prefers-color-scheme: light) {
-      body {
-        background-color: #ffffff;
-        color: #1a1a1a;
-      }
-      
-      a {
-        color: #2563eb;
-      }
-      
-      a:hover {
-        color: #1d4ed8;
-      }
-      
-      summary {
-        color: #1a1a1a;
-      }
-      
-      img {
-        filter: none;
-      }
-    }
-  </style>
+  style="display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: var(--color-canvas-default);"
 >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>

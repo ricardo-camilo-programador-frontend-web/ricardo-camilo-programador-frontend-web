@@ -1,4 +1,4 @@
-{%- include_relative .github/docs/header.md -%}
+{%- .github\docs\header.md -%}
 
 <details>
 <summary><h2>📁 Projects</h2></summary>

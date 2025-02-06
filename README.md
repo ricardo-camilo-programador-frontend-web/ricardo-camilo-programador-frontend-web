@@ -16,13 +16,13 @@
 ---
 
 <details>
-<summary><h2>📁 Projects</h2></summary>
+<summary><h2>📂 Projects</h2></summary>
 
 <details>
-<summary><h3>📁 Personal Projects</h3></summary>
+<summary><h3>🗂️ Personal Projects</h3></summary>
 
 <details>
-<summary><h3>└─📂Chronicles (TypeScript/JavaScript)</h3></summary>
+<summary><h3>└─💻 Chronicles (TypeScript/JavaScript)</h3></summary>
 
 ### 🍽️ Food Hut - Angular Chronicles - Part 1
 
@@ -343,7 +343,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 </details>
 
 <details>
-<summary><h3>└─📂 Dimensions (Dart)</h3></summary>
+<summary><h3>└─🎮 Dimensions (Dart)</h3></summary>
 
 ### ⌛ Time Forge - Dimensions Part 1
 
@@ -375,10 +375,10 @@ Pomodoro timer app developed with Dart and Flutter.
 ---
 
 <details>
-<summary><h3>📁 Corporative Projects</h3></summary>
+<summary><h3>💼 Corporative Projects</h3></summary>
 
 <details>
-  <summary>└─📂 Corporative Projects  with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
+  <summary>└─👔 Corporative Projects with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
 
 ### 🏢 Labi9.com
 
@@ -729,7 +729,7 @@ Successfully delivered a modern, responsive banking website that effectively pre
 ---
 
 <details>
-<summary><h3>📁 Freelance Projects</h3></summary>
+<summary><h3>🤝 Freelance Projects</h3></summary>
 
 Coming Soon...
 
@@ -738,7 +738,7 @@ Coming Soon...
 ---
 
 <details>
-<summary><h3>📁 Projects With Friends</h3></summary>
+<summary><h3>👥 Projects With Friends</h3></summary>
 
 ### 🎮 Lembre de min - Visual Novel Game with Anne
 

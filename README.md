@@ -863,7 +863,8 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<details>
+<summary><h2>🛠️ Tech Stack & Skills</h2></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" title="React - A JavaScript library for building user interfaces" />&nbsp;
@@ -890,11 +891,20 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" alt="REST API Badge" title="REST API - REpresentational State Transfer Architecture" />
 </p>
 
-## 🌱 Currently Studying
+</details>
+
+---
+
+<details>
+<summary><h2>🌱 Currently Studying</h2></summary>
 
 ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - The React Framework for Production")
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - Platform for building web applications")
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker - Platform for developing, shipping and running applications")
+
+</details>
+
+---
 
 <div align="center">
 
@@ -935,7 +945,10 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 > **Note:** Language percentages are calculated based on my public code and don't reflect experience or skill level.
 
-## 🎓 Certificates
+---
+
+<details>
+<summary><h2>🎓 Certificates</h2></summary>
 
 ### 🌐 English Proficiency - EF SET
 <a href="https://cert.efset.org/pt/75Zscf" target="_blank">
@@ -946,7 +959,12 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 - **Reading:** 72/100 (C2 Mastery)
 - **Listening:** 60/100 (B2 Independent)
 
-## ☕ Support My Work
+</details>
+
+---
+
+<details>
+<summary><h2>☕ Support My Work</h2></summary>
 
 If you find my work helpful and would like to support me, you can:
 
@@ -961,4 +979,5 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 <details>
 <summary title="Click to show/hide Bitcoin QR code">Bitcoin QR Code</summary>
 <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px" title="Scan this QR code to donate Bitcoin"/>
+</details>
 </details>

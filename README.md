@@ -188,7 +188,7 @@ This project served as a practical application of modern frontend development pr
 </a>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 
 ## 🎯 Overview
 
@@ -236,7 +236,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 </details>
 
 <details>
-<summary>Project Preview</summary>
+<summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/savana.webp" alt="Savana NuxtJS Chronicles Part 1 website preview" width="300"/>
 </details>
 
@@ -263,12 +263,12 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 </a>
 
 <details>
-<summary>Project Preview</summary>
+<summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/persona.png" alt="Persona NextJS Chronicles Part 2 website preview" width="300"/>
 </details>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 
 ## 📝 Description
 
@@ -338,7 +338,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 </details>
 
 <details>
-<summary><h3>Dimensions (Dart)</h3></summary>
+<summary><h3>└─📂 Dimensions (Dart)</h3></summary>
 
 ### ⌛ Time Forge - Dimensions Part 1
 
@@ -347,7 +347,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 </a>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 Pomodoro timer app developed with Dart and Flutter.
 
 ## 🛠️ Technical Implementation
@@ -370,10 +370,10 @@ Pomodoro timer app developed with Dart and Flutter.
 ---
 
 <details>
-<summary><h3>Corporative Projects</h3></summary>
+<summary><h3>└─📂 Corporative Projects</h3></summary>
 
 <details>
-  <summary>Corporative Projects  with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
+  <summary>└─📂 Corporative Projects  with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
 
 ### 🏢 Labi9.com
 
@@ -382,7 +382,7 @@ Pomodoro timer app developed with Dart and Flutter.
 </a>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 ## 📋 Project Overview
 A corporate website for Labi9, a software development company specializing in transforming ideas into reality and boosting businesses through technology solutions.
 
@@ -435,7 +435,7 @@ Frontend development while working closely with the backend team at Labi9, locat
 
 
 <details>
-<summary>Project Preview</summary>
+<summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/labi9.png" alt="Labi9 website preview" width="300"/>
 </details>
 
@@ -456,12 +456,12 @@ Frontend development while working closely with the backend team at Labi9, locat
 </a>
 
 <details>
-<summary>Project Preview</summary>
+<summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/loor.png" alt="Loor.vc website preview" width="300"/>
 </details>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Purpose
 
@@ -535,12 +535,12 @@ A platform designed to connect investors with startup investment opportunities, 
 ### 📊 Loor.vc Admin Dashboard
 
 <details>
-<summary>Project Preview</summary>
+<summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/loor-admin.png" alt="Loor.vc Admin Dashboard website preview" width="300"/>
 </details>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 
 ## 📋 Overview
 
@@ -640,12 +640,12 @@ Led the frontend development of a cutting-edge investment platform at Labi9, ena
 </a>
 
 <details>
-<summary>Project Preview</summary>
+<summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/glbk.png" alt="Global Liberty Bank website preview" width="300"/>
 </details>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Overview
 
@@ -708,7 +708,7 @@ Successfully delivered a modern, responsive banking website that effectively pre
 </a>
 
 <details>
-<summary>Project Preview</summary>
+<summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/tippbank.png" alt="Tippbank.com.br website preview" width="300"/>
 </details>
 
@@ -724,7 +724,7 @@ Successfully delivered a modern, responsive banking website that effectively pre
 ---
 
 <details>
-<summary><h3>Freelance Projects</h3></summary>
+<summary>└─📂 Freelance Projects</summary>
 
 Coming Soon...
 
@@ -733,7 +733,7 @@ Coming Soon...
 ---
 
 <details>
-<summary><h3>With Friends</h3></summary>
+<summary>└─📂 With Friends</summary>
 
 ### 🎮 Lembre de min - Visual Novel Game with Anne
 
@@ -745,7 +745,7 @@ Coming Soon...
 </a>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Overview
 Currently developing a visual novel game in collaboration with [@anneanneannehp](https://www.instagram.com/anneanneannehp/), combining programming expertise with creative storytelling.

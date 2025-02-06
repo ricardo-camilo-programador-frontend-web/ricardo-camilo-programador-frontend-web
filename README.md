@@ -14,10 +14,10 @@
 </div>
 
 <details>
-<summary><h3>Personal Projects</h3></summary>
+<summary><h3>📁 Personal Projects</h3></summary>
 
 <details>
-<summary><h3>Chronicles (TypeScript/JavaScript)</h3></summary>
+<summary><h3>└─📂Chronicles (TypeScript/JavaScript)</h3></summary>
 
 ### 🍽️ Food Hut - Angular Chronicles - Part 1
 
@@ -29,7 +29,7 @@
 </a>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 
 # 🍽️ Food Hut - Angular Chronicles
 
@@ -82,7 +82,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 </details>
 
 <details>
-<summary>Project Preview</summary>
+<summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/food-hut.png" alt="Food Hut Angular Chronicles Part 1 website preview" width="300"/>
 </details>
 
@@ -107,7 +107,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 </a>
 
 <details>
-<summary>Project Details</summary>
+<summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Overview
 
@@ -159,7 +159,7 @@ This project served as a practical application of modern frontend development pr
 </details>
 
 <details>
-<summary>Project Preview</summary>
+<summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/breath-natural.png" alt="Breath Natural NextJS Chronicles Part 1 website preview" width="300"/>
 </details>
 

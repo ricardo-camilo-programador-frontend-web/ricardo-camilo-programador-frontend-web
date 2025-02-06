@@ -16,7 +16,7 @@
 ---
 
 <details>
-<summary><h2>🧠 Projects</h2></summary>
+<summary><h2>🗂️ Projects</h2></summary>
 
 <details>
 <summary><h3>🗂️ Personal Projects</h3></summary>
@@ -788,7 +788,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 <details>
-<summary><h2>👨‍💼 Professional Profile</h2></summary>
+<summary><h2>🗂️ Professional Profile</h2></summary>
 
 <div align="center">
   <picture>
@@ -827,7 +827,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 <details>
-<summary><h2>📞 Professional Contact</h2></summary>
+<summary><h2>🗂️ Professional Contact</h2></summary>
 
 <a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect with me on LinkedIn - Professional networking and career opportunities"/>
@@ -850,7 +850,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 <details>
-<summary><h2>🛠️ Tech Stack & Skills</h2></summary>
+<summary><h2>🗂️ Tech Stack & Skills</h2></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" title="React - A JavaScript library for building user interfaces" />&nbsp;
@@ -882,7 +882,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 <details>
-<summary><h2>🌱 Currently Studying</h2></summary>
+<summary><h2>🗂️ Currently Studying</h2></summary>
 
 ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - The React Framework for Production")
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - Platform for building web applications")

@@ -831,6 +831,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 </details>
 
+---
 
 <details>
 <summary><h2>📁 Professional Contact</h2></summary>

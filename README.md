@@ -780,17 +780,39 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 ---
 
-## Profile
+## 📊 Professional Profile
 
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg" alt="Profile" width="300"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg" alt="Frontend Developer Differentiators" width="100%" style="max-width: 800px"/>
+  </picture>
 
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Profile" width="300"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Frontend Developer Education" width="100%" style="max-width: 800px; margin-top: 20px"/>
+  </picture>
 
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg" alt="Profile" width="300"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg" alt="Frontend Developer Expertise Overview" width="100%" style="max-width: 800px; margin-top: 20px"/>
+  </picture>
 
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg" alt="Profile" width="300"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg" alt="Frontend Developer High-Quality Web Applications" width="100%" style="max-width: 800px; margin-top: 20px"/>
+  </picture>
 
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg" alt="Profile" width="300"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg" alt="Frontend Developer Profile" width="100%" style="max-width: 800px; margin-top: 20px"/>
+  </picture>
+</div>
 
 ---
 

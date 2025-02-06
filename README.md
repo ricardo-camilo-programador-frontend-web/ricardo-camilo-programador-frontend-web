@@ -820,7 +820,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 <details>
-<summary><h2>📁 Professional Profile</h2></summary>
+<summary><h2>📁 Technical Skills</h2></summary>
 
 - 🎯 Frontend Development (Vue, Javascript Frameworks)
 - 💻 TypeScript & JavaScript Expert

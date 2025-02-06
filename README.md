@@ -894,16 +894,6 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 <div align="center">
 
-## 🚀 Available for Freelance Projects and Opportunities!
-
-### Specialist in creating modern and performant web experiences
-
-</div>
-
----
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ricardo-camilo-programador-frontend-web&label=Profile%20views&color=0e75b6&style=flat "Number of times my profile has been viewed")
 
 </div>
@@ -967,3 +957,15 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px" title="Scan this QR code to donate Bitcoin"/>
 </details>
 </details>
+
+---
+
+<div align="center">
+
+## 🚀 Available for Freelance Projects and Opportunities!
+
+### Specialist in creating modern and performant web experiences
+
+</div>
+
+---

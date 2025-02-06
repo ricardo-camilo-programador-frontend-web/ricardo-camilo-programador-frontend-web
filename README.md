@@ -16,7 +16,7 @@
 ---
 
 <details>
-<summary><h2>📂 Projects</h2></summary>
+<summary><h2>🧠 Projects</h2></summary>
 
 <details>
 <summary><h3>🗂️ Personal Projects</h3></summary>
@@ -788,7 +788,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 <details>
-<summary><h2>📁 Professional Profile</h2></summary>
+<summary><h2>👨‍💼 Professional Profile</h2></summary>
 
 <div align="center">
   <picture>
@@ -827,7 +827,7 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 <details>
-<summary><h2>📁 Professional Contact</h2></summary>
+<summary><h2>📞 Professional Contact</h2></summary>
 
 <a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect with me on LinkedIn - Professional networking and career opportunities"/>

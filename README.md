@@ -362,7 +362,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 <summary><h3>└─🌌 Dimensions (Dart)</h3></summary>
 
 <details>
-<summary>└─⌛ Time Forge - Dimensions Part 1</summary>
+<summary>└─⌛ Time Forge - Dimensions Part 1 - PAUSED</summary>
 
 <a href="https://github.com/ricardo-camilo-programador-frontend-web/dart-dimensions-part-1" target="_blank">
   <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>

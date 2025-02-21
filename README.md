@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1 - COMPLETED</summary>
+<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1 - COMPLETED - PORTFOLIO PROJECT</summary>
 
 <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -107,7 +107,7 @@ This project served as a practical application of modern frontend development pr
 ---
 
 <details>
-<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1  - COMPLETED</summary>
+<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1  - COMPLETED - PORTFOLIO PROJECT</summary>
 
 <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -194,7 +194,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ---
 
 <details>
-<summary>└─🦁 Savana - NuxtJS Chronicles Part 1 - PAUSED</summary>
+<summary>└─🦁 Savana - NuxtJS Chronicles Part 1 - PAUSED - PORTFOLIO PROJECT</summary>
 
 <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -272,7 +272,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ---
 
 <details>
-<summary>└─🎭 Persona - NextJS Chronicles Part 2 - ON GOING</summary>
+<summary>└─🎭 Persona - NextJS Chronicles Part 2 - ON GOING  - PORTFOLIO PROJECT</summary>
 
 <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -352,6 +352,65 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Google Analytics - Web analytics service by Google")
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework for multiple language support")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
+
+</details>
+
+<details>
+<summary>└─🌟 Zenith Node Chronicles - Part 1 - COMPLETED - STUDY PROJECT</summary>
+
+🔗 Demo online: [https://replit.com/@ricardo564/zenith-node-chronicles-part-1](https://replit.com/@ricardo564/zenith-node-chronicles-part-1)
+
+A basic web server project in Node.js that demonstrates fundamental concepts of backend development.
+
+🎯 Learning Objectives
+- Creation of a native HTTP server in Node.js
+- Page routing
+- File manipulation (File System)
+- Error handling
+- Basic internationalization (i18n)
+- Basic security (path sanitization)
+
+🛠️ Technologies Used
+- Node.js
+- TypeScript
+- HTML
+- Git
+- Replit (Deploy)
+
+🚀 Implemented Features
+- Custom HTTP server without frameworks
+- Manual routing system
+- Support for multiple languages (PT/EN)
+- 404 error handling
+- Path sanitization for security
+- Appropriate HTTP headers
+
+📚 Overview
+Learning Node.js fundamentals following freeCodeCamp's tutorial. This repository contains hands-on examples and projects to help you master Node.js core concepts.
+
+Built-in Modules:
+- 💻 OS Module
+- 🗂️ PATH Module
+- 📁 FS (File System) Module
+- 🌐 HTTP Module
+
+Core Concepts:
+- 🔄 Event-Driven Programming
+- 🖥️ Server Creation
+- 📂 File Operations
+
+📖 Resources
+Based on:
+- FreeCodeCamp's tutorial: How to Get Started with NodeJS – a Handbook for Beginners
+- Project: Basic Informational Site
+
+👨‍💻 Autor
+Ricardo Camilo
+
+📄 Licença
+MIT
+
+Made with ❤️ by Ricardo Camilo
 
 </details>
 

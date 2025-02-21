@@ -827,7 +827,8 @@ Coming Soon...
 <details>
 <summary><h3>👥 Projects With Friends</h3></summary>
 
-### 🎮 Lembre de min - Visual Novel Game with Anne
+<details>
+<summary>└─🎮 Lembre de min - Visual Novel Game with Anne <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 
 <a href="https://lembredemin.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -862,6 +863,8 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 *More details coming soon as the project develops!*
+
+</details>
 
 </details>
 

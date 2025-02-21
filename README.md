@@ -361,6 +361,13 @@ A modern, responsive portfolio website showcasing my professional experience as 
 <summary>└─🌟 Zenith Node Chronicles - Part 1 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 🔗 Demo online: [https://replit.com/@ricardo564/zenith-node-chronicles-part-1](https://replit.com/@ricardo564/zenith-node-chronicles-part-1)
 
+<a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+</a>
+<a href="https://github.com/ricardo-camilo-programador-frontend-web/node-chronicles-part-1" target="_blank">
+  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
+</a>
+
 <details>
 <summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/zenith-node-chronicles-part-1.png" alt="Zenith Node Chronicles Part 1 website preview" width="300"/>

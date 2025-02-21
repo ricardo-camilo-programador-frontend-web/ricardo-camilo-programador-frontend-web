@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>└─🌿 Breath Natural - NextJS <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🌿 Breath Natural - NextJS <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>

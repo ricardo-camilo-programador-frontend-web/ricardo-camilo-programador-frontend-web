@@ -367,6 +367,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 <details>
 <summary>└─🌟 Zenith - NodeJS <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 <div style="display: flex; gap: 10px; margin: 20px 0;">
+
   <a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
   </a>

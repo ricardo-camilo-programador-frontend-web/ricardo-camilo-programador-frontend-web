@@ -429,7 +429,7 @@ Based on:
 <summary><h3>└─🌌 Dimensions (Dart)</h3></summary>
 
 <details>
-<summary>└─⌛ Time Forge - Dimensions Part 1 - PAUSED</summary>
+<summary>└─⌛ Time Forge - Dimensions Part 1 <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 
 <a href="https://github.com/ricardo-camilo-programador-frontend-web/dart-dimensions-part-1" target="_blank">
   <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>

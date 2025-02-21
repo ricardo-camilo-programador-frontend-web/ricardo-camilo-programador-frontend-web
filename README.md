@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>└─🌿 Breath Natural - NextJS <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary><h3>└─🌿 Breath Natural - NextJS <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
@@ -201,12 +201,14 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 <details>
 <summary>└─🦁 Savana - NuxtJS <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
-<a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/nuxtjs-chronicles-part-1" target="_blank">
-  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
-</a>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/nuxtjs-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
+</div>
 
 <details>
 <summary>└─📑 Project Details</summary>
@@ -278,12 +280,14 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 <details>
 <summary>└─🎭 Persona - NextJS <br> <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
-<a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2" target="_blank">
-  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
-</a>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
+</div>
 
 <details>
 <summary>└─📑 Project Preview</summary>
@@ -364,12 +368,14 @@ A modern, responsive portfolio website showcasing my professional experience as 
 <summary>└─🌟 Zenith - NodeJS <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 🔗 Demo online: [https://replit.com/@ricardo564/zenith-node-chronicles-part-1](https://replit.com/@ricardo564/zenith-node-chronicles-part-1)
 
-<a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/node-chronicles-part-1" target="_blank">
-  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
-</a>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/node-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
+  </a>
+</div>
 
 <details>
 <summary>└─📑 Project Preview</summary>
@@ -478,9 +484,14 @@ Pomodoro timer app developed with Dart and Flutter.
 
 ### 🏢 Labi9.com
 
-<a href="https://labi9.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
-</a>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://labi9.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/loor.vc" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
+</div>
 
 <details>
 <summary>└─📑 Project Details</summary>
@@ -552,9 +563,14 @@ Frontend development while working closely with the backend team at Labi9, locat
 
 ### 💰 Loor.vc
 
-<a href="https://loor.vc/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
-</a>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://loor.vc/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/loor.vc" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
+</div>
 
 <details>
 <summary>└─📑 Project Preview</summary>
@@ -804,9 +820,14 @@ Successfully delivered a modern, responsive banking website that effectively pre
 
 ### 💳 Tippbank
 
-<a href="https://tippbank.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
-</a>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://tippbank.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/tippbank" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
+</div>
 
 <details>
 <summary>└─📑 Project Preview</summary>

@@ -487,9 +487,6 @@ Pomodoro timer app developed with Dart and Flutter.
   <a href="https://labi9.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
   </a>
-  <a href="https://github.com/ricardo-camilo-programador-frontend-web/loor.vc" target="_blank">
-    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
-  </a>
 </div>
 
 <details>
@@ -565,9 +562,6 @@ Frontend development while working closely with the backend team at Labi9, locat
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://loor.vc/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
-  </a>
-  <a href="https://github.com/ricardo-camilo-programador-frontend-web/loor.vc" target="_blank">
-    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
   </a>
 </div>
 

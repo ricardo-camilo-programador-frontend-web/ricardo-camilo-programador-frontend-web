@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1 <span style="background-color: #28a745; color: white; padding: 2px 5px; border-radius: 3px;">Completed</span> <span style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px;">Portfolio</span></summary>
+<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -107,7 +107,7 @@ This project served as a practical application of modern frontend development pr
 ---
 
 <details>
-<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1 <span style="background-color: #28a745; color: white; padding: 2px 5px; border-radius: 3px;">Completed</span> <span style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px;">Portfolio</span></summary>
+<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -187,14 +187,14 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma - Collaborative interface design tool")
 ![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Microsoft Clarity - Free website analytics tool")
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Google Tag Manager - Tag management system")
-![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Google Analytics - Web analytics service")
+![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
 </details>
 
 ---
 
 <details>
-<summary>└─🦁 Savana - NuxtJS Chronicles Part 1 <span style="background-color: #ffc107; color: black; padding: 2px 5px; border-radius: 3px;">Paused</span> <span style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px;">Portfolio</span></summary>
+<summary>└─🦁 Savana - NuxtJS Chronicles Part 1 <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -272,7 +272,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ---
 
 <details>
-<summary>└─🎭 Persona - NextJS Chronicles Part 2 <span style="background-color: #fd7e14; color: white; padding: 2px 5px; border-radius: 3px;">Ongoing</span> <span style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px;">Portfolio</span></summary>
+<summary>└─🎭 Persona - NextJS Chronicles Part 2 <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>

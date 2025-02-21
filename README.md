@@ -107,7 +107,7 @@ This project served as a practical application of modern frontend development pr
 ---
 
 <details>
-<summary>└─🍽️ Food Hut - Angular<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🍽️ Food Hut - Angular <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -194,7 +194,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ---
 
 <details>
-<summary>└─🦁 Savana - NuxtJS <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🦁 Savana - NuxtJS <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -272,7 +272,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ---
 
 <details>
-<summary>└─🎭 Persona - NextJS <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🎭 Persona - NextJS <br> <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -358,7 +358,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ---
 
 <details>
-<summary>└─🌟 Zenith - NodeJS <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
+<summary>└─🌟 Zenith - NodeJS <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 🔗 Demo online: [https://replit.com/@ricardo564/zenith-node-chronicles-part-1](https://replit.com/@ricardo564/zenith-node-chronicles-part-1)
 
 <a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
@@ -429,7 +429,7 @@ Based on:
 <summary><h3>└─🌌 Dimensions (Dart)</h3></summary>
 
 <details>
-<summary>└─⌛ Time Forge - Dimensions Part 1 <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
+<summary>└─⌛ Time Forge - Dimensions Part 1 <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 
 <a href="https://github.com/ricardo-camilo-programador-frontend-web/dart-dimensions-part-1" target="_blank">
   <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>

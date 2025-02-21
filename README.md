@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1</summary>
+<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1 - COMPLETED</summary>
 
 <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -107,7 +107,7 @@ This project served as a practical application of modern frontend development pr
 ---
 
 <details>
-<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1</summary>
+<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1  - COMPLETED</summary>
 
 <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -194,7 +194,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ---
 
 <details>
-<summary>└─🦁 Savana - NuxtJS Chronicles Part 1</summary>
+<summary>└─🦁 Savana - NuxtJS Chronicles Part 1 - PAUSED</summary>
 
 <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -272,7 +272,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ---
 
 <details>
-<summary>└─🎭 Persona - NextJS Chronicles Part 2</summary>
+<summary>└─🎭 Persona - NextJS Chronicles Part 2 - ON GOING</summary>
 
 <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>

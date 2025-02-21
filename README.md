@@ -822,10 +822,75 @@ Successfully delivered a modern, responsive banking website that effectively pre
 <img src="./assets/projects/tippbank.png" alt="Tippbank.com.br website preview" width="300"/>
 </details>
 
-<img src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" title="Nuxt.js - The Intuitive Vue Framework"/>
-<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite - Next Generation Frontend Tooling"/>
-<img src="https://img.shields.io/badge/Windicss-%2338B2AC.svg?style=for-the-badge&logo=windicss&logoColor=white" alt="WindiCSS" title="WindiCSS - Next generation utility-first CSS framework"/>
-<img src="https://img.shields.io/badge/vueuse-%2338B2AC.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="VueUse" title="VueUse - Collection of essential Vue Composition Utilities"/>
+<details>
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Purpose
+
+A platform designed to connect investors with startup investment opportunities, website developed while working at Labi9.com, focusing on high-potential returns and secure investments.
+
+## 🛠️ Technical Stack
+- **Framework:** Astro.js
+- **Frontend:** Vue.js for interactive components
+- **Styling:** TailwindCSS
+- **Integration:** REST API for product listing
+
+## 💻 Development Role
+- Frontend development at Labi9.com
+- No backend involvement
+- Focus on performance optimization
+- Responsive design implementation
+
+## 🔍 Key Features
+- Investment opportunities listing
+- Startup analysis tools
+- Financial planning tools
+- Real-time updates
+- User authentication system
+- Investment tracking dashboard
+
+## ⚡ Performance Highlights
+- Optimized page loading
+- Responsive design for all devices
+- Server-side rendering for better SEO
+- Component-based architecture
+- Efficient API data handling
+
+## 📱 User Interface
+- Clean and modern design
+- Easy navigation
+- Mobile-first approach
+- Intuitive investment tracking
+- Clear presentation of investment opportunities
+
+## 🎨 Design Implementation
+- Responsive layouts
+- Interactive components
+- Dynamic content loading
+- User-friendly forms
+- Progress indicators
+
+## 🔒 Security Features
+- Secure authentication flow
+- Protected investment data
+- Compliance with financial regulations
+- Safe transaction handling
+
+## 🌟 Project Highlights
+- Fast page transitions
+- Optimized asset loading
+- Seamless user experience
+- Professional financial interface
+- Clear investment information display
+
+---
+
+
+</details>
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
 
 </details>
 
@@ -848,12 +913,14 @@ Coming Soon...
 <details>
 <summary>└─🎮 Lembre de min - Visual Novel Game with Anne <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 
-<a href="https://lembredemin.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/LembreDeMin" target="_blank">
-  <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
-</a>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://lembredemin.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/LembreDeMin" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
+</div>
 
 <details>
 <summary>└─📑 Project Details</summary>

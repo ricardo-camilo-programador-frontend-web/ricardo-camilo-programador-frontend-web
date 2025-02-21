@@ -356,9 +356,12 @@ A modern, responsive portfolio website showcasing my professional experience as 
 </details>
 
 <details>
-<summary>└─🌟 Zenith Node Chronicles - Part 1 - COMPLETED - STUDY PROJECT</summary>
-
+<summary>└─🌟 Zenith Node Chronicles - Part 1 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 🔗 Demo online: [https://replit.com/@ricardo564/zenith-node-chronicles-part-1](https://replit.com/@ricardo564/zenith-node-chronicles-part-1)
+<details>
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/zenith-node-chronicles-part-1.png" alt="Zenith Node Chronicles Part 1 website preview" width="300"/>
+</details>
 
 A basic web server project in Node.js that demonstrates fundamental concepts of backend development.
 

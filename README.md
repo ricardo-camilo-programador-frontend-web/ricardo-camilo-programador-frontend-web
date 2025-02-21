@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1 - COMPLETED - PORTFOLIO PROJECT</summary>
+<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1 <span style="background-color: #28a745; color: white; padding: 2px 5px; border-radius: 3px;">Completed</span> <span style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px;">Portfolio</span></summary>
 
 <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -107,7 +107,7 @@ This project served as a practical application of modern frontend development pr
 ---
 
 <details>
-<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1  - COMPLETED - PORTFOLIO PROJECT</summary>
+<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1 <span style="background-color: #28a745; color: white; padding: 2px 5px; border-radius: 3px;">Completed</span> <span style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px;">Portfolio</span></summary>
 
 <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -194,7 +194,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ---
 
 <details>
-<summary>└─🦁 Savana - NuxtJS Chronicles Part 1 - PAUSED - PORTFOLIO PROJECT</summary>
+<summary>└─🦁 Savana - NuxtJS Chronicles Part 1 <span style="background-color: #ffc107; color: black; padding: 2px 5px; border-radius: 3px;">Paused</span> <span style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px;">Portfolio</span></summary>
 
 <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -272,7 +272,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ---
 
 <details>
-<summary>└─🎭 Persona - NextJS Chronicles Part 2 - ON GOING  - PORTFOLIO PROJECT</summary>
+<summary>└─🎭 Persona - NextJS Chronicles Part 2 <span style="background-color: #fd7e14; color: white; padding: 2px 5px; border-radius: 3px;">Ongoing</span> <span style="background-color: #007bff; color: white; padding: 2px 5px; border-radius: 3px;">Portfolio</span></summary>
 
 <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>

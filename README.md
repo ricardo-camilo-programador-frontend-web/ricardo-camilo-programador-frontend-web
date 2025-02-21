@@ -107,7 +107,7 @@ This project served as a practical application of modern frontend development pr
 ---
 
 <details>
-<summary>└─🍽️ Food Hut - Angular Chronicles - Part 1 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🍽️ Food Hut - Angular<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -358,7 +358,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ---
 
 <details>
-<summary>└─🌟 Zenith Node Chronicles - Part 1 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
+<summary>└─🌟 Zenith - NodeJS <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 🔗 Demo online: [https://replit.com/@ricardo564/zenith-node-chronicles-part-1](https://replit.com/@ricardo564/zenith-node-chronicles-part-1)
 
 <a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">

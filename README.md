@@ -26,12 +26,14 @@
 <details>
 <summary>└─🌿 Breath Natural - NextJS <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
-<a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-1" target="_blank">
-  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
-</a>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
+</div>
 
 <details>
 <summary>└─📑 Project Details</summary>
@@ -110,12 +112,14 @@ This project served as a practical application of modern frontend development pr
 <details>
 <summary>└─🍽️ Food Hut - Angular <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
-<a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1" target="_blank">
-  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
-</a>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
+</div>
 
 <details>
 <summary>└─📑 Project Details</summary>

@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>└─🌿 Breath Natural - NextJS Chronicles Part 1 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🌿 Breath Natural - NextJS <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -194,7 +194,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ---
 
 <details>
-<summary>└─🦁 Savana - NuxtJS Chronicles Part 1 <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🦁 Savana - NuxtJS <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>
@@ -272,7 +272,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ---
 
 <details>
-<summary>└─🎭 Persona - NextJS Chronicles Part 2 <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🎭 Persona - NextJS <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
 
 <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live-Website-2563eb" alt="Live Website"/>

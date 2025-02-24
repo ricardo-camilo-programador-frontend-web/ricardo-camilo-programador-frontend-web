@@ -514,6 +514,8 @@ Pomodoro timer app developed with Dart and Flutter.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter - Google's UI toolkit for building natively compiled applications")
 
 </details>
+</details>
+
 
 ---
 
@@ -525,7 +527,6 @@ Pomodoro timer app developed with Dart and Flutter.
 
 </details>
 
-</details>
 ---
 
 <details>

@@ -525,6 +525,7 @@ Pomodoro timer app developed with Dart and Flutter.
 
 </details>
 
+</details>
 ---
 
 <details>

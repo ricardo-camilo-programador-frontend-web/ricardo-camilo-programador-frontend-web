@@ -91,8 +91,6 @@ This project served as a practical application of modern frontend development pr
 <summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/breath-natural.png" alt="Breath Natural NextJS Chronicles Part 1 website preview" width="300"/>
 </details>
-</details>
-
 <details>
 <summary>└─📑 Project Technologies</summary>
 
@@ -109,6 +107,8 @@ This project served as a practical application of modern frontend development pr
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics")
 
 </details>
+</details>
+
 
 ---
 
@@ -188,8 +188,6 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
   <img src="https://img.shields.io/badge/Watch-Video_Preview-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch video preview on YouTube"/>
 </a>
 </details>
-</details>
-
 <details>
 <summary>└─📑 Project Technologies</summary>
 
@@ -203,6 +201,8 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
 
 </details>
+</details>
+
 
 ---
 
@@ -270,8 +270,6 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 <summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/savana.webp" alt="Savana NuxtJS Chronicles Part 1 website preview" width="300"/>
 </details>
-</details>
-
 <details>
 <summary>└─📑 Project Technologies</summary>
 
@@ -287,6 +285,8 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Simple and privacy-friendly website analytics")
 
 </details>
+</details>
+
 
 ---
 
@@ -362,8 +362,6 @@ A modern, responsive portfolio website showcasing my professional experience as 
 - Modern web technologies adoption
 
 </details>
-</details>
-
 <details>
 <summary>└─📑 Project Technologies</summary>
 
@@ -379,6 +377,8 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
 
 </details>
+</details>
+
 
 ---
 
@@ -446,8 +446,6 @@ Based on:
 - Project: Basic Informational Site
 </details>
 
-</details>
-
 <details>
 <summary>└─📑 Project Technologies</summary>
 
@@ -457,6 +455,8 @@ Based on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git - Distributed version control system")
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white "Replit - Online IDE and cloud IDE")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "A utility-first CSS framework")
+
+</details>
 
 </details>
 
@@ -481,10 +481,15 @@ Pomodoro timer app developed with Dart and Flutter.
 - **Framework:** Dart and Flutter
 
 </details>
-</details>
+<details>
+<summary>└─📑 Project Technologies</summary>
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white "Dart - A client-optimized programming language for fast apps on any platform")
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter - Google's UI toolkit for building natively compiled applications")
+
+</details>
+</details>
+
 
 ---
 

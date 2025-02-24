@@ -93,6 +93,9 @@ This project served as a practical application of modern frontend development pr
 </details>
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
@@ -105,7 +108,7 @@ This project served as a practical application of modern frontend development pr
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics")
 
-
+</details>
 
 ---
 
@@ -187,6 +190,9 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 </details>
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - A platform for building web applications")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
 ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220 "pnpm - Fast, disk space efficient package manager")
@@ -195,6 +201,8 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Google Tag Manager - Tag management system")
 ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
+
+</details>
 
 ---
 
@@ -264,6 +272,9 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 </details>
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white "The Intuitive Vue Framework - Build your next Vue.js application with confidence using Nuxt")
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript is a strongly typed programming language that builds on JavaScript")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "A utility-first CSS framework for rapidly building custom user interfaces")
@@ -274,6 +285,8 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service that tracks and reports website traffic")
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "Internationalization framework for multi-language support")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Simple and privacy-friendly website analytics")
+
+</details>
 
 ---
 
@@ -351,6 +364,9 @@ A modern, responsive portfolio website showcasing my professional experience as 
 </details>
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
@@ -361,6 +377,8 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Google Analytics - Web analytics service by Google")
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework for multiple language support")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
+
+</details>
 
 ---
 
@@ -430,12 +448,17 @@ Based on:
 
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine")
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white "HTML - Standard markup language for creating web pages")
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git - Distributed version control system")
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white "Replit - Online IDE and cloud IDE")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "A utility-first CSS framework")
+
+</details>
 
 ---
 </details>
@@ -547,6 +570,9 @@ Frontend development while working closely with the backend team at Labi9, locat
 <img src="./assets/projects/labi9.png" alt="Labi9 website preview" width="300"/>
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![Qwik](https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white "Framework for building fast web applications")
 ![Particles.js](https://img.shields.io/badge/particles.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white "Library for creating particles animations")
 ![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white "Progressive Web App capabilities")
@@ -554,6 +580,8 @@ Frontend development while working closely with the backend team at Labi9, locat
 ![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Analytics tool for understanding user behavior")
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Tag management system for marketing and analytics")
 ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
+
+</details>
 
 ---
 
@@ -636,9 +664,14 @@ A platform designed to connect investors with startup investment opportunities, 
 
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Next Generation Frontend Tooling")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "A utility-first CSS framework")
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "The web framework for content-driven websites")
+
+</details>
 
 ---
 
@@ -736,10 +769,15 @@ Led the frontend development of a cutting-edge investment platform at Labi9, ena
   <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
 </a>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB "React - A JavaScript library for building user interfaces")
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
+
+</details>
 
 ---
 
@@ -888,9 +926,14 @@ A platform designed to connect investors with startup investment opportunities, 
 
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
+
+</details>
 
 </details>
 
@@ -953,8 +996,13 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python - Programming language used for game logic and scripting")
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white "Ren'Py - Visual Novel Engine for game development")
+
+</details>
 
 </details>
 
@@ -1096,9 +1144,9 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 If you find my work helpful and would like to support me, you can:
 
-### 💰 Buy me a coffee
+### 💰 Suport my studies
 <a href="https://buymeacoffee.com/ricardo.camilo.frontend" target="_blank" title="Support my work by buying me a coffee">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" title="Support my work by buying me a coffee"/>
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Suport my studies" title="Support my work by buying me a coffee"/>
 </a>
 
 ### <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin" title="Donate Bitcoin"/>

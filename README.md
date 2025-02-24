@@ -18,7 +18,7 @@
 <details>
 <summary><h3>🗂️ Personal Projects</h3></summary>
 
-<>
+<details>
 <summary><h3>└─🗺️ Chronicles (TypeScript/JavaScript)</h3></summary>
 
 ---
@@ -513,7 +513,6 @@ Pomodoro timer app developed with Dart and Flutter.
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white "Dart - A client-optimized programming language for fast apps on any platform")
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter - Google's UI toolkit for building natively compiled applications")
 
-</details>
 </details>
 
 

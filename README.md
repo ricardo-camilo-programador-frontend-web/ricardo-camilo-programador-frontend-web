@@ -21,8 +21,6 @@
 <details>
 <summary><h3>└─🗺️ Chronicles (TypeScript/JavaScript)</h3></summary>
 
----
-
 ### 🌿 Breath Natural - NextJS
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">

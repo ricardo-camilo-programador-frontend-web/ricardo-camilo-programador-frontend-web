@@ -18,13 +18,12 @@
 <details>
 <summary><h3>🗂️ Personal Projects</h3></summary>
 
-<details>
+<>
 <summary><h3>└─🗺️ Chronicles (TypeScript/JavaScript)</h3></summary>
 
 ---
 
-<details>
-<summary>└─🌿 Breath Natural - NextJS</summary>
+### 🌿 Breath Natural - NextJS
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
@@ -114,13 +113,10 @@ This project served as a practical application of modern frontend development pr
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics")
 
 </details>
-</details>
-
 
 ---
 
-<details>
-<summary>└─🍽️ Food Hut - Angular</summary>
+### 🍽️ Food Hut - Angular
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
@@ -215,13 +211,10 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
 
 </details>
-</details>
-
 
 ---
 
-<details>
-<summary>└─🦁 Savana - NuxtJS</summary>
+### 🦁 Savana - NuxtJS
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
@@ -306,13 +299,10 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Simple and privacy-friendly website analytics")
 
 </details>
-</details>
-
 
 ---
 
-<details>
-<summary>└─🎭 Persona - NextJS</summary>
+### 🎭 Persona - NextJS
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
@@ -405,13 +395,10 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
 
 </details>
-</details>
-
 
 ---
 
-<details>
-<summary>└─🌟 Zenith - NodeJS</summary>
+### 🌟 Zenith - NodeJS
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
@@ -493,16 +480,13 @@ Based on:
 
 </details>
 
-</details>
-
 ---
 </details>
 
 <details>
 <summary><h3>└─🌌 Dimensions (Dart)</h3></summary>
 
-<details>
-<summary>└─⌛ Time Forge - Flutter</summary>
+### ⌛ Time Forge - Flutter
 
 <a href="https://github.com/ricardo-camilo-programador-frontend-web/dart-dimensions-part-1" target="_blank">
   <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
@@ -530,8 +514,6 @@ Pomodoro timer app developed with Dart and Flutter.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter - Google's UI toolkit for building natively compiled applications")
 
 </details>
-</details>
-
 
 ---
 

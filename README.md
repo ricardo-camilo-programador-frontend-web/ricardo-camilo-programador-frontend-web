@@ -1,27 +1,20 @@
 <p align="center">
   # Frontend Developer Specialist in Vue/React.js 🚀
 </p>
-
 <p align="center">
   <a href="https://persona-nextjs-chronicles-part-2.netlify.app/en" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Showcase-2563eb?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" title="View my professional portfolio - Showcasing projects and skills"/>
   </a>
 </p>
-
 ---
-
 <details id="projects">
   <summary><h2>📁 Projects</h2></summary>
-
   <details id="personal-projects">
     <summary><h3>🗂️ Personal Projects</h3></summary>
-
     <details id="chronicles">
       <summary><h3>└─🗺️ Chronicles (TypeScript/JavaScript)</h3></summary>
-
       ### 🌿 Breath Natural - NextJS
-
-      <p style="display: flex; gap: 10px; margin: 20px 0;">
+      <p align="center">
         <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
         </a>
@@ -29,19 +22,15 @@
           <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
         </a>
       </p>
-
       <details id="breath-natural-status">
         <summary>└─📑 Project Status</summary>
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
         <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
       </details>
-
       <details id="breath-natural-details">
         <summary>└─📑 Project Details</summary>
-
         ## 🎯 Project Overview
         A modern e-commerce platform for indoor plants, developed as a portfolio piece to demonstrate advanced frontend development capabilities. The project showcases my ability to create elegant, responsive, and user-friendly web applications.
-
         ## 🛠️ Technical Implementation
         - **Framework:** Next.js
         - **Styling:** Tailwind CSS
@@ -52,7 +41,6 @@
           - Integration with UI components
           - Performance optimization
           - SEO best practices
-
         ## ✨ Key Features
         - Elegant and modern UI design
         - Responsive layout for all devices
@@ -62,17 +50,14 @@
         - Interactive product navigation
         - Smooth animations and transitions
         - Multi-language support (PT/EN)
-
         ## 🎨 Design & Development
         The project features a minimalist and nature-inspired design, focusing on user experience and visual appeal. Each component was carefully crafted to ensure both aesthetics and functionality, demonstrating attention to detail and modern design principles.
-
         ## 🔧 Technologies Used
         - **Frontend:** Next.js
         - **Styling:** Tailwind CSS
         - **Language:** TypeScript
         - **Analytics:** Google Tag Manager, Google Analytics
         - **Deployment:** Netlify
-
         ## 🎯 Learning Outcomes
         This project served as a practical application of modern frontend development practices, showcasing:
         - Component architecture implementation
@@ -81,16 +66,13 @@
         - Performance optimization strategies
         - Clean code principles
         - Version control with Git
-
         ---
         *This portfolio project demonstrates my capability to deliver professional-grade frontend solutions, with a focus on user experience, performance, and code quality. It represents my commitment to creating engaging and functional web applications using current industry standards and best practices.*
       </details>
-
       <details id="breath-natural-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/breath-natural.png" alt="Breath Natural NextJS Chronicles Part 1 website preview" width="300"/>
+        <img src="assets/projects/breath-natural.png" alt="Breath Natural NextJS Chronicles Part 1 website preview" width="300"/>
       </details>
-
       <details id="breath-natural-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
@@ -105,12 +87,9 @@
         ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework")
         ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics")
       </details>
-
       ---
-
       ### 🍽️ Food Hut - Angular
-
-      <p style="display: flex; gap: 10px; margin: 20px 0;">
+      <p align="center">
         <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
         </a>
@@ -118,21 +97,16 @@
           <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
         </a>
       </p>
-
       <details id="food-hut-status">
         <summary>└─📑 Project Status</summary>
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
         <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
       </details>
-
       <details id="food-hut-details">
         <summary>└─📑 Project Details</summary>
-
         # 🍽️ Food Hut - Angular Chronicles
-
         ## 🎯 Project Overview
         A modern restaurant landing page developed to demonstrate proficiency in Angular and modern web development practices. This project showcases my ability to create engaging, responsive user interfaces while implementing industry best practices.
-
         ## 🛠️ Technical Implementation
         - **PWA:** Progressive Web App capabilities
         - **Styling:** Tailwind CSS for modern, responsive design
@@ -140,13 +114,11 @@
         - **Approach:** Mobile-first development
         - **Architecture:** Component-based structure
         - **Content:** Dynamic rendering system
-
         ## 💻 Technology Stack
         - **Framework:** Angular
         - **CSS Framework:** Tailwind CSS
         - **Analytics:** Google Analytics
         - **Features:** PWA capabilities
-
         ## 🌟 Key Features
         - Modern, responsive design
         - Mobile-optimized interface
@@ -154,7 +126,6 @@
         - Smooth animations
         - Interactive UI elements
         - Dynamic image galleries
-
         ## 🔍 Learning Outcomes
         - Angular component architecture
         - TypeScript implementation
@@ -162,33 +133,27 @@
         - State management
         - Code organization
         - Performance optimization
-
         ## 💪 Demonstrated Abilities
         - Creating modern, responsive web applications
         - Working with popular frontend frameworks
         - Implementing attractive UI/UX designs
         - Optimizing for performance
         - Developing mobile-first solutions
-
         ## 🎨 Design Attribution
         UI/UX inspired by a Figma community design, adapted and implemented with modern web technologies.
-
         ---
         *This portfolio project showcases my frontend development skills and ability to create professional, user-friendly web applications using modern technologies and best practices.*
       </details>
-
       <details id="food-hut-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/food-hut.png" alt="Food Hut Angular Chronicles Part 1 website preview" width="300"/>
+        <img src="assets/projects/food-hut.png" alt="Food Hut Angular Chronicles Part 1 website preview" width="300"/>
       </details>
-
       <details id="food-hut-video">
         <summary>└─🎥 Video Preview</summary>
         <a href="https://www.youtube.com/watch?v=qpa0vKH8gGQ" target="_blank">
           <img src="https://img.shields.io/badge/Watch-Video_Preview-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch video preview on YouTube"/>
         </a>
       </details>
-
       <details id="food-hut-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - A platform for building web applications")
@@ -200,12 +165,9 @@
         ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
         ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
       </details>
-
       ---
-
       ### 🦁 Savana - NuxtJS
-
-      <p style="display: flex; gap: 10px; margin: 20px 0;">
+      <p align="center">
         <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
         </a>
@@ -213,26 +175,21 @@
           <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
         </a>
       </p>
-
       <details id="savana-status">
         <summary>└─📑 Project Status</summary>
         <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/>
         <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
       </details>
-
       <details id="savana-details">
         <summary>└─📑 Project Details</summary>
-
         ## 🎯 Overview
         A portfolio project showcasing frontend development skills using NuxtJS, demonstrating modern web development practices and UI/UX implementation.
-
         ## 🛠️ Technical Stack
         - **Frontend Framework:** NuxtJS
         - **State Management:** Pinia
         - **Styling:** Tailwind CSS
         - **Languages:** TypeScript/JavaScript
         - **Internationalization:** i18n
-
         ## ✨ Key Features
         - 🌐 Multi-language support (English/Portuguese)
         - ❤️ Favorites system implementation
@@ -241,36 +198,30 @@
         - 🔄 Global state management with Pinia
         - 🖥️ Fully adaptable layout
         - 🚀 Performance optimized
-
         ## 💡 Learning Outcomes
         - Experience with NuxtJS ecosystem
         - Implementation of state management patterns
         - Responsive design practices
         - Internationalization implementation
         - Component architecture
-
         ## 🎯 Project Goals
         - Demonstrate frontend development expertise
         - Showcase modern web development practices
         - Display ability to handle complex UI states
         - Show proficiency in Vue.js ecosystem
-
         ## 🔍 Notable Implementations
         - Clean and intuitive navigation system
         - Smooth transitions and animations
         - Efficient state management
         - Responsive mobile-first design
         - Cross-browser compatibility
-
         ---
         *This project serves as a practical demonstration of frontend development capabilities, particularly in the Vue.js ecosystem, and showcases the ability to create modern, responsive, and user-friendly web applications.*
       </details>
-
       <details id="savana-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/savana.webp" alt="Savana NuxtJS Chronicles Part 1 website preview" width="300"/>
+        <img src="assets/projects/savana.webp" alt="Savana NuxtJS Chronicles Part 1 website preview" width="300"/>
       </details>
-
       <details id="savana-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white "The Intuitive Vue Framework - Build your next Vue.js application with confidence using Nuxt")
@@ -284,12 +235,9 @@
         ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "Internationalization framework for multi-language support")
         ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Simple and privacy-friendly website analytics")
       </details>
-
       ---
-
       ### 🎭 Persona - NextJS
-
-      <p style="display: flex; gap: 10px; margin: 20px 0;">
+      <p align="center">
         <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
         </a>
@@ -297,24 +245,19 @@
           <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
         </a>
       </p>
-
       <details id="persona-status">
         <summary>└─📑 Project Status</summary>
         <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/>
         <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
       </details>
-
       <details id="persona-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/persona.png" alt="Persona NextJS Chronicles Part 2 website preview" width="300"/>
+        <img src="assets/projects/persona.png" alt="Persona NextJS Chronicles Part 2 website preview" width="300"/>
       </details>
-
       <details id="persona-details">
         <summary>└─📑 Project Details</summary>
-
         ## 📝 Description
         A modern, responsive portfolio website showcasing my professional experience as a Frontend Developer with 4+ years of expertise in transforming business challenges into high-impact digital solutions.
-
         ## 🛠️ Technical Implementation
         - Built with Next.js for optimal performance
         - Responsive design for all devices
@@ -323,7 +266,6 @@
         - Portfolio showcase with detailed project descriptions
         - Contact form integration
         - Performance optimized with 90+ Lighthouse score
-
         ## 💻 Tech Stack
         - Next.js
         - TypeScript
@@ -331,7 +273,6 @@
         - Netlify (Hosting)
         - Google Analytics
         - PWA capabilities
-
         ## 🎨 Key Features
         - Clean, minimalist design
         - Project showcase with live demos
@@ -341,19 +282,16 @@
         - Contact information
         - Responsive navigation
         - Dark/Light mode toggle
-
         ## 📱 Highlighted Projects Showcase
         - 🪴 **Breath Natural** [Next.js E-commerce](https://breath-natural-nextjs-chronicles.netlify.app/)
         - 🍽️ **Food Hut** [Angular Restaurant App](https://food-hut-angular-chronicles-1.netlify.app/)
         - 🦁 **Savana** [Nuxt 3 Project](https://savana-nuxtjs-chronicles-part-1.netlify.app/en)
-
         ## 🎯 Business Focus
         - Website performance optimization (40% faster loading times)
         - Development process efficiency (60% improvement)
         - User-centric interface design
         - Conversion-focused implementations
         - Scalable and maintainable code architecture
-
         ## 🌟 Professional Highlights
         - Frontend development expertise
         - Multiple framework experience
@@ -362,7 +300,6 @@
         - Responsive design implementation
         - Modern web technologies adoption
       </details>
-
       <details id="persona-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
@@ -376,12 +313,9 @@
         ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework for multiple language support")
         ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
       </details>
-
       ---
-
       ### 🌟 Zenith - NodeJS
-
-      <p style="display: flex; gap: 10px; margin: 20px 0;">
+      <p align="center">
         <a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
         </a>
@@ -389,22 +323,18 @@
           <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
         </a>
       </p>
-
       <details id="zenith-status">
         <summary>└─📑 Project Status</summary>
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
         <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/>
       </details>
-
       <details id="zenith-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/zenith-node-chronicles-part-1.png" alt="Zenith Node Chronicles Part 1 website preview" width="300"/>
+        <img src="assets/projects/zenith-node-chronicles-part-1.png" alt="Zenith Node Chronicles Part 1 website preview" width="300"/>
       </details>
-
       <details id="zenith-details">
         <summary>└─📑 Project Details</summary>
         A basic web server project in Node.js that demonstrates fundamental concepts of backend development.
-
         🎯 Learning Objectives
         - Creation of a native HTTP server in Node.js
         - Page routing
@@ -412,14 +342,12 @@
         - Error handling
         - Basic internationalization (i18n)
         - Basic security (path sanitization)
-
         🛠️ Technologies Used
         - Node.js
         - TypeScript
         - HTML
         - Git
         - Replit (Deploy)
-
         🚀 Implemented Features
         - Custom HTTP server without frameworks
         - Manual routing system
@@ -427,27 +355,22 @@
         - 404 error handling
         - Path sanitization for security
         - Appropriate HTTP headers
-
         📚 Overview
         Learning Node.js fundamentals following freeCodeCamp's tutorial. This repository contains hands-on examples and projects to help you master Node.js core concepts.
-
         Built-in Modules:
         - 💻 OS Module
         - 🗂️ PATH Module
         - 📁 FS (File System) Module
         - 🌐 HTTP Module
-
         Core Concepts:
         - 🔄 Event-Driven Programming
         - 🖥️ Server Creation
         - 📂 File Operations
-
         📖 Resources
         Based on:
         - FreeCodeCamp's tutorial: How to Get Started with NodeJS – a Handbook for Beginners
         - Project: Basic Informational Site
       </details>
-
       <details id="zenith-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine")
@@ -457,72 +380,55 @@
         ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white "Replit - Online IDE and cloud IDE")
         ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "A utility-first CSS framework")
       </details>
-
       ---
     </details>
-
     <details id="dimensions">
       <summary><h3>└─🌌 Dimensions (Dart)</h3></summary>
-
       ### ⌛ Time Forge - Flutter
-
       <a href="https://github.com/ricardo-camilo-programador-frontend-web/dart-dimensions-part-1" target="_blank">
         <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
       </a>
-
       <details id="time-forge-status">
         <summary>└─📑 Project Status</summary>
         <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/>
         <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/>
       </details>
-
       <details id="time-forge-details">
         <summary>└─📑 Project Details</summary>
         Pomodoro timer app developed with Dart and Flutter.
-
         ## 🛠️ Technical Implementation
         - **Framework:** Dart and Flutter
       </details>
-
       <details id="time-forge-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white "Dart - A client-optimized programming language for fast apps on any platform")
         ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter - Google's UI toolkit for building natively compiled applications")
       </details>
-
       ---
     </details>
-
     ---
     *This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*
   </details>
-
   <details id="corporative-projects">
     <summary><h3>💼 Corporative Projects</h3></summary>
-
     <details id="labi9-projects">
       <summary>└─👔 Corporative Projects with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
-
       ### 🏢 Labi9.com
-
-      <p style="display: flex; gap: 10px; margin: 20px 0;">
+      <p align="center">
         <a href="https://labi9.com/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
         </a>
       </p>
-
       <details id="labi9-details">
         <summary>└─📑 Project Details</summary>
         ## 📋 Project Overview
         A corporate website for Labi9, a software development company specializing in transforming ideas into reality and boosting businesses through technology solutions.
-
         ## 🛠️ Technical Stack
         - **Framework:** Qwik 1.5.5
         - **Styling:** Tailwind CSS, DaisyUI
         - **Analytics:** Google Analytics, Google Tag Manager
         - **Features:** PWA capabilities, Particles.js
         - **Focus:** Performance & Visual Effects
-
         ## 🎨 Frontend Features
         - Responsive design across all devices
         - Modern and clean UI/UX
@@ -531,7 +437,6 @@
         - Cross-browser compatibility
         - SEO optimization
         - Progressive Web App implementation
-
         ## 📱 Key Sections
         - Interactive hero section
         - Services overview
@@ -540,14 +445,12 @@
         - Company information
         - Contact forms
         - Team presentation
-
         ## 💼 Portfolio Highlights
         - **Loor:** Equity & Crowdfunding : [Loor - Frontend](https://loor.vc/)
         - **Tipp Bank:** Payment Solutions : [Tipp Bank](https://tippbank.com.br/)
         - **Sti3:** ERP Systems : [Sti3](https://sti3.com.br/)
         - **BCodex:** Embed Finance : [BCodex](https://bcodex.com.br/)
         - **Global Liberty Bank:** Banking Platform : [Global Liberty Bank](https://www.glbk.com.br/)
-
         ## 🌟 Project Achievements
         - Optimized loading times
         - SEO-friendly structure
@@ -555,19 +458,15 @@
         - Smooth animations
         - Responsive across devices
         - Full PWA functionality
-
         ## 🤝 Collaboration
         Frontend development while working closely with the backend team at Labi9, located in Jaú - SP, Brazil.
-
         ---
         *Demonstrating expertise in modern web development and UI/UX implementation*
       </details>
-
       <details id="labi9-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/labi9.png" alt="Labi9 website preview" width="300"/>
+        <img src="assets/projects/labi9.png" alt="Labi9 website preview" width="300"/>
       </details>
-
       <details id="labi9-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![Qwik](https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white "Framework for building fast web applications")
@@ -578,40 +477,31 @@
         ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Tag management system for marketing and analytics")
         ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
       </details>
-
       ---
-
       ### 💰 Loor.vc
-
-      <p style="display: flex; gap: 10px; margin: 20px 0;">
+      <p align="center">
         <a href="https://loor.vc/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
         </a>
       </p>
-
       <details id="loor-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/loor.png" alt="Loor.vc website preview" width="300"/>
+        <img src="assets/projects/loor.png" alt="Loor.vc website preview" width="300"/>
       </details>
-
       <details id="loor-details">
         <summary>└─📑 Project Details</summary>
-
         ## 🎯 Project Purpose
         A platform designed to connect investors with startup investment opportunities, website developed while working at Labi9.com, focusing on high-potential returns and secure investments.
-
         ## 🛠️ Technical Stack
         - **Framework:** Astro.js
         - **Frontend:** Vue.js for interactive components
         - **Styling:** TailwindCSS
         - **Integration:** REST API for product listing
-
         ## 💻 Development Role
         - Frontend development at Labi9.com
         - No backend involvement
         - Focus on performance optimization
         - Responsive design implementation
-
         ## 🔍 Key Features
         - Investment opportunities listing
         - Startup analysis tools
@@ -619,76 +509,63 @@
         - Real-time updates
         - User authentication system
         - Investment tracking dashboard
-
         ## ⚡ Performance Highlights
         - Optimized page loading
         - Responsive design for all devices
         - Server-side rendering for better SEO
         - Component-based architecture
         - Efficient API data handling
-
         ## 📱 User Interface
         - Clean and modern design
         - Easy navigation
         - Mobile-first approach
         - Intuitive investment tracking
         - Clear presentation of investment opportunities
-
         ## 🎨 Design Implementation
         - Responsive layouts
         - Interactive components
         - Dynamic content loading
         - User-friendly forms
         - Progress indicators
-
         ## 🔒 Security Features
         - Secure authentication flow
         - Protected investment data
         - Compliance with financial regulations
         - Safe transaction handling
-
         ## 🌟 Project Highlights
         - Fast page transitions
         - Optimized asset loading
         - Seamless user experience
         - Professional financial interface
         - Clear investment information display
-
         ---
       </details>
-
       <details id="loor-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
         ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
         ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The web framework for content-driven websites")
       </details>
-
       ---
-
       ### 📊 Loor.vc Admin Dashboard
-
-      <a href="https://painel.loor.vc/investor/login" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
-      </a>
-
+      <p align="center">
+        <a href="https://painel.loor.vc/investor/login" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+        </a>
+      </p>
       <details id="loor-admin-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/loor-admin.png" alt="Loor.vc Admin Dashboard website preview" width="300"/>
+        <img src="assets/projects/loor-admin.png" alt="Loor.vc Admin Dashboard website preview" width="300"/>
       </details>
-
       <details id="loor-admin-details">
         <summary>└─📑 Project Details</summary>
-
         ## 📋 Overview
         Led the frontend development of a cutting-edge investment platform at Labi9, enabling sophisticated portfolio management and seamless investment tracking for high-net-worth individuals and institutional investors.
-
         ## 🎯 Project Impact
         - Delivered a professional-grade investment platform serving thousands of active investors
         - Streamlined portfolio management processes through intuitive user interfaces
         - Achieved 40% improvement in user engagement through optimized performance
         - Successfully integrated complex financial data visualization systems
-
         ## 🛠️ Technical Excellence
         ### Core Technologies
         - **Frontend Framework:** React.js with Modern Hooks
@@ -696,67 +573,56 @@
         - **State Management:** Redux for efficient data flow
         - **API Integration:** RESTful architecture
         - **Authentication:** JWT-based secure login system
-
         ### Key Technical Achievements
         - Implemented real-time data updates using WebSocket connections
         - Developed reusable component library for consistent UI/UX
         - Optimized application performance achieving <2s initial load time
         - Established robust error handling and logging systems
-
         ## 🔑 Feature Highlights
         ### Investment Management
         - Dynamic portfolio dashboard with real-time updates
         - Advanced investment tracking and analytics
         - Comprehensive transaction history
         - Interactive financial charts and graphs
-
         ### Security & Performance
         - Multi-factor authentication system
         - End-to-end data encryption
         - Optimized asset loading and caching
         - Responsive design for all devices
-
         ### User Experience
         - Intuitive navigation system
         - Customizable dashboard layouts
         - Advanced search and filtering capabilities
         - Real-time notifications system
-
         ## 👥 User Segments
         - Individual investors
         - Portfolio managers
         - Financial advisors
         - Administrative personnel
-
         ## 🎨 Design Philosophy
         - Clean, professional interface emphasizing usability
         - Data-driven visualizations for complex financial information
         - Consistent branding and visual hierarchy
         - Accessibility-first approach
-
         ## 🤝 Integration Ecosystem
         - Seamless backend API integration
         - Third-party financial service providers
         - Real-time market data feeds
         - Secure payment processing systems
-
         ## 🎓 Professional Contribution
         - Led frontend architecture decisions
         - Mentored junior developers
         - Collaborated with UX/UI designers
         - Implemented best practices and coding standards
         - Participated in agile development cycles
-
         ## 🏆 Achievements
         - Reduced loading times by 60% through optimization
         - Implemented automated testing achieving 90% coverage
         - Successfully delivered all milestones within timeline
         - Maintained 99.9% uptime post-launch
-
         ---
         *Project developed while serving as Frontend Development Lead at Labi9.com*
       </details>
-
       <details id="loor-admin-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB "React - A JavaScript library for building user interfaces")
@@ -764,26 +630,21 @@
         ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
         ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
       </details>
-
       ---
-
       ### 🏦 Global Liberty Bank
-
-      <a href="https://www.glbk.com.br/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
-      </a>
-
+      <p align="center">
+        <a href="https://www.glbk.com.br/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+        </a>
+      </p>
       <details id="glbk-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/glbk.png" alt="Global Liberty Bank website preview" width="300"/>
+        <img src="assets/projects/glbk.png" alt="Global Liberty Bank website preview" width="300"/>
       </details>
-
       <details id="glbk-details">
         <summary>└─📑 Project Details</summary>
-
         ## 🎯 Project Overview
         A modern banking website developed while working at Labi9.com, focusing solely on the frontend implementation. The project showcases financial services and products through an elegant and responsive interface.
-
         ## 💻 Technical Implementation
         - **Framework:** Astro.js and Vue.js
         - **Styling:** TailwindCSS
@@ -792,79 +653,65 @@
         - **Design:** Responsive for all devices
         - **Performance:** Optimized animations
         - **SEO:** Search engine optimized structure
-
         ## 🎨 Design Features
         - Clean and professional banking interface
         - Modern financial sector aesthetics
         - Interactive UI elements
         - Smooth scrolling animations
         - Mobile-first approach
-
         ## ⚡ Performance Metrics
         - Quick page load times
         - Optimized asset delivery
         - Smooth transitions
         - Efficient code structure
-
         ## 🎯 Role & Responsibilities
         - Frontend development
         - Component architecture
         - Performance optimization
         - Responsive implementation
         - Animation development
-
         ## ✨ Key Highlights
         - Fast loading times
         - Cross-browser compatibility
         - Accessible design
         - Optimized for all screen sizes
         - Interactive components
-
         ## 🌟 Project Outcome
         Successfully delivered a modern, responsive banking website that effectively presents GLBK's financial services and maintains professional banking sector standards.
-
         ---
         *Project developed as Frontend Developer at Labi9.com*
       </details>
-
       <details id="glbk-technologies">
         <summary>└─📑 Project Technologies</summary>
         <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite - Next Generation Frontend Tooling"/>
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="TailwindCSS - A utility-first CSS framework"/>
         <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" title="Astro - The all-in-one web framework"/>
       </details>
-
       ---
-
       ### 💳 Tippbank
-
-      <a href="https://tippbank.com.br/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
-      </a>
-
+      <p align="center">
+        <a href="https://tippbank.com.br/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+        </a>
+      </p>
       <details id="tippbank-preview">
         <summary>└─📑 Project Preview</summary>
-        <img src="./assets/projects/tippbank.png" alt="Tippbank.com.br website preview" width="300"/>
+        <img src="assets/projects/tippbank.png" alt="Tippbank.com.br website preview" width="300"/>
       </details>
-
       <details id="tippbank-details">
         <summary>└─📑 Project Details</summary>
-
         ## 🎯 Project Purpose
         A platform designed to connect investors with startup investment opportunities, website developed while working at Labi9.com, focusing on high-potential returns and secure investments.
-
         ## 🛠️ Technical Stack
         - **Framework:** Astro.js
         - **Frontend:** Vue.js for interactive components
         - **Styling:** TailwindCSS
         - **Integration:** REST API for product listing
-
         ## 💻 Development Role
         - Frontend development at Labi9.com
         - No backend involvement
         - Focus on performance optimization
         - Responsive design implementation
-
         ## 🔍 Key Features
         - Investment opportunities listing
         - Startup analysis tools
@@ -872,44 +719,37 @@
         - Real-time updates
         - User authentication system
         - Investment tracking dashboard
-
         ## ⚡ Performance Highlights
         - Optimized page loading
         - Responsive design for all devices
         - Server-side rendering for better SEO
         - Component-based architecture
         - Efficient API data handling
-
         ## 📱 User Interface
         - Clean and modern design
         - Easy navigation
         - Mobile-first approach
         - Intuitive investment tracking
         - Clear presentation of investment opportunities
-
         ## 🎨 Design Implementation
         - Responsive layouts
         - Interactive components
         - Dynamic content loading
         - User-friendly forms
         - Progress indicators
-
         ## 🔒 Security Features
         - Secure authentication flow
         - Protected investment data
         - Compliance with financial regulations
         - Safe transaction handling
-
         ## 🌟 Project Highlights
         - Fast page transitions
         - Optimized asset loading
         - Seamless user experience
         - Professional financial interface
         - Clear investment information display
-
         ---
       </details>
-
       <details id="tippbank-technologies">
         <summary>└─📑 Project Technologies</summary>
         ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
@@ -918,23 +758,17 @@
       </details>
     </details>
   </details>
-
   ---
-
   <details id="freelance-projects">
     <summary><h3>🤝 Freelance Projects</h3></summary>
     Coming Soon...
   </details>
-
   ---
-
   <details id="friend-projects">
     <summary><h3>👥 Projects With Friends</h3></summary>
-
     <details id="lembre-de-min">
       <summary>└─🎮 Lembre de min - Visual Novel Game with Anne <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
-
-      <p style="display: flex; gap: 10px; margin: 20px 0;">
+      <p align="center">
         <a href="https://lembredemin.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
         </a>
@@ -942,35 +776,28 @@
           <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
         </a>
       </p>
-
       <details id="lembre-de-min-details">
         <summary>└─📑 Project Details</summary>
-
         ## 🎯 Project Overview
         Currently developing a visual novel game in collaboration with [@anneanneannehp](https://www.instagram.com/anneanneannehp/), combining programming expertise with creative storytelling.
-
         ## 🛠️ Technical Stack
         - **Engine:** Ren'Py
         - **Language:** Python
         - **Graphics:** Custom artwork and animations
         - **Status:** In Development
-
         ## 🎨 Features
         - Interactive storytelling
         - Multiple story paths
         - Character dialogue system
         - Custom artwork integration
         - Sound and music implementation
-
         ## 👥 Team
         - **Programming & Technical Implementation:** Ricardo Camilo
         - **Art & Story:** [@anneanneannehp](https://www.instagram.com/anneanneannehp/)
-
         ---
         *More details coming soon as the project develops!*
       </details>
     </details>
-
     <details id="lembre-de-min-technologies">
       <summary>└─📑 Project Technologies</summary>
       ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python - Programming language used for game logic and scripting")
@@ -978,22 +805,18 @@
     </details>
   </details>
 </details>
-
 ---
-
 <details id="professional-profile">
   <summary><h2>📁 Professional Profile</h2></summary>
   <p align="center">
-    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg" alt="Frontend Developer Profile" width="100%" style="max-width: 800px"/>
-    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg" alt="Frontend Developer Expertise Overview" width="100%" style="max-width: 800px; margin-top: 20px"/>
-    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg" alt="Frontend Developer High-Quality Web Applications" width="100%" style="max-width: 800px; margin-top: 20px"/>
-    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg" alt="Frontend Developer Differentiators" width="100%" style="max-width: 800px; margin-top: 20px"/>
-    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Frontend Developer Education" width="100%" style="max-width: 800px; margin-top: 20px"/>
+    <img src="assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg" alt="Frontend Developer Profile" width="100%" style="max-width: 800px"/>
+    <img src="assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg" alt="Frontend Developer Expertise Overview" width="100%" style="max-width: 800px; margin-top: 20px"/>
+    <img src="assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg" alt="Frontend Developer High-Quality Web Applications" width="100%" style="max-width: 800px; margin-top: 20px"/>
+    <img src="assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg" alt="Frontend Developer Differentiators" width="100%" style="max-width: 800px; margin-top: 20px"/>
+    <img src="assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Frontend Developer Education" width="100%" style="max-width: 800px; margin-top: 20px"/>
   </p>
 </details>
-
 ---
-
 <details id="professional-contact">
   <summary><h2>📁 Professional Contact</h2></summary>
   <p align="center">
@@ -1014,9 +837,7 @@
     </a>
   </p>
 </details>
-
 ---
-
 <details id="tech-stack">
   <summary><h2>📁 Tech Stack & Skills</h2></summary>
   <p align="center">
@@ -1044,9 +865,7 @@
     <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" alt="REST API Badge" title="REST API - REpresentational State Transfer Architecture" />
   </p>
 </details>
-
 ---
-
 <details id="currently-studying">
   <summary><h2>📁 Currently Studying</h2></summary>
   <p align="center">
@@ -1055,55 +874,42 @@
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker - Platform for developing, shipping and running applications")
   </p>
 </details>
-
 ---
-
 <details id="certificates">
   <summary><h2>📊 Certificates</h2></summary>
-
   ### 🌐 English Proficiency - EF SET
   <p align="center">
     <a href="https://cert.efset.org/pt/75Zscf" target="_blank">
       <img src="https://img.shields.io/badge/EF_SET-C1_Advanced-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARUlEQVR4nGNgGAWMDAwM/6Hs/0TMYIQy/xPDpxgYGP5DnUgxALKBYmMYGBj+4zIFm7EMDAz/ceqB8SlzKsVOpTiVRgEDAwMAuO4Q3uB2AR0AAAAASUVORK5CYII=" alt="EF SET English Certificate"/>
     </a>
   </p>
-
   - **Score:** 66/100 (C1 Advanced)
   - **Reading:** 72/100 (C2 Mastery)
   - **Listening:** 60/100 (B2 Independent)
 </details>
-
 ---
-
 <details id="support-my-studies">
   <summary><h2>☕ Support My Studies</h2></summary>
   If you find my work helpful and would like to support me, you can:
-
   ### 💰 Buy me a coffee
   <p align="center">
     <a href="https://buymeacoffee.com/ricardo.camilo.frontend" target="_blank" title="Support my work by buying me a coffee">
       <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" title="Support my work by buying me a coffee"/>
     </a>
   </p>
-
   ### <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin" title="Donate Bitcoin"/>
   key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26qyta6</span>
-
   <details id="bitcoin-qr">
     <summary title="Click to show/hide Bitcoin QR code">Bitcoin QR Code</summary>
-    <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px" title="Scan this QR code to donate Bitcoin"/>
+    <img src="assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px" title="Scan this QR code to donate Bitcoin"/>
   </details>
 </details>
-
 ---
-
 <p align="center">
   ## 🚀 Available for Freelance Projects and Opportunities!
   ### Specialist in creating modern and performant web experiences
 </p>
-
 ---
-
 <p align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=ricardo-camilo-programador-frontend-web&label=Profile%20views&color=0e75b6&style=flat "Number of times my profile has been viewed")
 </p>

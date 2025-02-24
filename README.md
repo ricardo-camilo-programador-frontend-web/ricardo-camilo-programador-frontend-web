@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>└─🌿 Breath Natural - NextJS <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🌿 Breath Natural - NextJS</summary>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
@@ -34,6 +34,13 @@
     <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
   </a>
 </div>
+
+<details>
+<summary>└─📑 Project Status</summary>
+ <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+
+ <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
+</details>
 
 <details>
 <summary>└─📑 Project Details</summary>
@@ -113,7 +120,7 @@ This project served as a practical application of modern frontend development pr
 ---
 
 <details>
-<summary>└─🍽️ Food Hut - Angular <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🍽️ Food Hut - Angular</summary>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
@@ -123,6 +130,13 @@ This project served as a practical application of modern frontend development pr
     <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
   </a>
 </div>
+
+<details>
+<summary>└─📑 Project Status</summary>
+ <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+
+ <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
+</details>
 
 <details>
 <summary>└─📑 Project Details</summary>
@@ -207,7 +221,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 ---
 
 <details>
-<summary>└─🦁 Savana - NuxtJS <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🦁 Savana - NuxtJS</summary>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
@@ -217,6 +231,13 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
     <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
   </a>
 </div>
+
+<details>
+<summary>└─📑 Project Status</summary>
+  <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
+</details>
 
 <details>
 <summary>└─📑 Project Details</summary>
@@ -291,7 +312,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ---
 
 <details>
-<summary>└─🎭 Persona - NextJS <br> <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/></summary>
+<summary>└─🎭 Persona - NextJS</summary>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
@@ -301,6 +322,13 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
     <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
   </a>
 </div>
+
+<details>
+<summary>└─📑 Project Status</summary>
+  <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
+</details>
 
 <details>
 <summary>└─📑 Project Preview</summary>
@@ -383,7 +411,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ---
 
 <details>
-<summary>└─🌟 Zenith - NodeJS <br> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
+<summary>└─🌟 Zenith - NodeJS</summary>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
@@ -393,6 +421,13 @@ A modern, responsive portfolio website showcasing my professional experience as 
     <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
   </a>
 </div>
+
+<details>
+<summary>└─📑 Project Status</summary>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/>
+</details>
 
 <details>
 <summary>└─📑 Project Preview</summary>
@@ -467,11 +502,18 @@ Based on:
 <summary><h3>└─🌌 Dimensions (Dart)</h3></summary>
 
 <details>
-<summary>└─⌛ Time Forge - Dimensions Part 1 <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
+<summary>└─⌛ Time Forge - Flutter</summary>
 
 <a href="https://github.com/ricardo-camilo-programador-frontend-web/dart-dimensions-part-1" target="_blank">
   <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
 </a>
+
+<details>
+<summary>└─📑 Project Status</summary>
+  <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/>
+</details>
 
 <details>
 <summary>└─📑 Project Details</summary>
@@ -682,6 +724,10 @@ A platform designed to connect investors with startup investment opportunities, 
 
 ### 📊 Loor.vc Admin Dashboard
 
+<a href="https://painel.loor.vc/investor/login" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+</a>
+
 <details>
 <summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/loor-admin.png" alt="Loor.vc Admin Dashboard website preview" width="300"/>
@@ -770,10 +816,6 @@ Led the frontend development of a cutting-edge investment platform at Labi9, ena
 
 </details>
 
-<a href="https://painel.loor.vc/investor/login" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
-</a>
-
 <details>
 <summary>└─📑 Project Technologies</summary>
 
@@ -848,9 +890,14 @@ Successfully delivered a modern, responsive banking website that effectively pre
 *Project developed as Frontend Developer at Labi9.com*
 </details>
 
+<details>
+<summary>└─📑 Project Technologies</summary>
+
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite - Next Generation Frontend Tooling"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="TailwindCSS - A utility-first CSS framework"/>
 <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" title="Astro - The all-in-one web framework"/>
+
+</details>
 
 ---
 

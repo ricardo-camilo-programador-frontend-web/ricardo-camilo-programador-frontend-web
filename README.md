@@ -1192,13 +1192,13 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 ---
 
 <details>
-<summary><h2>☕ Support My Work</h2></summary>
+<summary><h2>☕ Suport my studies</h2></summary>
 
 If you find my work helpful and would like to support me, you can:
 
-### 💰 Suport my studies
+### 💰 Buy me a coffee
 <a href="https://buymeacoffee.com/ricardo.camilo.frontend" target="_blank" title="Support my work by buying me a coffee">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Suport my studies" title="Support my work by buying me a coffee"/>
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" title="Support my work by buying me a coffee"/>
 </a>
 
 ### <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin" title="Donate Bitcoin"/>

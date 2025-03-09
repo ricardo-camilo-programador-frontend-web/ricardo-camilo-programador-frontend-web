@@ -992,7 +992,7 @@ A platform designed to connect investors with startup investment opportunities, 
 
 <details>
 <summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/edificio-canada.png" alt="Edificio Canadá website preview" width="300"/>
+<img src="./assets/projects/edificio-canada-rvone-freelance.png" alt="Edificio Canadá website preview" width="300"/>
 </details>
 
 <details>

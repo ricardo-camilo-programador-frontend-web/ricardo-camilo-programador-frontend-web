@@ -301,7 +301,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "A collaborative interface design tool")
 ![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Free website analytics tool that helps you understand how users interact with your website")
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Tag management system to manage JavaScript and HTML tags for tracking and analytics")
-![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service that tracks and reports website traffic")
+![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "Internationalization framework for multi-language support")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Simple and privacy-friendly website analytics")
 
@@ -660,9 +660,9 @@ A platform designed to connect investors with startup investment opportunities, 
 <details> <!-- INICIO DETAILS Project Technologies Loor -->
 <summary>└─📑 Project Technologies</summary>
 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Next Generation Frontend Tooling")
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "A utility-first CSS framework")
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "The web framework for content-driven websites")
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
 
 </details> <!-- FINAL DETAILS Project Technologies Loor -->
 
@@ -1012,6 +1012,193 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 ![SSR](https://img.shields.io/badge/SSR-Server_Side_Rendering-4285F4?style=for-the-badge&logo=vercel&logoColor=white "SSR - Server Side Rendering")
 
 </details> <!-- FINAL DETAILS Project Technologies -->
+
+
+### 🚗 ItuPneus - Landing Page
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://itu-pneus-freelance.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Preview -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/itu-pneus-freelance.png" alt="ItuPneus website preview" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview -->
+
+<details> <!-- INICIO DETAILS Project Details -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Overview
+A modern website for ItuPneus, a specialized tire and automotive services store with over 20 years of tradition. The project focused on implementing a professional design while ensuring optimal user experience and sales conversion.
+
+## 🛠️ Technical Implementation
+- **Framework:** Next.js 15
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Rendering:** Server-Side Rendering (SSR)
+- **Maps:** Google Maps Integration
+- **Typography:** Google Fonts API
+- **Focus:** SEO & Performance optimization
+
+## 🔍 Key Challenges & Solutions
+- Image optimization maintaining high visual quality
+- Dynamic pricing system with easy updates
+- Mobile-first responsive design
+- Optimized contact forms implementation
+- Structured sitemap and robots.txt
+- WhatsApp integration for quick contact
+
+## ⚡ Performance Metrics
+- Loading time < 3 seconds
+- 90+ Lighthouse score
+- Fully responsive across devices
+- WCAG accessibility standards
+- Optimized for mobile devices
+
+## 🎨 Key Features
+- Modern and intuitive interface
+- Organized service catalog
+- Detailed service descriptions
+- WhatsApp integration
+- Location map with routes
+- Strategic CTAs for conversion
+- Dynamic pricing system
+
+## 🌟 Project Achievements
+- Exceptional mobile performance
+- Optimized SEO for industry terms
+- WCAG accessibility compliance
+- Streamlined user experience
+- Improved conversion rates
+- Professional service presentation
+- Efficient contact systems
+
+## 📱 Service Sections
+- Tire catalog and services
+- Automotive maintenance
+- Location and directions
+- Contact information
+- Company history
+- Service descriptions
+- Price information
+
+---
+
+*Project developed as a freelance developer, showcasing expertise in modern web development and UI/UX implementation*
+</details> <!-- FINAL DETAILS Project Details -->
+
+<details> <!-- INICIO DETAILS Project Technologies -->
+<summary>└─📑 Project Technologies</summary>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white "Next.js - The React Framework for Production")
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React - A JavaScript library for building user interfaces")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white "Google Maps - Location and routing integration")
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white "Google Fonts API - Typography optimization")
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify - Platform for modern web projects")
+![SEO](https://img.shields.io/badge/SEO-Optimization-00A86B?style=for-the-badge&logo=searchengineland&logoColor=white "SEO - Search Engine Optimization")
+![SSR](https://img.shields.io/badge/SSR-Server_Side_Rendering-4285F4?style=for-the-badge&logo=vercel&logoColor=white "SSR - Server Side Rendering")
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white "Lighthouse - Performance monitoring")
+
+</details> <!-- FINAL DETAILS Project Technologies -->
+
+
+### ItuPneus - Landing Page
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://itu-pneus-freelance.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Preview -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/itu-pneus.png" alt="ItuPneus website preview" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview -->
+
+<details> <!-- INICIO DETAILS Project Details -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Overview
+A modern website for ItuPneus, a specialized tire and automotive services store with over 20 years of tradition. The project focused on implementing a professional design while ensuring optimal user experience and sales conversion.
+
+## 🛠️ Technical Implementation
+- **Framework:** Next.js 15
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Rendering:** Server-Side Rendering (SSR)
+- **Maps:** Google Maps Integration
+- **Typography:** Google Fonts API
+- **Focus:** SEO & Performance optimization
+
+## 🔍 Key Challenges & Solutions
+- Image optimization maintaining high visual quality
+- Dynamic pricing system with easy updates
+- Mobile-first responsive design
+- Optimized contact forms implementation
+- Structured sitemap and robots.txt
+- WhatsApp integration for quick contact
+
+## ⚡ Performance Metrics
+- Loading time < 3 seconds
+- 90+ Lighthouse score
+- Fully responsive across devices
+- WCAG accessibility standards
+- Optimized for mobile devices
+
+## 🎨 Key Features
+- Modern and intuitive interface
+- Organized service catalog
+- Detailed service descriptions
+- WhatsApp integration
+- Location map with routes
+- Strategic CTAs for conversion
+- Dynamic pricing system
+
+## 🌟 Project Achievements
+- Exceptional mobile performance
+- Optimized SEO for industry terms
+- WCAG accessibility compliance
+- Streamlined user experience
+- Improved conversion rates
+- Professional service presentation
+- Efficient contact systems
+
+## 📱 Service Sections
+- Tire catalog and services
+- Automotive maintenance
+- Location and directions
+- Contact information
+- Company history
+- Service descriptions
+- Price information
+
+---
+
+*Project developed as a freelance developer, showcasing expertise in modern web development and UI/UX implementation*
+</details> <!-- FINAL DETAILS Project Details -->
+
+<details> <!-- INICIO DETAILS Project Technologies -->
+<summary>└─📑 Project Technologies</summary>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white "Next.js - The React Framework for Production")
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React - A JavaScript library for building user interfaces")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white "Google Maps - Location and routing integration")
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white "Google Fonts API - Typography optimization")
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify - Platform for modern web projects")
+![SEO](https://img.shields.io/badge/SEO-Optimization-00A86B?style=for-the-badge&logo=searchengineland&logoColor=white "SEO - Search Engine Optimization")
+![SSR](https://img.shields.io/badge/SSR-Server_Side_Rendering-4285F4?style=for-the-badge&logo=vercel&logoColor=white "SSR - Server Side Rendering")
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white "Lighthouse - Performance monitoring")
+
+</details> <!-- FINAL DETAILS Project Technologies -->
+
+---
+
 
 </details> <!-- FINAL DETAILS Freelance Projects -->
 

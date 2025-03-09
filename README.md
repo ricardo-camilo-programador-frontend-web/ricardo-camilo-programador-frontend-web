@@ -569,8 +569,7 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 
 </details> <!-- FINAL DETAILS Freelance Projects -->
 
-<details> <!-- INICIO DETAILS Projects With Friends -->
-<summary><h3>👥 Projects With Friends</h3></summary>
+### 👥 Projects With Friends
 
 <details> <!-- INICIO DETAILS Lembre de min -->
 <summary>└─🎮 Lembre de min - Visual Novel Game with Anne <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square" /></summary>
@@ -647,8 +646,6 @@ A collaborative visual novel game project combining programming expertise with c
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white "Ren'Py - Visual Novel Engine for game development")
 
 </details> <!-- FINAL DETAILS Project Technologies -->
-
-</details> <!-- FINAL DETAILS Lembre de min -->
 
 </details> <!-- FINAL DETAILS Projects With Friends -->
 

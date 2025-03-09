@@ -944,7 +944,7 @@ A platform designed to connect investors with startup investment opportunities, 
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
 <a href="https://edificio-canada-freelance-langing.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes" />
+<img src="https://img.shields.io/badge/🌐_Live_Website_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes" />
 </a>
 </div>
 
@@ -1018,7 +1018,7 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://itu-pneus-freelance.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes"/>
+    <img src="https://img.shields.io/badge/🌐_Live_Website_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes"/>
   </a>
 </div>
 

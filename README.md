@@ -569,10 +569,10 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 
 </details> <!-- FINAL DETAILS Freelance Projects -->
 
-### 👥 Projects With Friends
+<details> <!-- INICIO DETAILS Projects With Friends -->
+<summary><h3>👥 Projects With Friends</h3></summary>
 
-<details> <!-- INICIO DETAILS Lembre de min -->
-<summary>└─🎮 Lembre de min - Visual Novel Game with Anne <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square" /></summary>
+### 🎮 Lembre de min - Visual Novel Game with [@anneanneannehp](https://www.instagram.com/anneanneannehp/)
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
 <a href="https://lembredemin.netlify.app/" target="_blank">

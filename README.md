@@ -1049,8 +1049,6 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 
 </details>
 
----
-
 </details>
 
 ---

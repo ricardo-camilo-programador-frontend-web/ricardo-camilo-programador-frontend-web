@@ -166,3 +166,126 @@ _This portfolio project demonstrates my capability to deliver professional-grade
 </details> <!-- FINAL Professional Profile -->
 
 ---
+
+<details>
+<summary><h2>📁 Professional Contact</h2></summary>
+
+<a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect with me on LinkedIn - Professional networking and career opportunities"/>
+</a>
+<a href="https://www.99freelas.com.br/user/ricardo-camilo-frontend-developer-typescript" target="_blank">
+  <img src="https://img.shields.io/badge/99Freelas-%2300B057.svg?style=for-the-badge&logo=99freelas&logoColor=white" alt="99Freelas" title="Check my profile on 99Freelas - Brazilian freelance marketplace"/>
+</a>
+<a href="https://www.workana.com/freelancer/7a5de74a4785b737b517d8746a01cd23" target="_blank">
+  <img src="https://img.shields.io/badge/Workana-%23204ECF.svg?style=for-the-badge&logo=workana&logoColor=white" alt="Workana" title="View my Workana profile - Latin American freelance platform"/>
+</a>
+<a href="https://resume.io/r/4bDKkHLB9" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" title="Download my professional resume - Detailed work experience and skills"/>
+</a>
+<a href="https://x.com/Ricardo50993066" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" title="Follow me on Twitter - Updates and tech discussions"/>
+</a>
+
+</details> <!-- FINAL Professional Contact -->
+
+---
+
+<details>
+<summary><h2>📁 Tech Stack & Skills</h2></summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" title="React - A JavaScript library for building user interfaces" />&nbsp;
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js Badge" title="Vue.js - The Progressive JavaScript Framework" />&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" title="TypeScript - JavaScript with syntax for types" />&nbsp;
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js Badge" title="Nuxt.js - The Intuitive Vue Framework" />&nbsp;
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Badge" title="Astro - The all-in-one web framework" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge" title="TailwindCSS - A utility-first CSS framework" />&nbsp;
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="Vuetify Badge" title="Vuetify - Material Design Framework for Vue.js" />&nbsp;
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" title="Vite - Next Generation Frontend Tooling" />&nbsp;
+  <img src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" alt="Qwik Badge" title="Qwik - Framework for the edge" />
+  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID Badge" title="SOLID - Object-Oriented Design Principles" />&nbsp;
+  <img src="https://img.shields.io/badge/CLEAN_CODE-000000?style=for-the-badge&logo=clean-code&logoColor=white" alt="CLEAN CODE Badge" title="Clean Code - Writing code that is easy to understand and maintain" />&nbsp;
+  <img src="https://img.shields.io/badge/PERFORMANCE-000000?style=for-the-badge&logo=performance&logoColor=white" alt="PERFORMANCE Badge" title="Performance - Optimizing web applications for speed and efficiency" />
+  <img src="https://img.shields.io/badge/DATA--DRIVEN-000000?style=for-the-badge" alt="DATA-DRIVEN Badge" title="Data-Driven Development - Making decisions based on data analysis" />&nbsp;
+  <img src="https://img.shields.io/badge/MOBILE--FIRST-000000?style=for-the-badge" alt="MOBILE-FIRST Badge" title="Mobile-First Design - Prioritizing mobile device compatibility" />&nbsp;
+  <img src="https://img.shields.io/badge/ACCESSIBILITY-000000?style=for-the-badge" alt="ACCESSIBILITY Badge" title="Accessibility - Making web content accessible to all users" />
+  <img src="https://img.shields.io/badge/CROSS--BROWSER-000000?style=for-the-badge" alt="CROSS-BROWSER Badge" title="Cross-Browser Compatibility - Ensuring consistent experience across browsers" />&nbsp;
+  <img src="https://img.shields.io/badge/RESPONSIVE-000000?style=for-the-badge" alt="RESPONSIVE Badge" title="Responsive Design - Adapting to different screen sizes" />&nbsp;
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" title="Axios - Promise based HTTP client for the browser and node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm Badge" title="pnpm - Fast, disk space efficient package manager" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" title="Figma - Collaborative interface design tool" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" title="Angular - Platform for building web applications" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" alt="REST API Badge" title="REST API - REpresentational State Transfer Architecture" />
+</p>
+
+</details> <!-- FINAL Tech Stack & Skills -->
+
+---
+
+<details>
+<summary><h2>📁 Currently Studying</h2></summary>
+
+![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - The React Framework for Production")
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - Platform for building web applications")
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker - Platform for developing, shipping and running applications")
+
+</details> <!-- FINAL Currently Studying -->
+
+---
+
+<div align="center">
+
+</div>
+
+<details>
+<summary><h2>📊 Certificates</h2></summary>
+
+### 🌐 English Proficiency - EF SET
+<a href="https://cert.efset.org/pt/75Zscf" target="_blank">
+  <img src="https://img.shields.io/badge/EF_SET-C1_Advanced-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARUlEQVR4nGNgGAWMDAwM/6Hs/0TMYIQy/xPDpxgYGP5DnUgxALKBYmMYGBj+4zIFm7EMDAz/ceqB8SlzKsVOpTiVRgEDAwMAuO4Q3uB2AR0AAAAASUVORK5CYII=" alt="EF SET English Certificate"/>
+</a>
+
+- **Score:** 66/100 (C1 Advanced)
+- **Reading:** 72/100 (C2 Mastery)
+- **Listening:** 60/100 (B2 Independent)
+
+</details> <!-- FINAL Certificates -->
+
+---
+
+<details>
+<summary><h2>☕ Support my studies</h2></summary>
+
+If you find my work helpful and would like to support me, you can:
+
+### 💰 Buy me a coffee
+<a href="https://buymeacoffee.com/ricardo.camilo.frontend" target="_blank" title="Support my work by buying me a coffee">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" title="Support my work by buying me a coffee"/>
+</a>
+
+### <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin" title="Donate Bitcoin"/>
+key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26qyta6</span>
+
+<details> <!-- INICIO Bitcoin QR Code -->
+<summary title="Click to show/hide Bitcoin QR code">Bitcoin QR Code</summary>
+<img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px" title="Scan this QR code to donate Bitcoin"/>
+</details> <!-- FINAL Bitcoin QR Code -->
+
+---
+
+<div align="center">
+
+## 🚀 Available for Freelance Projects and Opportunities!
+
+### Specialist in creating modern and performant web experiences
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ricardo-camilo-programador-frontend-web&label=Profile%20views&color=0e75b6&style=flat "Number of times my profile has been viewed")
+
+</div>
+

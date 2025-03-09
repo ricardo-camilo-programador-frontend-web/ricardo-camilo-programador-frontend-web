@@ -940,11 +940,11 @@ A platform designed to connect investors with startup investment opportunities, 
 <details> <!-- INICIO DETAILS Freelance Projects -->
 <summary><h3>🤝 Freelance Projects</h3></summary>
 
-### 🏢 Edificio Canadá - Landing Page
+### 🏢 Edificio Canadá - Landing Page - FEB 2025
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
 <a href="https://edificio-canada-freelance-langing.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
+<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes" />
 </a>
 </div>
 
@@ -1014,11 +1014,11 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 </details> <!-- FINAL DETAILS Project Technologies -->
 
 
-### 🚗 ItuPneus - Landing Page
+### 🚗 ItuPneus - Landing Page - FEB 2025
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://itu-pneus-freelance.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes"/>
   </a>
 </div>
 

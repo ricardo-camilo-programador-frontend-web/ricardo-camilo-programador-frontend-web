@@ -397,7 +397,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma - Design tool for collaborative interface design")
 ![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Microsoft Clarity - Free analytics tool for understanding user behavior")
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Google Tag Manager - Tag management system for marketing and analytics")
-![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Google Analytics - Web analytics service by Google")
+![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework for multiple language support")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
 
@@ -490,6 +490,456 @@ Based on:
 </details> <!-- FINAL DETAILS Chronicles -->
 
 </details> <!-- FINAL DETAILS Personal Projects -->
+
+
+<details> <!-- INICIO DETAILS Corporative Projects -->
+<summary><h3>💼 Corporative Projects</h3></summary>
+
+<details> <!-- INICIO DETAILS Labi9 Projects -->
+<summary>└─👔 Corporative Projects with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
+
+### 🏢 Labi9.com
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://labi9.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Details Labi9 -->
+<summary>└─📑 Project Details</summary>
+## 📋 Project Overview
+A corporate website for Labi9, a software development company specializing in transforming ideas into reality and boosting businesses through technology solutions.
+
+## 🛠️ Technical Stack
+- **Framework:** Qwik 1.5.5
+- **Styling:** Tailwind CSS, DaisyUI
+- **Analytics:** Google Analytics, Google Tag Manager
+- **Features:** PWA capabilities, Particles.js
+- **Focus:** Performance & Visual Effects
+
+## 🎨 Frontend Features
+- Responsive design across all devices
+- Modern and clean UI/UX
+- Interactive portfolio showcase
+- Performance-optimized animations
+- Cross-browser compatibility
+- SEO optimization
+- Progressive Web App implementation
+
+## 📱 Key Sections
+- Interactive hero section
+- Services overview
+- Portfolio showcase
+- Client testimonials
+- Company information
+- Contact forms
+- Team presentation
+
+## 💼 Portfolio Highlights
+- **Loor:** Equity & Crowdfunding : [Loor - Frontend](https://loor.vc/)
+- **Tipp Bank:** Payment Solutions : [Tipp Bank](https://tippbank.com.br/)
+- **Sti3:** ERP Systems : [Sti3](https://sti3.com.br/)
+- **BCodex:** Embed Finance : [BCodex](https://bcodex.com.br/)
+- **Global Liberty Bank:** Banking Platform : [Global Liberty Bank](https://www.glbk.com.br/)
+## 🌟 Project Achievements
+- Optimized loading times
+- SEO-friendly structure
+- Modern design implementation
+- Smooth animations
+- Responsive across devices
+- Full PWA functionality
+
+## 🤝 Collaboration
+Frontend development while working closely with the backend team at Labi9, located in Jaú - SP, Brazil.
+
+---
+
+*Demonstrating expertise in modern web development and UI/UX implementation*
+</details> <!-- FINAL DETAILS Project Details Labi9 -->
+
+<details> <!-- INICIO DETAILS Project Preview Labi9 -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/labi9.png" alt="Labi9 website preview" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview Labi9 -->
+
+<details> <!-- INICIO DETAILS Project Technologies Labi9 -->
+<summary>└─📑 Project Technologies</summary>
+
+![Qwik](https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white "Framework for building fast web applications")
+![Particles.js](https://img.shields.io/badge/particles.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white "Library for creating particles animations")
+![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white "Progressive Web App capabilities")
+![Open Graph](https://img.shields.io/badge/Open_Graph-%234285F4.svg?style=for-the-badge&logo=opengraph&logoColor=white "Protocol for rich previews when sharing content")
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Analytics tool for understanding user behavior")
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Tag management system for marketing and analytics")
+![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
+
+</details> <!-- FINAL DETAILS Project Technologies Labi9 -->
+
+---
+
+### 💰 Loor.vc
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://loor.vc/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Preview Loor -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/loor.png" alt="Loor.vc website preview" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview Loor -->
+
+<details> <!-- INICIO DETAILS Project Details Loor -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Purpose
+
+A platform designed to connect investors with startup investment opportunities, website developed while working at Labi9.com, focusing on high-potential returns and secure investments.
+
+## 🛠️ Technical Stack
+- **Framework:** Astro.js
+- **Frontend:** Vue.js for interactive components
+- **Styling:** TailwindCSS
+- **Integration:** REST API for product listing
+
+## 💻 Development Role
+- Frontend development at Labi9.com
+- No backend involvement
+- Focus on performance optimization
+- Responsive design implementation
+
+## 🔍 Key Features
+- Investment opportunities listing
+- Startup analysis tools
+- Financial planning tools
+- Real-time updates
+- User authentication system
+- Investment tracking dashboard
+
+## ⚡ Performance Highlights
+- Optimized page loading
+- Responsive design for all devices
+- Server-side rendering for better SEO
+- Component-based architecture
+- Efficient API data handling
+
+## 📱 User Interface
+- Clean and modern design
+- Easy navigation
+- Mobile-first approach
+- Intuitive investment tracking
+- Clear presentation of investment opportunities
+
+## 🎨 Design Implementation
+- Responsive layouts
+- Interactive components
+- Dynamic content loading
+- User-friendly forms
+- Progress indicators
+
+## 🔒 Security Features
+- Secure authentication flow
+- Protected investment data
+- Compliance with financial regulations
+- Safe transaction handling
+
+## 🌟 Project Highlights
+- Fast page transitions
+- Optimized asset loading
+- Seamless user experience
+- Professional financial interface
+- Clear investment information display
+
+---
+
+
+</details> <!-- FINAL DETAILS Project Details Loor -->
+
+<details> <!-- INICIO DETAILS Project Technologies Loor -->
+<summary>└─📑 Project Technologies</summary>
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Next Generation Frontend Tooling")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "A utility-first CSS framework")
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "The web framework for content-driven websites")
+
+</details> <!-- FINAL DETAILS Project Technologies Loor -->
+
+---
+
+### 📊 Loor.vc Admin Dashboard
+
+<a href="https://painel.loor.vc/investor/login" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+</a>
+
+<details> <!-- INICIO DETAILS Project Preview Loor Admin -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/loor-admin.png" alt="Loor.vc Admin Dashboard website preview" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview Loor Admin -->
+
+<details> <!-- INICIO DETAILS Project Details Loor Admin -->
+<summary>└─📑 Project Details</summary>
+
+## 📋 Overview
+
+Led the frontend development of a cutting-edge investment platform at Labi9, enabling sophisticated portfolio management and seamless investment tracking for high-net-worth individuals and institutional investors.
+
+## 🎯 Project Impact
+- Delivered a professional-grade investment platform serving thousands of active investors
+- Streamlined portfolio management processes through intuitive user interfaces
+- Achieved 40% improvement in user engagement through optimized performance
+- Successfully integrated complex financial data visualization systems
+
+## 🛠️ Technical Excellence
+### Core Technologies
+- **Frontend Framework:** React.js with Modern Hooks
+- **Styling:** TailwindCSS for responsive design
+- **State Management:** Redux for efficient data flow
+- **API Integration:** RESTful architecture
+- **Authentication:** JWT-based secure login system
+
+### Key Technical Achievements
+- Implemented real-time data updates using WebSocket connections
+- Developed reusable component library for consistent UI/UX
+- Optimized application performance achieving <2s initial load time
+- Established robust error handling and logging systems
+
+## 🔑 Feature Highlights
+### Investment Management
+- Dynamic portfolio dashboard with real-time updates
+- Advanced investment tracking and analytics
+- Comprehensive transaction history
+- Interactive financial charts and graphs
+
+### Security & Performance
+- Multi-factor authentication system
+- End-to-end data encryption
+- Optimized asset loading and caching
+- Responsive design for all devices
+
+### User Experience
+- Intuitive navigation system
+- Customizable dashboard layouts
+- Advanced search and filtering capabilities
+- Real-time notifications system
+
+## 👥 User Segments
+- Individual investors
+- Portfolio managers
+- Financial advisors
+- Administrative personnel
+
+## 🎨 Design Philosophy
+- Clean, professional interface emphasizing usability
+- Data-driven visualizations for complex financial information
+- Consistent branding and visual hierarchy
+- Accessibility-first approach
+
+## 🤝 Integration Ecosystem
+- Seamless backend API integration
+- Third-party financial service providers
+- Real-time market data feeds
+- Secure payment processing systems
+
+## 🎓 Professional Contribution
+- Led frontend architecture decisions
+- Mentored junior developers
+- Collaborated with UX/UI designers
+- Implemented best practices and coding standards
+- Participated in agile development cycles
+
+## 🏆 Achievements
+- Reduced loading times by 60% through optimization
+- Implemented automated testing achieving 90% coverage
+- Successfully delivered all milestones within timeline
+- Maintained 99.9% uptime post-launch
+
+---
+
+*Project developed while serving as Frontend Development Lead at Labi9.com*
+
+</details> <!-- FINAL DETAILS Project Details Loor Admin -->
+
+<details> <!-- INICIO DETAILS Project Technologies Loor Admin -->
+<summary>└─📑 Project Technologies</summary>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB "React - A JavaScript library for building user interfaces")
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
+
+</details> <!-- FINAL DETAILS Project Technologies Loor Admin -->
+
+---
+
+### 🏦 Global Liberty Bank
+
+<a href="https://www.glbk.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+</a>
+
+<details> <!-- INICIO DETAILS Project Preview GLBK -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/glbk.png" alt="Global Liberty Bank website preview" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview GLBK -->
+
+<details> <!-- INICIO DETAILS Project Details GLBK -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Overview
+
+A modern banking website developed while working at Labi9.com, focusing solely on the frontend implementation. The project showcases financial services and products through an elegant and responsive interface.
+
+## 💻 Technical Implementation
+- **Framework:** Astro.js and Vue.js
+- **Styling:** TailwindCSS
+- **Language:** TypeScript/Javascript
+- **Focus:** Frontend only (no backend integration)
+- **Design:** Responsive for all devices
+- **Performance:** Optimized animations
+- **SEO:** Search engine optimized structure
+
+## 🎨 Design Features
+- Clean and professional banking interface
+- Modern financial sector aesthetics
+- Interactive UI elements
+- Smooth scrolling animations
+- Mobile-first approach
+
+## ⚡ Performance Metrics
+- Quick page load times
+- Optimized asset delivery
+- Smooth transitions
+- Efficient code structure
+
+## 🎯 Role & Responsibilities
+- Frontend development
+- Component architecture
+- Performance optimization
+- Responsive implementation
+- Animation development
+
+## ✨ Key Highlights
+- Fast loading times
+- Cross-browser compatibility
+- Accessible design
+- Optimized for all screen sizes
+- Interactive components
+
+## 🌟 Project Outcome
+Successfully delivered a modern, responsive banking website that effectively presents GLBK's financial services and maintains professional banking sector standards.
+
+---
+
+*Project developed as Frontend Developer at Labi9.com*
+</details> <!-- FINAL DETAILS Project Details GLBK -->
+
+<details> <!-- INICIO DETAILS Project Technologies GLBK -->
+<summary>└─📑 Project Technologies</summary>
+
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite - Next Generation Frontend Tooling"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="TailwindCSS - A utility-first CSS framework"/>
+<img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" title="Astro - The all-in-one web framework"/>
+
+</details> <!-- FINAL DETAILS Project Technologies GLBK -->
+
+---
+
+### 💳 Tippbank
+
+<a href="https://tippbank.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+</a>
+
+<details> <!-- INICIO DETAILS Project Preview Tippbank -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/tippbank.png" alt="Tippbank.com.br website preview" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview Tippbank -->
+
+<details> <!-- INICIO DETAILS Project Details Tippbank -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Purpose
+
+A platform designed to connect investors with startup investment opportunities, website developed while working at Labi9.com, focusing on high-potential returns and secure investments.
+
+## 🛠️ Technical Stack
+- **Framework:** Astro.js
+- **Frontend:** Vue.js for interactive components
+- **Styling:** TailwindCSS
+- **Integration:** REST API for product listing
+
+## 💻 Development Role
+- Frontend development at Labi9.com
+- No backend involvement
+- Focus on performance optimization
+- Responsive design implementation
+
+## 🔍 Key Features
+- Investment opportunities listing
+- Startup analysis tools
+- Financial planning tools
+- Real-time updates
+- User authentication system
+- Investment tracking dashboard
+
+## ⚡ Performance Highlights
+- Optimized page loading
+- Responsive design for all devices
+- Server-side rendering for better SEO
+- Component-based architecture
+- Efficient API data handling
+
+## 📱 User Interface
+- Clean and modern design
+- Easy navigation
+- Mobile-first approach
+- Intuitive investment tracking
+- Clear presentation of investment opportunities
+
+## 🎨 Design Implementation
+- Responsive layouts
+- Interactive components
+- Dynamic content loading
+- User-friendly forms
+- Progress indicators
+
+## 🔒 Security Features
+- Secure authentication flow
+- Protected investment data
+- Compliance with financial regulations
+- Safe transaction handling
+
+## 🌟 Project Highlights
+- Fast page transitions
+- Optimized asset loading
+- Seamless user experience
+- Professional financial interface
+- Clear investment information display
+
+---
+
+
+</details> <!-- FINAL DETAILS Project Details Tippbank -->
+
+<details> <!-- INICIO DETAILS Project Technologies Tippbank -->
+<summary>└─📑 Project Technologies</summary>
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
+
+</details> <!-- FINAL DETAILS Project Technologies Tippbank -->
+
+</details> <!-- FINAL DETAILS Labi9 Projects -->
+
+</details> <!-- FINAL DETAILS Corporative Projects -->
+
+</details> <!-- FINAL DETAILS Projects -->
+
+---
 
 <details> <!-- INICIO DETAILS Freelance Projects -->
 <summary><h3>🤝 Freelance Projects</h3></summary>

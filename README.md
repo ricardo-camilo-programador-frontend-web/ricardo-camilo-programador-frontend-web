@@ -539,6 +539,8 @@ Currently developing a visual novel game in collaboration with [@anneanneannehp]
 
 </details>
 
+</details>
+
 ---
 
 <details>
@@ -686,7 +688,6 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 <details>
 <summary title="Click to show/hide Bitcoin QR code">Bitcoin QR Code</summary>
 <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px" title="Scan this QR code to donate Bitcoin"/>
-</details>
 </details>
 
 ---

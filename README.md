@@ -584,32 +584,59 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 </a>
 </div>
 
+<details> <!-- INICIO DETAILS Project Status -->
+<summary>└─📑 Project Status</summary>
+  <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square" />
+</details> <!-- FINAL DETAILS Project Status -->
+
+<details> <!-- INICIO DETAILS Project Preview -->
+<summary>└─📑 Project Preview</summary>
+  <img src="./assets/projects/lembre-de-min.png" alt="Lembre de Min Visual Novel Game preview" width="300" />
+</details> <!-- FINAL DETAILS Project Preview -->
+
 <details> <!-- INICIO DETAILS Project Details -->
 <summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Overview
-Currently developing a visual novel game in collaboration with [@anneanneannehp](https://www.instagram.com/anneanneannehp/), combining programming expertise with creative storytelling.
+A collaborative visual novel game project combining programming expertise with creative storytelling.
 
 ## 🛠️ Technical Stack
-- **Engine:** Ren'Py
+- **Engine:** Ren'Py Visual Novel Engine
 - **Language:** Python
 - **Graphics:** Custom artwork and animations
+- **Audio:** Sound effects and music system
 - **Status:** In Development
 
 ## 🎨 Features
-- Interactive storytelling
-- Multiple story paths
-- Character dialogue system
+- Interactive storytelling system
+- Multiple story paths and endings
+- Character dialogue management
 - Custom artwork integration
 - Sound and music implementation
+- Save/Load game functionality
 
-## 👥 Team
-- **Programming & Technical Implementation:** Ricardo Camilo
+## 🎨 Development Focus
+- Engaging narrative experience
+- Intuitive user interface
+- Smooth scene transitions
+- Performance optimization
+- Cross-platform compatibility
+
+## 👥 Team Collaboration
+- **Programming:** Ricardo Camilo
 - **Art & Story:** [@anneanneannehp](https://www.instagram.com/anneanneannehp/)
+
+## 🎯 Project Goals
+- Create an engaging visual novel experience
+- Implement branching storylines
+- Optimize performance and loading times
+- Ensure cross-platform compatibility
+- Deliver polished user experience
 
 ---
 
-*More details coming soon as the project develops!*
+*Project in active development - More features and content coming soon!*
 
 </details> <!-- FINAL DETAILS Project Details -->
 

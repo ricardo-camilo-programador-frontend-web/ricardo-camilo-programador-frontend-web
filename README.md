@@ -976,7 +976,80 @@ A platform designed to connect investors with startup investment opportunities, 
 <details>
 <summary><h3>🤝 Freelance Projects</h3></summary>
 
-Coming Soon...
+### 🏢 Edificio Canadá - Landing Page
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://edificio-canada-freelance-langing.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+</div>
+
+<details>
+<summary>└─📑 Project Status</summary>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square"/>
+</details>
+
+<details>
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/edificio-canada.png" alt="Edificio Canadá website preview" width="300"/>
+</details>
+
+<details>
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Overview
+A high-end real estate landing page for Edificio Canadá, showcasing luxury apartments with a focus on conversion and user experience.
+
+## 🛠️ Technical Implementation
+- **Framework:** Next.js 13
+- **Styling:** Tailwind CSS
+- **Language:** TypeScript
+- **Rendering:** Server-Side Rendering (SSR)
+- **Focus:** SEO optimization and performance
+
+## 🔍 Development Role
+- Implementation of pre-designed layout
+- Responsive design enhancements
+- SEO optimization
+- Performance improvements
+
+## ⚡ Performance Highlights
+- 90+ Lighthouse score
+- Optimized loading times
+- Automated sitemap and robots.txt
+- Dynamic meta tags
+
+## 🎨 Key Features
+- Modern and elegant landing page design
+- Dedicated sections for benefits, location, and gallery
+- Conversion-optimized contact form
+- User experience focused on high-end real estate
+
+## 🌟 Project Achievements
+- Advanced SEO implementation with dynamic meta tags
+- Responsive and accessible design
+- Performance optimization
+- Conversion-focused implementation
+
+---
+
+*Project developed as a freelance developer*
+</details>
+
+<details>
+<summary>└─📑 Project Technologies</summary>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white "Next.js - The React Framework for Production")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify - Platform for modern web projects")
+![SEO](https://img.shields.io/badge/SEO-Optimization-00A86B?style=for-the-badge&logo=searchengineland&logoColor=white "SEO - Search Engine Optimization")
+![SSR](https://img.shields.io/badge/SSR-Server_Side_Rendering-4285F4?style=for-the-badge&logo=vercel&logoColor=white "SSR - Server Side Rendering")
+
+</details>
+
+---
 
 </details>
 

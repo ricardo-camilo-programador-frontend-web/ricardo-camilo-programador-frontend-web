@@ -937,8 +937,6 @@ A platform designed to connect investors with startup investment opportunities, 
 
 </details> <!-- FINAL DETAILS Corporative Projects -->
 
-</details> <!-- FINAL DETAILS Projects -->
-
 ---
 
 <details> <!-- INICIO DETAILS Freelance Projects -->

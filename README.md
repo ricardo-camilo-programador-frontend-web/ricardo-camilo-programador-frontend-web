@@ -965,7 +965,7 @@ A platform designed to connect investors with startup investment opportunities, 
 
 ## 🎯 Project Overview
 
-Modern application for an aesthetics clinic built with Next.js and TypeScript, providing a robust and scalable solution for aesthetic health services.
+A comprehensive medical forms application for Dr. Adriana Rezende's aesthetics clinic, built with Next.js and TypeScript. The system securely collects patient medical information, generates three types of PDF documents (medical contract, anamnesis form, and procedure details), and automatically emails them to both the doctor and patient. This automated workflow ensures efficient documentation and communication for aesthetic procedures.
 
 ## 🛠️ Technical Implementation
 - **Framework:** Next.js with React
@@ -980,13 +980,17 @@ Modern application for an aesthetics clinic built with Next.js and TypeScript, p
 - **Additional Features:** PDF Generation, Toast Notifications
 
 ## ✨ Key Features
-- Modern responsive UI
-- Form validation with Zod
+- Secure medical data collection forms
+- Automated generation of three PDF documents:
+  • Medical contract
+  • Anamnesis form
+  • Procedure details
+- Email delivery system for PDFs to both doctor and patient
+- Form validation with Zod for accurate data collection
 - State management with Zustand
-- PDF generation for procedure documents
 - Toast notifications for user feedback
 - Comprehensive TypeScript support
-- Multi-language support
+- Multi-language support (English/Portuguese)
 
 ## 🔧 Technologies Used
 - **Frontend:** Next.js

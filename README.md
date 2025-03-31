@@ -953,9 +953,6 @@ A platform designed to connect investors with startup investment opportunities, 
 <a href="https://www.draadrianarezendeestetica.com.br/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
 </a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository" />
-</a>
 </div>
 
 <details> <!-- INICIO DETAILS Project Status -->
@@ -1032,19 +1029,19 @@ This project demonstrates:
 </a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Status -->
-<summary>└─📑 Project Status</summary>
+<details> <!-- INICIO DETAILS Project Cajuscript Status -->
+<summary>└─📑 Project Cajuscript Status</summary>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 <img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square" />
-</details> <!-- FINAL DETAILS Project Status -->
+</details> <!-- FINAL DETAILS Project Cajuscript Status -->
 
-<details> <!-- INICIO DETAILS Project Preview -->
-<summary>└─📑 Project Preview</summary>
+<details> <!-- INICIO DETAILS Project Cajuscript Preview -->
+<summary>└─📑 Project Cajuscript Preview</summary>
 <img src="./assets/projects/cajuscript-rvone-freelance.png" alt="Cajuscript website preview" width="300" />
-</details> <!-- FINAL DETAILS Project Preview -->
+</details> <!-- FINAL DETAILS Project Cajuscript Preview -->
 
-<details> <!-- INICIO DETAILS Project Details -->
-<summary>└─📑 Project Details</summary>
+<details> <!-- INICIO DETAILS Project Cajuscript Details -->
+<summary>└─📑 Project Cajuscript Details</summary>
 
 ## 🎯 Project Overview
 A freelance landing page project for Cajuscript, showcasing modern web development skills and clean design principles. This project demonstrates my ability to deliver professional marketing websites for clients.
@@ -1086,18 +1083,17 @@ This freelance project demonstrated:
 ---
 
 *This project showcases my ability to deliver professional marketing websites for clients, with a focus on clean design, performance, and effective communication of business value.*
-</details> <!-- FINAL DETAILS Project Details -->
+</details> <!-- FINAL DETAILS Project Cajuscript Details -->
 
-<details> <!-- INICIO DETAILS Project Technologies -->
-<summary>└─📑 Project Technologies</summary>
+<details> <!-- INICIO DETAILS Project Cajuscript Technologies -->
+<summary>└─📑 Project Cajuscript Technologies</summary>
 
 ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript - Programming language")
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "Netlify - Cloud computing company")
 
-</details> <!-- FINAL DETAILS Project Technologies -->
-</details> <!-- FINAL DETAILS Project Preview -->
+</details> <!-- FINAL DETAILS Project Cajuscript Technologies -->
 
 
 ### 🏢 Edificio Canadá - Landing Page - JAN 2025–FEB 2025

@@ -947,7 +947,84 @@ A platform designed to connect investors with startup investment opportunities, 
 <details> <!-- INICIO DETAILS Freelance Projects -->
 <summary><h3>🤝 Freelance Projects</h3></summary>
 
-### 🏢 Cajuscript - Landing Page - MARCH 2025
+### 🏢 Dr. Adriana Rezende Clinic - Health and Aesthetics - MARC 2025 -> NOW
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+<a href="https://www.draadrianarezendeestetica.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository" />
+</a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Status -->
+<summary>└─📑 Project Status</summary>
+<img src="https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Freelance-007ACC?style=flat-square" />
+</details> <!-- FINAL DETAILS Project Status -->
+
+<details> <!-- INICIO DETAILS Project Details -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Overview
+
+Modern application for an aesthetics clinic built with Next.js and TypeScript, providing a robust and scalable solution for aesthetic health services.
+
+## 🛠️ Technical Implementation
+- **Framework:** Next.js with React
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **State Management:** Zustand
+- **Forms:** React Hook Form with Zod validation
+- **API Integration:** Axios
+- **Authentication:** JWT
+- **Internationalization:** i18next & next-intl
+- **UI Components:** React Icons with Framer Motion animations
+- **Additional Features:** PDF Generation, Toast Notifications
+
+## ✨ Key Features
+- Modern responsive UI
+- Form validation with Zod
+- State management with Zustand
+- PDF generation for procedure documents
+- Toast notifications for user feedback
+- Comprehensive TypeScript support
+- Multi-language support
+
+## 🔧 Technologies Used
+- **Frontend:** Next.js
+- **Styling:** Tailwind CSS
+- **Language:** TypeScript
+- **Analytics:** Google Analytics
+- **Deployment:** Vercel
+
+## 🎯 Learning Outcomes
+This project demonstrates:
+- Modern frontend development practices
+- Component architecture implementation
+- State management solutions
+- Responsive design techniques
+- Performance optimization strategies
+- Clean code principles
+
+</details> <!-- FINAL DETAILS Project Details -->
+
+<details> <!-- INICIO DETAILS Project Technologies -->
+<summary>└─📑 Project Technologies</summary>
+
+![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
+![Zustand](https://img.shields.io/badge/Zustand-%234a4a4a.svg?style=for-the-badge&logo=zustand&logoColor=white "Zustand - State management solution")
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white "React Hook Form - Forms library")
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white "Axios - Promise based HTTP client")
+![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework")
+
+</details> <!-- FINAL DETAILS Project Technologies -->
+
+
+### 🏢 Cajuscript - Landing Page - MARCH 2025 - NOW
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
 <a href="https://cajuscript.netlify.app/br" target="_blank">
@@ -1023,7 +1100,7 @@ This freelance project demonstrated:
 </details> <!-- FINAL DETAILS Project Preview -->
 
 
-### 🏢 Edificio Canadá - Landing Page - FEB 2025
+### 🏢 Edificio Canadá - Landing Page - JAN 2025 - FEB 2025
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
 <a href="http://rvone.com.br/" target="_blank">

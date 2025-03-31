@@ -34,9 +34,9 @@
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
 </details> <!-- FINAL DETAILS Project Status -->
 
 <details> <!-- INICIO DETAILS Project Details -->
@@ -128,9 +128,9 @@ This project served as a practical application of modern frontend development pr
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
 </details> <!-- FINAL DETAILS Project Status -->
 
 <details> <!-- INICIO DETAILS Project Details -->
@@ -235,7 +235,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
 <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
 </details> <!-- FINAL DETAILS Project Status -->
 
 <details> <!-- INICIO DETAILS Project Preview -->
@@ -322,8 +322,8 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
+<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
 </details> <!-- FINAL DETAILS Project Status -->
 
 <details> <!-- INICIO DETAILS Project Preview -->
@@ -418,7 +418,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square" />
 </details> <!-- FINAL DETAILS Project Status -->
 
@@ -947,7 +947,7 @@ A platform designed to connect investors with startup investment opportunities, 
 <details> <!-- INICIO DETAILS Freelance Projects -->
 <summary><h3>🤝 Freelance Projects</h3></summary>
 
-### 🏢 Dr. Adriana Rezende Clinic - Health and Aesthetics - MARC 2025 -> NOW
+### 🏢 Dr. Adriana Rezende Clinic - Health and Aesthetics - March 2025 -> NOW
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
 <a href="https://www.draadrianarezendeestetica.com.br/" target="_blank">
@@ -1034,7 +1034,7 @@ This project demonstrates:
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 <img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square" />
 </details> <!-- FINAL DETAILS Project Status -->
 
@@ -1100,7 +1100,7 @@ This freelance project demonstrated:
 </details> <!-- FINAL DETAILS Project Preview -->
 
 
-### 🏢 Edificio Canadá - Landing Page - JAN 2025 - FEB 2025
+### 🏢 Edificio Canadá - Landing Page - JAN 2025–FEB 2025
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
 <a href="http://rvone.com.br/" target="_blank">
@@ -1116,7 +1116,7 @@ This freelance project demonstrated:
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 <img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square" />
 </details> <!-- FINAL DETAILS Project Status -->
 
@@ -1184,13 +1184,13 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://itu-pneus-freelance.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Website_FORK_FOR_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes"/>
+    <img src="https://img.shields.io/badge/🌐_Live_Website_FORK_FOR_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="ItuPneus Live Website - Demonstration version of the tire and automotive services store landing page"/>
   </a>
 </div>
 
 <details> <!-- INICIO DETAILS Project Preview -->
 <summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/itu-pneus-freelance.png" alt="ItuPneus website preview" width="300"/>
+<img src="./assets/projects/itu-pneus-freelance.png" alt="ItuPneus website preview showing a modern landing page for tire and automotive services" width="300"/>
 </details> <!-- FINAL DETAILS Project Preview -->
 
 <details> <!-- INICIO DETAILS Project Details -->

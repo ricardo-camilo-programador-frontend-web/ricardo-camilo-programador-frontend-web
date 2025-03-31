@@ -1047,7 +1047,13 @@ This project demonstrates:
 <summary>└─📑 Project Cajuscript Details</summary>
 
 ## 🎯 Project Overview
-A freelance landing page project for Cajuscript, showcasing modern web development skills and clean design principles. This project demonstrates my ability to deliver professional marketing websites for clients.
+The Cajuscript project automates business information retrieval by integrating with Google Custom Search API. The application reads spreadsheet data, identifies the company name column, and performs automated searches to gather relevant information about each company. Key features include:
+- Spreadsheet data processing and parsing
+- Google Custom Search API integration
+- Automated company information retrieval
+- Results compilation and reporting
+
+This project demonstrates advanced automation capabilities and API integration skills for business intelligence applications.
 
 ## 🛠️ Technical Implementation
 - **Framework:** Next.js

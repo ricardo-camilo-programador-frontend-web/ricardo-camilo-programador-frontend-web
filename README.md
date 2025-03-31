@@ -34,9 +34,9 @@
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
 </details> <!-- FINAL DETAILS Project Status -->
 
 <details> <!-- INICIO DETAILS Project Details -->
@@ -128,9 +128,9 @@ This project served as a practical application of modern frontend development pr
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
 </details> <!-- FINAL DETAILS Project Status -->
 
 <details> <!-- INICIO DETAILS Project Details -->
@@ -235,7 +235,7 @@ UI/UX inspired by a Figma community design, adapted and implemented with modern 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
 <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
 </details> <!-- FINAL DETAILS Project Status -->
 
 <details> <!-- INICIO DETAILS Project Preview -->
@@ -322,8 +322,8 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
+<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
 </details> <!-- FINAL DETAILS Project Status -->
 
 <details> <!-- INICIO DETAILS Project Preview -->
@@ -418,7 +418,7 @@ A modern, responsive portfolio website showcasing my professional experience as 
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square" />
 </details> <!-- FINAL DETAILS Project Status -->
 
@@ -491,12 +491,18 @@ Based on:
 
 </details> <!-- FINAL DETAILS Personal Projects -->
 
-
 <details> <!-- INICIO DETAILS Corporative Projects -->
 <summary><h3>💼 Corporative Projects</h3></summary>
 
+<details> <!-- INICIO DETAILS Podpay Projects -->
+<summary>└─👨🏻‍💼 Projects that I participated in with <a href="https://www.podpay.app/" target="_blank" aria-label="Podpay.com">Podpay.com</a> (JAN 2025 - Now)</summary>
+
+### Coming Soon...
+
+</details> <!-- FINAL DETAILS Podpay Projects -->
+
 <details> <!-- INICIO DETAILS Labi9 Projects -->
-<summary>└─👔 Corporative Projects with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
+<summary>└─👔 Projects that I participated in with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
 
 ### 🏢 Labi9.com
 
@@ -940,7 +946,166 @@ A platform designed to connect investors with startup investment opportunities, 
 <details> <!-- INICIO DETAILS Freelance Projects -->
 <summary><h3>🤝 Freelance Projects</h3></summary>
 
-### 🏢 Edificio Canadá - Landing Page - FEB 2025
+### 🏢 Dr. Adriana Rezende Clinic - Health and Aesthetics - March 2025 -> NOW
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+<a href="https://www.draadrianarezendeestetica.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
+</a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Status -->
+<summary>└─📑 Project Status</summary>
+<img src="https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Freelance-007ACC?style=flat-square" />
+</details> <!-- FINAL DETAILS Project Status -->
+
+<details> <!-- INICIO DETAILS Project Details -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Overview
+
+A comprehensive medical forms application for Dr. Adriana Rezende's aesthetics clinic, built with Next.js and TypeScript. The system securely collects patient medical information, generates three types of PDF documents (medical contract, anamnesis form, and procedure details), and automatically emails them to both the doctor and patient. This automated workflow ensures efficient documentation and communication for aesthetic procedures.
+
+## 🛠️ Technical Implementation
+- **Framework:** Next.js with React
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **State Management:** Zustand
+- **Forms:** React Hook Form with Zod validation
+- **API Integration:** Axios
+- **Authentication:** JWT
+- **Internationalization:** i18next & next-intl
+- **UI Components:** React Icons with Framer Motion animations
+- **Additional Features:** PDF Generation, Toast Notifications
+
+## ✨ Key Features
+- Secure medical data collection forms
+- Automated generation of three PDF documents:
+  • Medical contract
+  • Anamnesis form
+  • Procedure details
+- Email delivery system for PDFs to both doctor and patient
+- Form validation with Zod for accurate data collection
+- State management with Zustand
+- Toast notifications for user feedback
+- Comprehensive TypeScript support
+- Multi-language support (English/Portuguese)
+
+## 🔧 Technologies Used
+- **Frontend:** Next.js
+- **Styling:** Tailwind CSS
+- **Language:** TypeScript
+- **Analytics:** Google Analytics
+- **Deployment:** Vercel
+
+## 🎯 Learning Outcomes
+This project demonstrates:
+- Modern frontend development practices
+- Component architecture implementation
+- State management solutions
+- Responsive design techniques
+- Performance optimization strategies
+- Clean code principles
+
+</details> <!-- FINAL DETAILS Project Details -->
+
+<details> <!-- INICIO DETAILS Project Technologies -->
+<summary>└─📑 Project Technologies</summary>
+
+![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
+![Zustand](https://img.shields.io/badge/Zustand-%234a4a4a.svg?style=for-the-badge&logo=zustand&logoColor=white "Zustand - State management solution")
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white "React Hook Form - Forms library")
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white "Axios - Promise based HTTP client")
+![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework")
+
+</details> <!-- FINAL DETAILS Project Technologies -->
+
+
+### 🏢 Cajuscript - Landing Page - MARCH 2025 - NOW
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+<a href="https://cajuscript.netlify.app/br" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
+</a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Cajuscript Status -->
+<summary>└─📑 Project Cajuscript Status</summary>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
+<img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square" />
+</details> <!-- FINAL DETAILS Project Cajuscript Status -->
+
+<details> <!-- INICIO DETAILS Project Cajuscript Preview -->
+<summary>└─📑 Project Cajuscript Preview</summary>
+<img src="./assets/projects/cajuscript-rvone-freelance.png" alt="Cajuscript website preview" width="300" />
+</details> <!-- FINAL DETAILS Project Cajuscript Preview -->
+
+<details> <!-- INICIO DETAILS Project Cajuscript Details -->
+<summary>└─📑 Project Cajuscript Details</summary>
+
+## 🎯 Project Overview
+A freelance landing page project for Cajuscript, showcasing modern web development skills and clean design principles. This project demonstrates my ability to deliver professional marketing websites for clients.
+
+## 🛠️ Technical Implementation
+- **Framework:** Next.js
+- **Styling:** Tailwind CSS
+- **Features:**
+  - Responsive design for all devices
+  - Smooth animations and transitions
+  - Contact form functionality
+  - Performance optimization
+  - SEO best practices
+
+## ✨ Key Features
+- Clean and professional design
+- Mobile-first responsive layout
+- Interactive UI elements
+- Fast loading times
+- Client-focused content presentation
+
+## 🎨 Design & Development
+The project features a clean, professional design focused on effectively presenting the client's services. Each section was carefully crafted to ensure both visual appeal and clear communication of value propositions.
+
+## 🔧 Technologies Used
+- **Frontend:** Next.js
+- **Styling:** Tailwind CSS
+- **Language:** JavaScript
+- **Deployment:** Netlify
+
+## 🎯 Learning Outcomes
+This freelance project demonstrated:
+- Client communication and requirements gathering
+- Professional design implementation
+- Responsive development techniques
+- Performance optimization
+- Project delivery timelines
+
+---
+
+*This project showcases my ability to deliver professional marketing websites for clients, with a focus on clean design, performance, and effective communication of business value.*
+</details> <!-- FINAL DETAILS Project Cajuscript Details -->
+
+<details> <!-- INICIO DETAILS Project Cajuscript Technologies -->
+<summary>└─📑 Project Cajuscript Technologies</summary>
+
+![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript - Programming language")
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "Netlify - Cloud computing company")
+
+</details> <!-- FINAL DETAILS Project Cajuscript Technologies -->
+
+
+### 🏢 Edificio Canadá - Landing Page - JAN 2025–FEB 2025
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+<a href="http://rvone.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_OFICIAL_Live_Website-2563eb?style=for-the-badge" alt="Ofical Live Website " />
+</a>
+</div>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
 <a href="https://edificio-canada-freelance-langing.netlify.app/" target="_blank">
@@ -950,7 +1115,7 @@ A platform designed to connect investors with startup investment opportunities, 
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 <img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square" />
 </details> <!-- FINAL DETAILS Project Status -->
 
@@ -1018,13 +1183,13 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <a href="https://itu-pneus-freelance.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Website_FORK_FOR_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes"/>
+    <img src="https://img.shields.io/badge/🌐_Live_Website_FORK_FOR_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="ItuPneus Live Website - Demonstration version of the tire and automotive services store landing page"/>
   </a>
 </div>
 
 <details> <!-- INICIO DETAILS Project Preview -->
 <summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/itu-pneus-freelance.png" alt="ItuPneus website preview" width="300"/>
+<img src="./assets/projects/itu-pneus-freelance.png" alt="ItuPneus website preview showing a modern landing page for tire and automotive services" width="300"/>
 </details> <!-- FINAL DETAILS Project Preview -->
 
 <details> <!-- INICIO DETAILS Project Details -->
@@ -1344,6 +1509,8 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px" title="Scan this QR code to donate Bitcoin"/>
 </details> <!-- FINAL Bitcoin QR Code -->
 
+</details> <!-- FINAL Support my studies -->
+
 ---
 
 <div align="center">
@@ -1353,6 +1520,25 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 ### Specialist in creating modern and performant web experiences
 
 </div>
+
+---
+
+
+<details> <!-- INICIO GitHub Analytics -->
+<summary><h2>📊 GitHub Analytics</h2></summary>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ricardo-camilo-programador-frontend-web&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-camilo-programador-frontend-web&layout=compact&theme=vision-friendly-dark)](https://github.com/ricardo-camilo-programador-frontend-web)
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ricardo-camilo-programador-frontend-web&theme=radical" alt="GitHub Trophies"/>
+</p>
+</details> <!-- FINAL GitHub Analytics -->
 
 ---
 

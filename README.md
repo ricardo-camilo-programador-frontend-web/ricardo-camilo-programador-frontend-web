@@ -1521,7 +1521,18 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 
 ---
 
-## 📈 GitHub Analytics
+<!-- ## 📈 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ricardo-camilo-programador-frontend-web&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-camilo-programador-frontend-web&layout=compact&theme=vision-friendly-dark)](https://github.com/ricardo-camilo-programador-frontend-web)
+
+</div> -->
+
+<details> <!-- INICIO GitHub Analytics -->
+<summary><h2>📊 GitHub Analytics</h2></summary>
 
 <div align="center">
 
@@ -1530,6 +1541,11 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-camilo-programador-frontend-web&layout=compact&theme=vision-friendly-dark)](https://github.com/ricardo-camilo-programador-frontend-web)
 
 </div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ricardo-camilo-programador-frontend-web&theme=radical" alt="GitHub Trophies"/>
+</p>
+</details> <!-- FINAL GitHub Analytics -->
 
 ---
 

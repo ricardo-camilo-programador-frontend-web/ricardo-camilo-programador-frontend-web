@@ -1521,6 +1521,18 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 
 ---
 
+## 📈 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ricardo-camilo-programador-frontend-web&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-camilo-programador-frontend-web&layout=compact&theme=vision-friendly-dark)](https://github.com/ricardo-camilo-programador-frontend-web)
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ricardo-camilo-programador-frontend-web&label=Profile%20views&color=0e75b6&style=flat "Number of times my profile has been viewed")

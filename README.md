@@ -1509,6 +1509,8 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px" title="Scan this QR code to donate Bitcoin"/>
 </details> <!-- FINAL Bitcoin QR Code -->
 
+</details> <!-- FINAL Support my studies -->
+
 ---
 
 <div align="center">
@@ -1521,15 +1523,6 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 
 ---
 
-<!-- ## 📈 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ricardo-camilo-programador-frontend-web&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-camilo-programador-frontend-web&layout=compact&theme=vision-friendly-dark)](https://github.com/ricardo-camilo-programador-frontend-web)
-
-</div> -->
 
 <details> <!-- INICIO GitHub Analytics -->
 <summary><h2>📊 GitHub Analytics</h2></summary>

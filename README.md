@@ -491,6 +491,12 @@ Based on:
 
 </details> <!-- FINAL DETAILS Personal Projects -->
 
+<details> <!-- INICIO DETAILS Podpay Projects -->
+<summary>└─👨🏻‍💼 Projects that I participated in with <a href="https://www.podpay.app/" target="_blank" aria-label="Podpay.com">Podpay.com</a> (JAN 2025 - Now)</summary>
+
+### Coming Soon...
+
+</details> <!-- FINAL DETAILS Podpay Projects -->
 
 <details> <!-- INICIO DETAILS Corporative Projects -->
 <summary><h3>💼 Corporative Projects</h3></summary>
@@ -934,13 +940,6 @@ A platform designed to connect investors with startup investment opportunities, 
 </details> <!-- FINAL DETAILS Project Technologies Tippbank -->
 
 </details> <!-- FINAL DETAILS Labi9 Projects -->
-
-<details> <!-- INICIO DETAILS Podpay Projects -->
-<summary>└─👨🏻‍💼 Projects that I participated in with <a href="https://www.podpay.app/" target="_blank" aria-label="Podpay.com">Podpay.com</a> (JAN 2025 - Now)</summary>
-
-### Coming Soon...
-
-</details> <!-- FINAL DETAILS Podpay Projects -->
 
 </details> <!-- FINAL DETAILS Corporative Projects -->
 

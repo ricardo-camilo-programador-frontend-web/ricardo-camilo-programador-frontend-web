@@ -1026,6 +1026,12 @@ This freelance project demonstrated:
 ### 🏢 Edificio Canadá - Landing Page - FEB 2025
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
+<a href="http://rvone.com.br/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_OFICIAL_Live_Website-2563eb?style=for-the-badge" alt="Ofical Live Website " />
+</a>
+</div>
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
 <a href="https://edificio-canada-freelance-langing.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Live_Website_FORK_FOR_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes" />
 </a>

@@ -322,7 +322,7 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
 <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" />
 </details> <!-- FINAL DETAILS Project Status -->
 
@@ -496,7 +496,7 @@ Based on:
 <summary><h3>💼 Corporative Projects</h3></summary>
 
 <details> <!-- INICIO DETAILS Labi9 Projects -->
-<summary>└─👔 Corporative Projects with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
+<summary>└─👔 Projects that I participated in with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
 
 ### 🏢 Labi9.com
 
@@ -935,10 +935,93 @@ A platform designed to connect investors with startup investment opportunities, 
 
 </details> <!-- FINAL DETAILS Labi9 Projects -->
 
+<details> <!-- INICIO DETAILS Podpay Projects -->
+<summary>└─👨🏻‍💼 Projects that I participated in with <a href="https://www.podpay.app/" target="_blank" aria-label="Podpay.com">Podpay.com</a> (JAN 2025 - Now)</summary>
+
+### Coming Soon...
+
+</details> <!-- FINAL DETAILS Podpay Projects -->
+
 </details> <!-- FINAL DETAILS Corporative Projects -->
 
 <details> <!-- INICIO DETAILS Freelance Projects -->
 <summary><h3>🤝 Freelance Projects</h3></summary>
+
+### 🏢 Cajuscript - Landing Page - MARCH 2025
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+<a href="https://cajuscript.netlify.app/br" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
+</a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Status -->
+<summary>└─📑 Project Status</summary>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square" />
+</details> <!-- FINAL DETAILS Project Status -->
+
+<details> <!-- INICIO DETAILS Project Preview -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/cajuscript-rvone-freelance.png" alt="Cajuscript website preview" width="300" />
+</details> <!-- FINAL DETAILS Project Preview -->
+
+<details> <!-- INICIO DETAILS Project Details -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Overview
+A freelance landing page project for Cajuscript, showcasing modern web development skills and clean design principles. This project demonstrates my ability to deliver professional marketing websites for clients.
+
+## 🛠️ Technical Implementation
+- **Framework:** Next.js
+- **Styling:** Tailwind CSS
+- **Features:**
+  - Responsive design for all devices
+  - Smooth animations and transitions
+  - Contact form functionality
+  - Performance optimization
+  - SEO best practices
+
+## ✨ Key Features
+- Clean and professional design
+- Mobile-first responsive layout
+- Interactive UI elements
+- Fast loading times
+- Client-focused content presentation
+
+## 🎨 Design & Development
+The project features a clean, professional design focused on effectively presenting the client's services. Each section was carefully crafted to ensure both visual appeal and clear communication of value propositions.
+
+## 🔧 Technologies Used
+- **Frontend:** Next.js
+- **Styling:** Tailwind CSS
+- **Language:** JavaScript
+- **Deployment:** Netlify
+
+## 🎯 Learning Outcomes
+This freelance project demonstrated:
+- Client communication and requirements gathering
+- Professional design implementation
+- Responsive development techniques
+- Performance optimization
+- Project delivery timelines
+
+---
+
+*This project showcases my ability to deliver professional marketing websites for clients, with a focus on clean design, performance, and effective communication of business value.*
+</details> <!-- FINAL DETAILS Project Details -->
+
+<details> <!-- INICIO DETAILS Project Technologies -->
+<summary>└─📑 Project Technologies</summary>
+
+![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript - Programming language")
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "Netlify - Cloud computing company")
+
+</details> <!-- FINAL DETAILS Project Technologies -->
+</details> <!-- FINAL DETAILS Project Preview -->
+
 
 ### 🏢 Edificio Canadá - Landing Page - FEB 2025
 

@@ -494,6 +494,13 @@ Based on:
 <details> <!-- INICIO DETAILS Corporative Projects -->
 <summary><h3>💼 Corporative Projects</h3></summary>
 
+<details> <!-- INICIO DETAILS inovan.do Projects -->
+<summary>└─👩🏻‍💻 Projects that I participated in with <a href="https://www.inovan.do/" target="_blank" aria-label="https://www.inovan.do/">inovan.do</a> (APRIL 2025 - Now)</summary>
+
+### Coming Soon...
+
+</details> <!-- FINAL DETAILS inovan.do Projects -->
+
 <details> <!-- INICIO DETAILS Podpay Projects -->
 <summary>└─👨🏻‍💼 Projects that I participated in with <a href="https://www.podpay.app/" target="_blank" aria-label="Podpay.com">Podpay.com</a> (JAN 2025 - Now)</summary>
 

@@ -495,7 +495,7 @@ Based on:
 <summary><h3>💼 Corporative Projects</h3></summary>
 
 <details> <!-- INICIO DETAILS inovan.do Projects -->
-<summary>└─👩🏻‍💻 Projects that I participated in with <a href="https://www.inovan.do/" target="_blank" aria-label="https://www.inovan.do/">inovan.do</a> (APRIL 2025 - Now)</summary>
+<summary>└─👩🏻‍💻 Projects that I participated in with <a href="https://www.inovan.do/" target="_blank" aria-label="https://www.inovan.do/">Inovan.do</a> (APRIL 2025 - Now)</summary>
 
 ### Coming Soon...
 

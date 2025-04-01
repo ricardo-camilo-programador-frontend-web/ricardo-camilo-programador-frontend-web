@@ -1474,8 +1474,9 @@ A collaborative visual novel game project combining programming expertise with c
 <summary><h2>📁 Currently Studying</h2></summary>
 
 ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - The React Framework for Production")
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - Platform for building web applications")
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker - Platform for developing, shipping and running applications")
+![AdonisJS](https://img.shields.io/badge/AdonisJS-%235A45FF.svg?style=for-the-badge&logo=adonisjs&logoColor=white "AdonisJS 4 - A fully featured web framework for Node.js")
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white "Express - Fast, unopinionated, minimalist web framework for Node.js")
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white "Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine")
 
 </details> <!-- FINAL Currently Studying -->
 

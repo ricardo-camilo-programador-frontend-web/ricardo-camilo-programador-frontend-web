@@ -494,6 +494,13 @@ Based on:
 <details> <!-- INICIO DETAILS Corporative Projects -->
 <summary><h3>💼 Corporative Projects</h3></summary>
 
+<details> <!-- INICIO DETAILS inovan.do Projects -->
+<summary>└─👩🏻‍💻 Projects that I participated in with <a href="https://www.inovan.do/" target="_blank" aria-label="https://www.inovan.do/">Inovan.do</a> (APRIL 2025 - Now)</summary>
+
+### Coming Soon...
+
+</details> <!-- FINAL DETAILS inovan.do Projects -->
+
 <details> <!-- INICIO DETAILS Podpay Projects -->
 <summary>└─👨🏻‍💼 Projects that I participated in with <a href="https://www.podpay.app/" target="_blank" aria-label="Podpay.com">Podpay.com</a> (JAN 2025 - Now)</summary>
 
@@ -1047,7 +1054,13 @@ This project demonstrates:
 <summary>└─📑 Project Cajuscript Details</summary>
 
 ## 🎯 Project Overview
-A freelance landing page project for Cajuscript, showcasing modern web development skills and clean design principles. This project demonstrates my ability to deliver professional marketing websites for clients.
+The Cajuscript project automates business information retrieval by integrating with Google Custom Search API. The application reads spreadsheet data, identifies the company name column, and performs automated searches to gather relevant information about each company. Key features include:
+- Spreadsheet data processing and parsing
+- Google Custom Search API integration
+- Automated company information retrieval
+- Results compilation and reporting
+
+This project demonstrates advanced automation capabilities and API integration skills for business intelligence applications.
 
 ## 🛠️ Technical Implementation
 - **Framework:** Next.js
@@ -1461,8 +1474,9 @@ A collaborative visual novel game project combining programming expertise with c
 <summary><h2>📁 Currently Studying</h2></summary>
 
 ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - The React Framework for Production")
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - Platform for building web applications")
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker - Platform for developing, shipping and running applications")
+![AdonisJS](https://img.shields.io/badge/AdonisJS-%235A45FF.svg?style=for-the-badge&logo=adonisjs&logoColor=white "AdonisJS 4 - A fully featured web framework for Node.js")
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white "Express - Fast, unopinionated, minimalist web framework for Node.js")
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white "Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine")
 
 </details> <!-- FINAL Currently Studying -->
 

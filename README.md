@@ -487,197 +487,70 @@ Based on:
 </details> <!-- FINAL DETAILS Project Technologies -->
 
 ---
-</details> <!-- FINAL DETAILS Chronicles -->
 
-</details> <!-- FINAL DETAILS Personal Projects -->
-
-<details> <!-- INICIO DETAILS Corporative Projects -->
-<summary><h3>💼 Corporative Projects</h3></summary>
-
-<details> <!-- INICIO DETAILS inovan.do Projects -->
-<summary>└─👩🏻‍💻 Projects that I participated in with <a href="https://www.inovan.do/" target="_blank" aria-label="https://www.inovan.do/">Inovan.do</a> (APRIL 2025 - Now)</summary>
-
-### Coming Soon...
-
-</details> <!-- FINAL DETAILS inovan.do Projects -->
-
-<details> <!-- INICIO DETAILS Podpay Projects -->
-<summary>└─👨🏻‍💼 Projects that I participated in with <a href="https://www.podpay.app/" target="_blank" aria-label="Podpay.com">Podpay.com</a> (JAN 2025 - Now)</summary>
-
-### Coming Soon...
-
-</details> <!-- FINAL DETAILS Podpay Projects -->
-
-<details> <!-- INICIO DETAILS Labi9 Projects -->
-<summary>└─👔 Projects that I participated in with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
-
-### 🏢 Labi9.com
+### 🔮 Cigana Lila - com Cigana Lila
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <a href="https://labi9.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
-  </a>
+<a href="https://cigana-lila.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
+</a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Details Labi9 -->
-<summary>└─📑 Project Details</summary>
-## 📋 Project Overview
-A corporate website for Labi9, a software development company specializing in transforming ideas into reality and boosting businesses through technology solutions.
+<details> <!-- INICIO DETAILS Project Status -->
+<summary>└─📑 Project Status</summary>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
+  <img src="https://img.shields.io/badge/Type-Colab-007ACC?style=flat-square" />
+</details> <!-- FINAL DETAILS Project Status -->
 
-## 🛠️ Technical Stack
-- **Framework:** Qwik 1.5.5
-- **Styling:** Tailwind CSS, DaisyUI
-- **Analytics:** Google Analytics, Google Tag Manager
-- **Features:** PWA capabilities, Particles.js
-- **Focus:** Performance & Visual Effects
-
-## 🎨 Frontend Features
-- Responsive design across all devices
-- Modern and clean UI/UX
-- Interactive portfolio showcase
-- Performance-optimized animations
-- Cross-browser compatibility
-- SEO optimization
-- Progressive Web App implementation
-
-## 📱 Key Sections
-- Interactive hero section
-- Services overview
-- Portfolio showcase
-- Client testimonials
-- Company information
-- Contact forms
-- Team presentation
-
-## 💼 Portfolio Highlights
-- **Loor:** Equity & Crowdfunding : [Loor - Frontend](https://loor.vc/)
-- **Tipp Bank:** Payment Solutions : [Tipp Bank](https://tippbank.com.br/)
-- **Sti3:** ERP Systems : [Sti3](https://sti3.com.br/)
-- **BCodex:** Embed Finance : [BCodex](https://bcodex.com.br/)
-- **Global Liberty Bank:** Banking Platform : [Global Liberty Bank](https://www.glbk.com.br/)
-## 🌟 Project Achievements
-- Optimized loading times
-- SEO-friendly structure
-- Modern design implementation
-- Smooth animations
-- Responsive across devices
-- Full PWA functionality
-
-## 🤝 Collaboration
-Frontend development while working closely with the backend team at Labi9, located in Jaú - SP, Brazil.
-
----
-
-*Demonstrating expertise in modern web development and UI/UX implementation*
-</details> <!-- FINAL DETAILS Project Details Labi9 -->
-
-<details> <!-- INICIO DETAILS Project Preview Labi9 -->
+<details> <!-- INICIO DETAILS Project Preview -->
 <summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/labi9.png" alt="Labi9 website preview" width="300"/>
-</details> <!-- FINAL DETAILS Project Preview Labi9 -->
+  <!-- Adicione aqui uma imagem de preview se disponível, exemplo: -->
+  <!-- <img src="./assets/projects/cigana-lila.png" alt="Cigana Lila website preview" width="300" /> -->
+</details> <!-- FINAL DETAILS Project Preview -->
 
-<details> <!-- INICIO DETAILS Project Technologies Labi9 -->
-<summary>└─📑 Project Technologies</summary>
-
-![Qwik](https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white "Framework for building fast web applications")
-![Particles.js](https://img.shields.io/badge/particles.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white "Library for creating particles animations")
-![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white "Progressive Web App capabilities")
-![Open Graph](https://img.shields.io/badge/Open_Graph-%234285F4.svg?style=for-the-badge&logo=opengraph&logoColor=white "Protocol for rich previews when sharing content")
-![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Analytics tool for understanding user behavior")
-![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Tag management system for marketing and analytics")
-![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
-
-</details> <!-- FINAL DETAILS Project Technologies Labi9 -->
-
----
-
-### 💰 Loor.vc
-
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-  <a href="https://loor.vc/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
-  </a>
-</div>
-
-<details> <!-- INICIO DETAILS Project Preview Loor -->
-<summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/loor.png" alt="Loor.vc website preview" width="300"/>
-</details> <!-- FINAL DETAILS Project Preview Loor -->
-
-<details> <!-- INICIO DETAILS Project Details Loor -->
+<details> <!-- INICIO DETAILS Project Details -->
 <summary>└─📑 Project Details</summary>
 
-## 🎯 Project Purpose
+## 🎯 Visão Geral do Projeto
+Plataforma espiritual desenvolvida em colaboração com a Cigana Lila, oferecendo consultas, rituais e orientações para harmonizar a vida dos usuários. O site apresenta uma vitrine de serviços espirituais, com foco em experiência do usuário, performance e acessibilidade.
 
-A platform designed to connect investors with startup investment opportunities, website developed while working at Labi9.com, focusing on high-potential returns and secure investments.
-
-## 🛠️ Technical Stack
+## 🛠️ Implementação Técnica
 - **Framework:** Astro.js
-- **Frontend:** Vue.js for interactive components
-- **Styling:** TailwindCSS
-- **Integration:** REST API for product listing
+- **Linguagem:** TypeScript
+- **Deploy:** Netlify
+- **Qualidade:** ESLint
+- **Colaboração:** Cigana Lila
 
-## 💻 Development Role
-- Frontend development at Labi9.com
-- No backend involvement
-- Focus on performance optimization
-- Responsive design implementation
+## ✨ Funcionalidades
+- Catálogo de rituais e consultas espirituais
+- Design responsivo e moderno
+- Otimização de performance
+- Estrutura de código limpa e escalável
+- Integração com WhatsApp para agendamento
 
-## 🔍 Key Features
-- Investment opportunities listing
-- Startup analysis tools
-- Financial planning tools
-- Real-time updates
-- User authentication system
-- Investment tracking dashboard
+## 🎨 Design & Desenvolvimento
+O projeto priorizou uma experiência acolhedora e intuitiva, com navegação clara e visual alinhado à proposta espiritual. Todos os componentes foram pensados para facilitar o acesso aos serviços e informações.
 
-## ⚡ Performance Highlights
-- Optimized page loading
-- Responsive design for all devices
-- Server-side rendering for better SEO
-- Component-based architecture
-- Efficient API data handling
-
-## 📱 User Interface
-- Clean and modern design
-- Easy navigation
-- Mobile-first approach
-- Intuitive investment tracking
-- Clear presentation of investment opportunities
-
-## 🎨 Design Implementation
-- Responsive layouts
-- Interactive components
-- Dynamic content loading
-- User-friendly forms
-- Progress indicators
-
-## 🔒 Security Features
-- Secure authentication flow
-- Protected investment data
-- Compliance with financial regulations
-- Safe transaction handling
-
-## 🌟 Project Highlights
-- Fast page transitions
-- Optimized asset loading
-- Seamless user experience
-- Professional financial interface
-- Clear investment information display
+## 🔧 Tecnologias Utilizadas
+- **Astro.js**
+- **TypeScript**
+- **Netlify**
+- **ESLint**
 
 ---
 
+*Projeto colaborativo desenvolvido com a Cigana Lila, focado em soluções web modernas para o segmento espiritual.*
+</details> <!-- FINAL DETAILS Project Details -->
 
-</details> <!-- FINAL DETAILS Project Details Loor -->
-
-<details> <!-- INICIO DETAILS Project Technologies Loor -->
+<details> <!-- INICIO DETAILS Project Technologies -->
 <summary>└─📑 Project Technologies</summary>
 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
+![Astro.js](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro.js - The all-in-one web framework")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript com tipagem")
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "Netlify - Deploy e hospedagem")
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white "ESLint - Linter de código para JavaScript/TypeScript")
 
-</details> <!-- FINAL DETAILS Project Technologies Loor -->
+</details> <!-- FINAL DETAILS Project Technologies -->
 
 ---
 

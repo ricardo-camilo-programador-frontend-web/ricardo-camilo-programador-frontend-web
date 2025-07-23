@@ -488,63 +488,338 @@ Based on:
 
 ---
 
-### 🔮 Cigana Lila - com Cigana Lila
+### 🔮 Cigana Lila - Spiritual Services Website with Cigana Lila
 
-[🌐 Live Website](https://cigana-lila.netlify.app/)
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+<a href="https://cigana-lila.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
+</a>
+</div>
 
-<details>
-<summary>📑 Project Status</summary>
+<details> <!-- INICIO DETAILS Project Status -->
+<summary>└─📑 Project Status</summary>
+<img src="https://img.shields.io/badge/in-progress?style=flat-square" alt="Status: In Progress" />
+<img src="https://img.shields.io/badge/Type-Collaboration-007ACC?style=flat-square" alt="Type: Collaboration" />
+</details> <!-- FINAL DETAILS Project Status -->
 
-- Status: Completed
-- Type: Colab
+<details> <!-- INICIO DETAILS Project Details -->
+<summary>└─📑 Project Details</summary>
 
-</details>
+## 🎯 Project Overview
 
-<details>
-<summary>📑 Project Preview</summary>
+Um projeto colaborativo para criar um site para os serviços espirituais da Cigana Lila, incluindo leituras de tarot, rituais e consultas. O site oferece vários serviços espirituais como baralho cigano, leituras de tarot, amarração amorosa e mais.
 
-<!-- Adicione aqui uma imagem de preview se disponível, exemplo: -->
-<!-- ![Preview do site Cigana Lila](./assets/projects/cigana-lila.png) -->
+## 🛠️ Technical Stack
+- **Framework:** Astro.js
+- **Language:** TypeScript
+- **Deployment:** Netlify
+- **Linter:** ESLint
 
-</details>
+## ✨ Key Features
+- Listagem de serviços espirituais com descrições e investimentos
+- Agendamento de consultas via WhatsApp
+- Design responsivo para todos os dispositivos
+- UI moderna e intuitiva
 
-<details>
-<summary>📑 Project Details</summary>
+</details> <!-- FINAL DETAILS Project Details -->
 
-**Visão Geral:**
+<details> <!-- INICIO DETAILS Project Technologies -->
+<summary>└─📑 Project Technologies</summary>
 
-Plataforma espiritual desenvolvida em colaboração com a Cigana Lila, oferecendo consultas, rituais e orientações para harmonizar a vida dos usuários. O site apresenta uma vitrine de serviços espirituais, com foco em experiência do usuário, performance e acessibilidade.
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&amp;logo=astro&amp;logoColor=white "Astro - The all-in-one web framework")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white "TypeScript - JavaScript with syntax for types")
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7 "Netlify - Platform for modern web projects")
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&amp;logo=eslint&amp;logoColor=white "ESLint - Pluggable JavaScript linter")
 
-**Implementação Técnica:**
-- Framework: Astro.js
-- Linguagem: TypeScript
-- Deploy: Netlify
-- Qualidade: ESLint
-- Colaboração: Cigana Lila
+</details> <!-- FINAL DETAILS Project Technologies -->
 
-**Funcionalidades:**
-- Catálogo de rituais e consultas espirituais
-- Design responsivo e moderno
-- Otimização de performance
-- Estrutura de código limpa e escalável
-- Integração com WhatsApp para agendamento
+---
 
-**Design & Desenvolvimento:**
-O projeto priorizou uma experiência acolhedora e intuitiva, com navegação clara e visual alinhado à proposta espiritual. Todos os componentes foram pensados para facilitar o acesso aos serviços e informações.
+### 🚗 ItuPneus - Landing Page - FEB 2025
 
-*Projeto colaborativo desenvolvido com a Cigana Lila, focado em soluções web modernas para o segmento espiritual.*
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://itu-pneus-freelance.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website_FORK_FOR_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="ItuPneus Live Website - Demonstration version of the tire and automotive services store landing page"/>
+  </a>
+</div>
 
-</details>
+<details> <!-- INICIO DETAILS Project Preview -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/itu-pneus-freelance.png" alt="ItuPneus website preview showing a modern landing page for tire and automotive services" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview -->
 
-<details>
-<summary>📑 Project Technologies</summary>
+<details> <!-- INICIO DETAILS Project Details -->
+<summary>└─📑 Project Details</summary>
 
-- Astro.js
-- TypeScript
-- Netlify
-- ESLint
+## 🎯 Project Overview
+A modern website for ItuPneus, a specialized tire and automotive services store with over 20 years of tradition. The project focused on implementing a professional design while ensuring optimal user experience and sales conversion.
 
-</details>
+## 🛠️ Technical Implementation
+- **Framework:** Next.js 15
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Rendering:** Server-Side Rendering (SSR)
+- **Maps:** Google Maps Integration
+- **Typography:** Google Fonts API
+- **Focus:** SEO & Performance optimization
+
+## 🔍 Key Challenges & Solutions
+- Image optimization maintaining high visual quality
+- Dynamic pricing system with easy updates
+- Mobile-first responsive design
+- Optimized contact forms implementation
+- Structured sitemap and robots.txt
+- WhatsApp integration for quick contact
+
+## ⚡ Performance Metrics
+- Loading time < 3 seconds
+- 90+ Lighthouse score
+- Fully responsive across devices
+- WCAG accessibility standards
+- Optimized for mobile devices
+
+## 🎨 Key Features
+- Modern and intuitive interface
+- Organized service catalog
+- Detailed service descriptions
+- WhatsApp integration
+- Location map with routes
+- Strategic CTAs for conversion
+- Dynamic pricing system
+
+## 🌟 Project Achievements
+- Exceptional mobile performance
+- Optimized SEO for industry terms
+- WCAG accessibility compliance
+- Streamlined user experience
+- Improved conversion rates
+- Professional service presentation
+- Efficient contact systems
+
+## 📱 Service Sections
+- Tire catalog and services
+- Automotive maintenance
+- Location and directions
+- Contact information
+- Company history
+- Service descriptions
+- Price information
+
+---
+
+*Project developed as a freelance developer, showcasing expertise in modern web development and UI/UX implementation*
+</details> <!-- FINAL DETAILS Project Details -->
+
+<details> <!-- INICIO DETAILS Project Technologies -->
+<summary>└─📑 Project Technologies</summary>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white "Next.js - The React Framework for Production")
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React - A JavaScript library for building user interfaces")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white "Google Maps - Location and routing integration")
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white "Google Fonts API - Typography optimization")
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify - Platform for modern web projects")
+![SEO](https://img.shields.io/badge/SEO-Optimization-00A86B?style=for-the-badge&logo=searchengineland&logoColor=white "SEO - Search Engine Optimization")
+![SSR](https://img.shields.io/badge/SSR-Server_Side_Rendering-4285F4?style=for-the-badge&logo=vercel&logoColor=white "SSR - Server Side Rendering")
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white "Lighthouse - Performance monitoring")
+
+</details> <!-- FINAL DETAILS Project Technologies -->
+
+---
+
+
+</details> <!-- FINAL DETAILS Chronicles -->
+
+</details> <!-- FINAL DETAILS Personal Projects -->
+
+<details> <!-- INICIO DETAILS Corporative Projects -->
+<summary><h3>💼 Corporative Projects</h3></summary>
+
+<details> <!-- INICIO DETAILS inovan.do Projects -->
+<summary>└─👩🏻‍💻 Projects that I participated in with <a href="https://www.inovan.do/" target="_blank" aria-label="https://www.inovan.do/">Inovan.do</a> (APRIL 2025 - Now)</summary>
+
+### Coming Soon...
+
+</details> <!-- FINAL DETAILS inovan.do Projects -->
+
+<details> <!-- INICIO DETAILS Podpay Projects -->
+<summary>└─👨🏻‍💼 Projects that I participated in with <a href="https://www.podpay.app/" target="_blank" aria-label="Podpay.com">Podpay.com</a> (JAN 2025 - Now)</summary>
+
+### Coming Soon...
+
+</details> <!-- FINAL DETAILS Podpay Projects -->
+
+<details> <!-- INICIO DETAILS Labi9 Projects -->
+<summary>└─👔 Projects that I participated in with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
+
+### 🏢 Labi9.com
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://labi9.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Details Labi9 -->
+<summary>└─📑 Project Details</summary>
+## 📋 Project Overview
+A corporate website for Labi9, a software development company specializing in transforming ideas into reality and boosting businesses through technology solutions.
+
+## 🛠️ Technical Stack
+- **Framework:** Qwik 1.5.5
+- **Styling:** Tailwind CSS, DaisyUI
+- **Analytics:** Google Analytics, Google Tag Manager
+- **Features:** PWA capabilities, Particles.js
+- **Focus:** Performance & Visual Effects
+
+## 🎨 Frontend Features
+- Responsive design across all devices
+- Modern and clean UI/UX
+- Interactive portfolio showcase
+- Performance-optimized animations
+- Cross-browser compatibility
+- SEO optimization
+- Progressive Web App implementation
+
+## 📱 Key Sections
+- Interactive hero section
+- Services overview
+- Portfolio showcase
+- Client testimonials
+- Company information
+- Contact forms
+- Team presentation
+
+## 💼 Portfolio Highlights
+- **Loor:** Equity & Crowdfunding : [Loor - Frontend](https://loor.vc/)
+- **Tipp Bank:** Payment Solutions : [Tipp Bank](https://tippbank.com.br/)
+- **Sti3:** ERP Systems : [Sti3](https://sti3.com.br/)
+- **BCodex:** Embed Finance : [BCodex](https://bcodex.com.br/)
+- **Global Liberty Bank:** Banking Platform : [Global Liberty Bank](https://www.glbk.com.br/)
+## 🌟 Project Achievements
+- Optimized loading times
+- SEO-friendly structure
+- Modern design implementation
+- Smooth animations
+- Responsive across devices
+- Full PWA functionality
+
+## 🤝 Collaboration
+Frontend development while working closely with the backend team at Labi9, located in Jaú - SP, Brazil.
+
+---
+
+*Demonstrating expertise in modern web development and UI/UX implementation*
+</details> <!-- FINAL DETAILS Project Details Labi9 -->
+
+<details> <!-- INICIO DETAILS Project Preview Labi9 -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/labi9.png" alt="Labi9 website preview" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview Labi9 -->
+
+<details> <!-- INICIO DETAILS Project Technologies Labi9 -->
+<summary>└─📑 Project Technologies</summary>
+
+![Qwik](https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white "Framework for building fast web applications")
+![Particles.js](https://img.shields.io/badge/particles.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white "Library for creating particles animations")
+![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white "Progressive Web App capabilities")
+![Open Graph](https://img.shields.io/badge/Open_Graph-%234285F4.svg?style=for-the-badge&logo=opengraph&logoColor=white "Protocol for rich previews when sharing content")
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Analytics tool for understanding user behavior")
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Tag management system for marketing and analytics")
+![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
+
+</details> <!-- FINAL DETAILS Project Technologies Labi9 -->
+
+---
+
+### 💰 Loor.vc
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <a href="https://loor.vc/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Preview Loor -->
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/loor.png" alt="Loor.vc website preview" width="300"/>
+</details> <!-- FINAL DETAILS Project Preview Loor -->
+
+<details> <!-- INICIO DETAILS Project Details Loor -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Purpose
+
+A platform designed to connect investors with startup investment opportunities, website developed while working at Labi9.com, focusing on high-potential returns and secure investments.
+
+## 🛠️ Technical Stack
+- **Framework:** Astro.js
+- **Frontend:** Vue.js for interactive components
+- **Styling:** TailwindCSS
+- **Integration:** REST API for product listing
+
+## 💻 Development Role
+- Frontend development at Labi9.com
+- No backend involvement
+- Focus on performance optimization
+- Responsive design implementation
+
+## 🔍 Key Features
+- Investment opportunities listing
+- Startup analysis tools
+- Financial planning tools
+- Real-time updates
+- User authentication system
+- Investment tracking dashboard
+
+## ⚡ Performance Highlights
+- Optimized page loading
+- Responsive design for all devices
+- Server-side rendering for better SEO
+- Component-based architecture
+- Efficient API data handling
+
+## 📱 User Interface
+- Clean and modern design
+- Easy navigation
+- Mobile-first approach
+- Intuitive investment tracking
+- Clear presentation of investment opportunities
+
+## 🎨 Design Implementation
+- Responsive layouts
+- Interactive components
+- Dynamic content loading
+- User-friendly forms
+- Progress indicators
+
+## 🔒 Security Features
+- Secure authentication flow
+- Protected investment data
+- Compliance with financial regulations
+- Safe transaction handling
+
+## 🌟 Project Highlights
+- Fast page transitions
+- Optimized asset loading
+- Seamless user experience
+- Professional financial interface
+- Clear investment information display
+
+---
+
+
+</details> <!-- FINAL DETAILS Project Details Loor -->
+
+<details> <!-- INICIO DETAILS Project Technologies Loor -->
+<summary>└─📑 Project Technologies</summary>
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
+
+</details> <!-- FINAL DETAILS Project Technologies Loor -->
 
 ---
 
@@ -1232,6 +1507,55 @@ A collaborative visual novel game project combining programming expertise with c
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white "Ren'Py - Visual Novel Engine for game development")
 
 </details> <!-- FINAL DETAILS Project Technologies -->
+
+---
+
+### 🔮 Cigana Lila - Spiritual Services Website with Cigana Lila
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+<a href="https://cigana-lila.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
+</a>
+</div>
+
+<details> <!-- INICIO DETAILS Project Status -->
+<summary>└─📑 Project Status</summary>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
+<img src="https://img.shields.io/badge/Type-Collaboration-007ACC?style=flat-square" alt="Type: Collaboration" />
+</details> <!-- FINAL DETAILS Project Status -->
+
+<details> <!-- INICIO DETAILS Project Details -->
+<summary>└─📑 Project Details</summary>
+
+## 🎯 Project Overview
+
+Um projeto colaborativo para criar um site para os serviços espirituais da Cigana Lila, incluindo leituras de tarot, rituais e consultas. O site oferece vários serviços espirituais como baralho cigano, leituras de tarot, amarração amorosa e mais.
+
+## 🛠️ Technical Stack
+- **Framework:** Astro.js
+- **Language:** TypeScript
+- **Deployment:** Netlify
+- **Linter:** ESLint
+
+## ✨ Key Features
+- Listagem de serviços espirituais com descrições e investimentos
+- Agendamento de consultas via WhatsApp
+- Design responsivo para todos os dispositivos
+- UI moderna e intuitiva
+
+</details> <!-- FINAL DETAILS Project Details -->
+
+<details> <!-- INICIO DETAILS Project Technologies -->
+<summary>└─📑 Project Technologies</summary>
+
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&amp;logo=astro&amp;logoColor=white "Astro - The all-in-one web framework")
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white "TypeScript - JavaScript with syntax for types")
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7 "Netlify - Platform for modern web projects")
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&amp;logo=eslint&amp;logoColor=white "ESLint - Pluggable JavaScript linter")
+
+</details> <!-- FINAL DETAILS Project Technologies -->
+
+---
 
 </details> <!-- FINAL DETAILS Projects With Friends -->
 

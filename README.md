@@ -490,67 +490,61 @@ Based on:
 
 ### 🔮 Cigana Lila - com Cigana Lila
 
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://cigana-lila.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-</div>
+[🌐 Live Website](https://cigana-lila.netlify.app/)
 
-<details> <!-- INICIO DETAILS Project Status -->
-<summary>└─📑 Project Status</summary>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
-  <img src="https://img.shields.io/badge/Type-Colab-007ACC?style=flat-square" />
-</details> <!-- FINAL DETAILS Project Status -->
+<details>
+<summary>📑 Project Status</summary>
 
-<details> <!-- INICIO DETAILS Project Preview -->
-<summary>└─📑 Project Preview</summary>
-  <!-- Adicione aqui uma imagem de preview se disponível, exemplo: -->
-  <!-- <img src="./assets/projects/cigana-lila.png" alt="Cigana Lila website preview" width="300" /> -->
-</details> <!-- FINAL DETAILS Project Preview -->
+- Status: Completed
+- Type: Colab
 
-<details> <!-- INICIO DETAILS Project Details -->
-<summary>└─📑 Project Details</summary>
+</details>
 
-## 🎯 Visão Geral do Projeto
+<details>
+<summary>📑 Project Preview</summary>
+
+<!-- Adicione aqui uma imagem de preview se disponível, exemplo: -->
+<!-- ![Preview do site Cigana Lila](./assets/projects/cigana-lila.png) -->
+
+</details>
+
+<details>
+<summary>📑 Project Details</summary>
+
+**Visão Geral:**
+
 Plataforma espiritual desenvolvida em colaboração com a Cigana Lila, oferecendo consultas, rituais e orientações para harmonizar a vida dos usuários. O site apresenta uma vitrine de serviços espirituais, com foco em experiência do usuário, performance e acessibilidade.
 
-## 🛠️ Implementação Técnica
-- **Framework:** Astro.js
-- **Linguagem:** TypeScript
-- **Deploy:** Netlify
-- **Qualidade:** ESLint
-- **Colaboração:** Cigana Lila
+**Implementação Técnica:**
+- Framework: Astro.js
+- Linguagem: TypeScript
+- Deploy: Netlify
+- Qualidade: ESLint
+- Colaboração: Cigana Lila
 
-## ✨ Funcionalidades
+**Funcionalidades:**
 - Catálogo de rituais e consultas espirituais
 - Design responsivo e moderno
 - Otimização de performance
 - Estrutura de código limpa e escalável
 - Integração com WhatsApp para agendamento
 
-## 🎨 Design & Desenvolvimento
+**Design & Desenvolvimento:**
 O projeto priorizou uma experiência acolhedora e intuitiva, com navegação clara e visual alinhado à proposta espiritual. Todos os componentes foram pensados para facilitar o acesso aos serviços e informações.
 
-## 🔧 Tecnologias Utilizadas
-- **Astro.js**
-- **TypeScript**
-- **Netlify**
-- **ESLint**
-
----
-
 *Projeto colaborativo desenvolvido com a Cigana Lila, focado em soluções web modernas para o segmento espiritual.*
-</details> <!-- FINAL DETAILS Project Details -->
 
-<details> <!-- INICIO DETAILS Project Technologies -->
-<summary>└─📑 Project Technologies</summary>
+</details>
 
-![Astro.js](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro.js - The all-in-one web framework")
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript com tipagem")
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "Netlify - Deploy e hospedagem")
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white "ESLint - Linter de código para JavaScript/TypeScript")
+<details>
+<summary>📑 Project Technologies</summary>
 
-</details> <!-- FINAL DETAILS Project Technologies -->
+- Astro.js
+- TypeScript
+- Netlify
+- ESLint
+
+</details>
 
 ---
 

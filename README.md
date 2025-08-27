@@ -5,41 +5,41 @@
 </div>
 
 <div align="center">
-<a href="https://persona-nextjs-chronicles-part-2.netlify.app/en" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Showcase-2563eb?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" title="View my professional portfolio - Showcasing projects and skills"/>
-</a>
+  <a href="https://persona-nextjs-chronicles-part-2.netlify.app/en" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Showcase-2563eb?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" title="View my professional portfolio - Showcasing projects and skills"/>
+  </a>
 </div>
 
 ---
 
-<details> <!-- INICIO DETAILS Projects -->
+<details>
 <summary><h2>📁 Projects</h2></summary>
 
-<details> <!-- INICIO DETAILS Personal Projects -->
+<details>
 <summary><h3>🗂️ Personal Projects</h3></summary>
 
-<details> <!-- INICIO DETAILS Chronicles -->
+<details>
 <summary><h3>└─🗺️ Chronicles (TypeScript/JavaScript)</h3></summary>
 
 ### 🌿 Breath Natural - NextJS
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-1" target="_blank">
-<img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository" />
-</a>
+  <a href="https://breath-natural-nextjs-chronicles.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Status -->
+<details>
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
+ <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
-</details> <!-- FINAL DETAILS Project Status -->
+ <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
+</details>
 
-<details> <!-- INICIO DETAILS Project Details -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Overview
@@ -50,12 +50,12 @@ A modern e-commerce platform for indoor plants, developed as a portfolio piece t
 - **Framework:** Next.js
 - **Styling:** Tailwind CSS
 - **Features:**
-- Dynamic routing and state management
-- Interactive shopping cart functionality
-- Clean and maintainable code architecture
-- Integration with UI components
-- Performance optimization
-- SEO best practices
+  - Dynamic routing and state management
+  - Interactive shopping cart functionality
+  - Clean and maintainable code architecture
+  - Integration with UI components
+  - Performance optimization
+  - SEO best practices
 
 ## ✨ Key Features
 - Elegant and modern UI design
@@ -89,14 +89,13 @@ This project served as a practical application of modern frontend development pr
 ---
 
 *This portfolio project demonstrates my capability to deliver professional-grade frontend solutions, with a focus on user experience, performance, and code quality. It represents my commitment to creating engaging and functional web applications using current industry standards and best practices.*
-</details> <!-- FINAL DETAILS Project Details -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Preview -->
+<details>
 <summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/breath-natural.png" alt="Breath Natural NextJS Chronicles Part 1 website preview" width="300" />
-</details> <!-- FINAL DETAILS Project Preview -->
-
-<details> <!-- INICIO DETAILS Project Technologies -->
+<img src="./assets/projects/breath-natural.png" alt="Breath Natural NextJS Chronicles Part 1 website preview" width="300"/>
+</details>
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
@@ -111,29 +110,28 @@ This project served as a practical application of modern frontend development pr
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics")
 
-</details> <!-- FINAL DETAILS Project Technologies -->
-
+</details>
 ---
 
 ### 🍽️ Food Hut - Angular
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1" target="_blank">
-<img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository" />
-</a>
+  <a href="https://food-hut-angular-chronicles-1.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Status -->
+<details>
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
+ <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
-</details> <!-- FINAL DETAILS Project Status -->
+ <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
+</details>
 
-<details> <!-- INICIO DETAILS Project Details -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 # 🍽️ Food Hut - Angular Chronicles
@@ -161,6 +159,7 @@ A modern restaurant landing page developed to demonstrate proficiency in Angular
 - Fast loading times
 - Smooth animations
 - Interactive UI elements
+- Dynamic image galleries
 
 ## 🔍 Learning Outcomes
 - Angular component architecture
@@ -180,70 +179,57 @@ A modern restaurant landing page developed to demonstrate proficiency in Angular
 ## 🎨 Design Attribution
 UI/UX inspired by a Figma community design, adapted and implemented with modern web technologies.
 
-## 🔒 Security Features
-- Secure authentication flow
-- Protected investment data
-- Compliance with financial regulations
-- Safe transaction handling
-
-## 🌟 Project Highlights
-- Fast page transitions
-- Optimized asset loading
-- Seamless user experience
-- Professional financial interface
-- Clear investment information display
-
 ---
 
 *This portfolio project showcases my frontend development skills and ability to create professional, user-friendly web applications using modern technologies and best practices.*
-</details> <!-- FINAL DETAILS Project Details -->
+</details>
 
-<details> <!-- INICIO DETAILS Video Preview -->
+<details>
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/food-hut.png" alt="Food Hut Angular Chronicles Part 1 website preview" width="300"/>
+</details>
+
+<details>
 <summary>└─🎥 Video Preview</summary>
 <a href="https://www.youtube.com/watch?v=qpa0vKH8gGQ" target="_blank">
-<img src="https://img.shields.io/badge/Watch-Video_Preview-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch video preview on YouTube" />
+  <img src="https://img.shields.io/badge/Watch-Video_Preview-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch video preview on YouTube"/>
 </a>
-</details> <!-- FINAL DETAILS Video Preview -->
-
-<details> <!-- INICIO DETAILS Project Technologies -->
+</details>
+<details>
 <summary>└─📑 Project Technologies</summary>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - Platform for building web applications")
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - A platform for building web applications")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
 ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220 "pnpm - Fast, disk space efficient package manager")
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma - Collaborative interface design tool")
 ![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Microsoft Clarity - Free website analytics tool")
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Google Tag Manager - Tag management system")
-![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Google Analytics - Web analytics service")
+![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
 
-</details> <!-- FINAL DETAILS Project Technologies -->
+</details>
 
 ---
 
 ### 🦁 Savana - NuxtJS
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/nuxtjs-chronicles-part-1" target="_blank">
-<img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository" />
-</a>
+  <a href="https://savana-nuxtjs-chronicles-part-1.netlify.app/en" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/nuxtjs-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Status -->
+<details>
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
-</details> <!-- FINAL DETAILS Project Status -->
+  <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/>
 
-<details> <!-- INICIO DETAILS Project Preview -->
-<summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/savana.webp" alt="Savana NuxtJS Chronicles Part 1 website preview" width="300" />
-</details> <!-- FINAL DETAILS Project Preview -->
+  <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
+</details>
 
-<details> <!-- INICIO DETAILS Project Details -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 ## 🎯 Overview
@@ -289,9 +275,13 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ---
 
 *This project serves as a practical demonstration of frontend development capabilities, particularly in the Vue.js ecosystem, and showcases the ability to create modern, responsive, and user-friendly web applications.*
-</details> <!-- FINAL DETAILS Project Details -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Technologies -->
+<details>
+<summary>└─📑 Project Preview</summary>
+<img src="./assets/projects/savana.webp" alt="Savana NuxtJS Chronicles Part 1 website preview" width="300"/>
+</details>
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white "The Intuitive Vue Framework - Build your next Vue.js application with confidence using Nuxt")
@@ -301,37 +291,38 @@ A portfolio project showcasing frontend development skills using NuxtJS, demonst
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "A collaborative interface design tool")
 ![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Free website analytics tool that helps you understand how users interact with your website")
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Tag management system to manage JavaScript and HTML tags for tracking and analytics")
-![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
+![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service that tracks and reports website traffic")
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "Internationalization framework for multi-language support")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Simple and privacy-friendly website analytics")
 
-</details> <!-- FINAL DETAILS Project Technologies -->
+</details>
 
 ---
 
 ### 🎭 Persona - NextJS
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2" target="_blank">
-<img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository" />
-</a>
+  <a href="https://persona-nextjs-chronicles-2.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Status -->
+<details>
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
-<img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square" alt="Type: Portfolio" />
-</details> <!-- FINAL DETAILS Project Status -->
+  <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/>
 
-<details> <!-- INICIO DETAILS Project Preview -->
+  <img src="https://img.shields.io/badge/Type-Portfolio-007ACC?style=flat-square"/>
+</details>
+
+<details>
 <summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/persona.png" alt="Persona NextJS Chronicles Part 2 website preview" width="300" />
-</details> <!-- FINAL DETAILS Project Preview -->
+<img src="./assets/projects/persona.png" alt="Persona NextJS Chronicles Part 2 website preview" width="300"/>
+</details>
 
-<details> <!-- INICIO DETAILS Project Details -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 ## 📝 Description
@@ -385,9 +376,8 @@ A modern, responsive portfolio website showcasing my professional experience as 
 - Responsive design implementation
 - Modern web technologies adoption
 
-</details> <!-- FINAL DETAILS Project Details -->
-
-<details> <!-- INICIO DETAILS Project Technologies -->
+</details>
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
@@ -397,37 +387,38 @@ A modern, responsive portfolio website showcasing my professional experience as 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma - Design tool for collaborative interface design")
 ![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-%23000000.svg?style=for-the-badge&logo=microsoft-clarity&logoColor=white "Microsoft Clarity - Free analytics tool for understanding user behavior")
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Google Tag Manager - Tag management system for marketing and analytics")
-![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
+![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Google Analytics - Web analytics service by Google")
 ![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework for multiple language support")
 ![Counter.dev](https://img.shields.io/badge/Counter.dev-%23000000.svg?style=for-the-badge&logo=counter.dev&logoColor=white "Counter.dev - Privacy-friendly analytics platform")
 
-</details> <!-- FINAL DETAILS Project Technologies -->
+</details>
 
 ---
 
 ### 🌟 Zenith - NodeJS
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/node-chronicles-part-1" target="_blank">
-<img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository" />
-</a>
+  <a href="https://replit.com/@ricardo564/zenith-node-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/node-chronicles-part-1" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
+  </a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Status -->
+<details>
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
-<img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square" />
-</details> <!-- FINAL DETAILS Project Status -->
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
 
-<details> <!-- INICIO DETAILS Project Preview -->
+  <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/>
+</details>
+
+<details>
 <summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/zenith-node-chronicles-part-1.png" alt="Zenith Node Chronicles Part 1 website preview" width="300" />
-</details> <!-- FINAL DETAILS Project Preview -->
+<img src="./assets/projects/zenith-node-chronicles-part-1.png" alt="Zenith Node Chronicles Part 1 website preview" width="300"/>
+</details>
 
-<details> <!-- INICIO DETAILS Project Details -->
+<details>
 <summary>└─📑 Project Details</summary>
 A basic web server project in Node.js that demonstrates fundamental concepts of backend development.
 
@@ -472,9 +463,9 @@ Core Concepts:
 Based on:
 - FreeCodeCamp's tutorial: How to Get Started with NodeJS – a Handbook for Beginners
 - Project: Basic Informational Site
-</details> <!-- FINAL DETAILS Project Details -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Technologies -->
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine")
@@ -484,9 +475,7 @@ Based on:
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white "Replit - Online IDE and cloud IDE")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "A utility-first CSS framework")
 
-</details> <!-- FINAL DETAILS Project Technologies -->
-
----
+</details>
 
 ### 🔮 Cigana Lila - Spiritual Services Website with Cigana Lila
 
@@ -498,7 +487,7 @@ Based on:
 
 <details> <!-- INICIO DETAILS Project Status -->
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/in-progress?style=flat-square" alt="Status: In Progress" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
 <img src="https://img.shields.io/badge/Type-Collaboration-007ACC?style=flat-square" alt="Type: Collaboration" />
 </details> <!-- FINAL DETAILS Project Status -->
 
@@ -534,124 +523,58 @@ Um projeto colaborativo para criar um site para os serviços espirituais da Ciga
 </details> <!-- FINAL DETAILS Project Technologies -->
 
 ---
+</details>
 
-### 🚗 ItuPneus - Landing Page - FEB 2025
+<details>
+<summary><h3>└─🌌 Dimensions (Dart)</h3></summary>
 
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-  <a href="https://itu-pneus-freelance.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Website_FORK_FOR_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="ItuPneus Live Website - Demonstration version of the tire and automotive services store landing page"/>
-  </a>
-</div>
+### ⌛ Time Forge - Flutter
 
-<details> <!-- INICIO DETAILS Project Preview -->
-<summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/itu-pneus-freelance.png" alt="ItuPneus website preview showing a modern landing page for tire and automotive services" width="300"/>
-</details> <!-- FINAL DETAILS Project Preview -->
+<a href="https://github.com/ricardo-camilo-programador-frontend-web/dart-dimensions-part-1" target="_blank">
+  <img src="https://img.shields.io/badge/View-Repository-2563eb" alt="Repository"/>
+</a>
 
-<details> <!-- INICIO DETAILS Project Details -->
+<details>
+<summary>└─📑 Project Status</summary>
+  <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/>
+
+  <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/>
+</details>
+
+<details>
 <summary>└─📑 Project Details</summary>
-
-## 🎯 Project Overview
-A modern website for ItuPneus, a specialized tire and automotive services store with over 20 years of tradition. The project focused on implementing a professional design while ensuring optimal user experience and sales conversion.
+Pomodoro timer app developed with Dart and Flutter.
 
 ## 🛠️ Technical Implementation
-- **Framework:** Next.js 15
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS
-- **Rendering:** Server-Side Rendering (SSR)
-- **Maps:** Google Maps Integration
-- **Typography:** Google Fonts API
-- **Focus:** SEO & Performance optimization
+- **Framework:** Dart and Flutter
 
-## 🔍 Key Challenges & Solutions
-- Image optimization maintaining high visual quality
-- Dynamic pricing system with easy updates
-- Mobile-first responsive design
-- Optimized contact forms implementation
-- Structured sitemap and robots.txt
-- WhatsApp integration for quick contact
-
-## ⚡ Performance Metrics
-- Loading time < 3 seconds
-- 90+ Lighthouse score
-- Fully responsive across devices
-- WCAG accessibility standards
-- Optimized for mobile devices
-
-## 🎨 Key Features
-- Modern and intuitive interface
-- Organized service catalog
-- Detailed service descriptions
-- WhatsApp integration
-- Location map with routes
-- Strategic CTAs for conversion
-- Dynamic pricing system
-
-## 🌟 Project Achievements
-- Exceptional mobile performance
-- Optimized SEO for industry terms
-- WCAG accessibility compliance
-- Streamlined user experience
-- Improved conversion rates
-- Professional service presentation
-- Efficient contact systems
-
-## 📱 Service Sections
-- Tire catalog and services
-- Automotive maintenance
-- Location and directions
-- Contact information
-- Company history
-- Service descriptions
-- Price information
-
----
-
-*Project developed as a freelance developer, showcasing expertise in modern web development and UI/UX implementation*
-</details> <!-- FINAL DETAILS Project Details -->
-
-<details> <!-- INICIO DETAILS Project Technologies -->
+</details>
+<details>
 <summary>└─📑 Project Technologies</summary>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white "Next.js - The React Framework for Production")
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React - A JavaScript library for building user interfaces")
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white "Google Maps - Location and routing integration")
-![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white "Google Fonts API - Typography optimization")
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify - Platform for modern web projects")
-![SEO](https://img.shields.io/badge/SEO-Optimization-00A86B?style=for-the-badge&logo=searchengineland&logoColor=white "SEO - Search Engine Optimization")
-![SSR](https://img.shields.io/badge/SSR-Server_Side_Rendering-4285F4?style=for-the-badge&logo=vercel&logoColor=white "SSR - Server Side Rendering")
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white "Lighthouse - Performance monitoring")
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white "Dart - A client-optimized programming language for fast apps on any platform")
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter - Google's UI toolkit for building natively compiled applications")
 
-</details> <!-- FINAL DETAILS Project Technologies -->
+</details>
+
 
 ---
 
+</details>
 
-</details> <!-- FINAL DETAILS Chronicles -->
+---
 
-</details> <!-- FINAL DETAILS Personal Projects -->
+*This portfolio serves as a testament to my ability to create modern, efficient, and user-friendly web applications while showcasing my technical expertise and professional growth in frontend development.*
 
-<details> <!-- INICIO DETAILS Corporative Projects -->
+</details>
+
+---
+
+<details>
 <summary><h3>💼 Corporative Projects</h3></summary>
 
-<details> <!-- INICIO DETAILS inovan.do Projects -->
-<summary>└─👩🏻‍💻 Projects that I participated in with <a href="https://www.inovan.do/" target="_blank" aria-label="https://www.inovan.do/">Inovan.do</a> (APRIL 2025 - Now)</summary>
-
-### Coming Soon...
-
-</details> <!-- FINAL DETAILS inovan.do Projects -->
-
-<details> <!-- INICIO DETAILS Podpay Projects -->
-<summary>└─👨🏻‍💼 Projects that I participated in with <a href="https://www.podpay.app/" target="_blank" aria-label="Podpay.com">Podpay.com</a> (JAN 2025 - Now)</summary>
-
-### Coming Soon...
-
-</details> <!-- FINAL DETAILS Podpay Projects -->
-
-<details> <!-- INICIO DETAILS Labi9 Projects -->
-<summary>└─👔 Projects that I participated in with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
+<details>
+  <summary>└─👔 Corporative Projects with <a href="https://labi9.com" target="_blank" aria-label="Labi9.com">Labi9.com</a> (2021 - Until December 2024)</summary>
 
 ### 🏢 Labi9.com
 
@@ -661,7 +584,7 @@ A modern website for ItuPneus, a specialized tire and automotive services store 
   </a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Details Labi9 -->
+<details>
 <summary>└─📑 Project Details</summary>
 ## 📋 Project Overview
 A corporate website for Labi9, a software development company specializing in transforming ideas into reality and boosting businesses through technology solutions.
@@ -711,14 +634,15 @@ Frontend development while working closely with the backend team at Labi9, locat
 ---
 
 *Demonstrating expertise in modern web development and UI/UX implementation*
-</details> <!-- FINAL DETAILS Project Details Labi9 -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Preview Labi9 -->
+
+<details>
 <summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/labi9.png" alt="Labi9 website preview" width="300"/>
-</details> <!-- FINAL DETAILS Project Preview Labi9 -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Technologies Labi9 -->
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 ![Qwik](https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white "Framework for building fast web applications")
@@ -729,7 +653,7 @@ Frontend development while working closely with the backend team at Labi9, locat
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-%23000000.svg?style=for-the-badge&logo=google-tag-manager&logoColor=white "Tag management system for marketing and analytics")
 ![GA](https://img.shields.io/badge/Google_Analytics-%23000000.svg?style=for-the-badge&logo=google-analytics&logoColor=white "Web analytics service by Google")
 
-</details> <!-- FINAL DETAILS Project Technologies Labi9 -->
+</details>
 
 ---
 
@@ -741,12 +665,12 @@ Frontend development while working closely with the backend team at Labi9, locat
   </a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Preview Loor -->
+<details>
 <summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/loor.png" alt="Loor.vc website preview" width="300"/>
-</details> <!-- FINAL DETAILS Project Preview Loor -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Details Loor -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Purpose
@@ -810,16 +734,16 @@ A platform designed to connect investors with startup investment opportunities, 
 ---
 
 
-</details> <!-- FINAL DETAILS Project Details Loor -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Technologies Loor -->
+<details>
 <summary>└─📑 Project Technologies</summary>
 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Next Generation Frontend Tooling")
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "A utility-first CSS framework")
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "The web framework for content-driven websites")
 
-</details> <!-- FINAL DETAILS Project Technologies Loor -->
+</details>
 
 ---
 
@@ -829,12 +753,12 @@ A platform designed to connect investors with startup investment opportunities, 
   <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
 </a>
 
-<details> <!-- INICIO DETAILS Project Preview Loor Admin -->
+<details>
 <summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/loor-admin.png" alt="Loor.vc Admin Dashboard website preview" width="300"/>
-</details> <!-- FINAL DETAILS Project Preview Loor Admin -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Details Loor Admin -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 ## 📋 Overview
@@ -915,9 +839,9 @@ Led the frontend development of a cutting-edge investment platform at Labi9, ena
 
 *Project developed while serving as Frontend Development Lead at Labi9.com*
 
-</details> <!-- FINAL DETAILS Project Details Loor Admin -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Technologies Loor Admin -->
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB "React - A JavaScript library for building user interfaces")
@@ -925,7 +849,7 @@ Led the frontend development of a cutting-edge investment platform at Labi9, ena
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
 
-</details> <!-- FINAL DETAILS Project Technologies Loor Admin -->
+</details>
 
 ---
 
@@ -935,12 +859,12 @@ Led the frontend development of a cutting-edge investment platform at Labi9, ena
   <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
 </a>
 
-<details> <!-- INICIO DETAILS Project Preview GLBK -->
+<details>
 <summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/glbk.png" alt="Global Liberty Bank website preview" width="300"/>
-</details> <!-- FINAL DETAILS Project Preview GLBK -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Details GLBK -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Overview
@@ -989,16 +913,16 @@ Successfully delivered a modern, responsive banking website that effectively pre
 ---
 
 *Project developed as Frontend Developer at Labi9.com*
-</details> <!-- FINAL DETAILS Project Details GLBK -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Technologies GLBK -->
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite - Next Generation Frontend Tooling"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="TailwindCSS - A utility-first CSS framework"/>
 <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" title="Astro - The all-in-one web framework"/>
 
-</details> <!-- FINAL DETAILS Project Technologies GLBK -->
+</details>
 
 ---
 
@@ -1008,12 +932,12 @@ Successfully delivered a modern, responsive banking website that effectively pre
   <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
 </a>
 
-<details> <!-- INICIO DETAILS Project Preview Tippbank -->
+<details>
 <summary>└─📑 Project Preview</summary>
 <img src="./assets/projects/tippbank.png" alt="Tippbank.com.br website preview" width="300"/>
-</details> <!-- FINAL DETAILS Project Preview Tippbank -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Details Tippbank -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Purpose
@@ -1077,209 +1001,46 @@ A platform designed to connect investors with startup investment opportunities, 
 ---
 
 
-</details> <!-- FINAL DETAILS Project Details Tippbank -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Technologies Tippbank -->
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white "Vite - Next Generation Frontend Tooling")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "TailwindCSS - A utility-first CSS framework")
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white "Astro - The all-in-one web framework")
 
-</details> <!-- FINAL DETAILS Project Technologies Tippbank -->
+</details>
 
-</details> <!-- FINAL DETAILS Labi9 Projects -->
+</details>
 
-</details> <!-- FINAL DETAILS Corporative Projects -->
-
-<details> <!-- INICIO DETAILS Freelance Projects -->
-<summary><h3>🤝 Freelance Projects</h3></summary>
-
-### 🏢 Dr. Adriana Rezende Clinic - Health and Aesthetics - March 2025 -> NOW
-
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://www.draadrianarezendeestetica.com.br/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-</div>
-
-<details> <!-- INICIO DETAILS Project Status -->
-<summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Type-Freelance-007ACC?style=flat-square" />
-</details> <!-- FINAL DETAILS Project Status -->
-
-<details> <!-- INICIO DETAILS Project Details -->
-<summary>└─📑 Project Details</summary>
-
-## 🎯 Project Overview
-
-A comprehensive medical forms application for Dr. Adriana Rezende's aesthetics clinic, built with Next.js and TypeScript. The system securely collects patient medical information, generates three types of PDF documents (medical contract, anamnesis form, and procedure details), and automatically emails them to both the doctor and patient. This automated workflow ensures efficient documentation and communication for aesthetic procedures.
-
-## 🛠️ Technical Implementation
-- **Framework:** Next.js with React
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS
-- **State Management:** Zustand
-- **Forms:** React Hook Form with Zod validation
-- **API Integration:** Axios
-- **Authentication:** JWT
-- **Internationalization:** i18next & next-intl
-- **UI Components:** React Icons with Framer Motion animations
-- **Additional Features:** PDF Generation, Toast Notifications
-
-## ✨ Key Features
-- Secure medical data collection forms
-- Automated generation of three PDF documents:
-  • Medical contract
-  • Anamnesis form
-  • Procedure details
-- Email delivery system for PDFs to both doctor and patient
-- Form validation with Zod for accurate data collection
-- State management with Zustand
-- Toast notifications for user feedback
-- Comprehensive TypeScript support
-- Multi-language support (English/Portuguese)
-
-## 🔧 Technologies Used
-- **Frontend:** Next.js
-- **Styling:** Tailwind CSS
-- **Language:** TypeScript
-- **Analytics:** Google Analytics
-- **Deployment:** Vercel
-
-## 🎯 Learning Outcomes
-This project demonstrates:
-- Modern frontend development practices
-- Component architecture implementation
-- State management solutions
-- Responsive design techniques
-- Performance optimization strategies
-- Clean code principles
-
-</details> <!-- FINAL DETAILS Project Details -->
-
-<details> <!-- INICIO DETAILS Project Technologies -->
-<summary>└─📑 Project Technologies</summary>
-
-![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
-![Zustand](https://img.shields.io/badge/Zustand-%234a4a4a.svg?style=for-the-badge&logo=zustand&logoColor=white "Zustand - State management solution")
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white "React Hook Form - Forms library")
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white "Axios - Promise based HTTP client")
-![i18n](https://img.shields.io/badge/i18n-Internationalization-FF69B4?style=for-the-badge&logo=i18next&logoColor=white "i18n - Internationalization framework")
-
-</details> <!-- FINAL DETAILS Project Technologies -->
-
-
-### 🏢 Cajuscript - Landing Page - MARCH 2025 - NOW
-
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://cajuscript.netlify.app/br" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-</div>
-
-<details> <!-- INICIO DETAILS Project Cajuscript Status -->
-<summary>└─📑 Project Cajuscript Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
-<img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square" />
-</details> <!-- FINAL DETAILS Project Cajuscript Status -->
-
-<details> <!-- INICIO DETAILS Project Cajuscript Preview -->
-<summary>└─📑 Project Cajuscript Preview</summary>
-<img src="./assets/projects/cajuscript-rvone-freelance.png" alt="Cajuscript website preview" width="300" />
-</details> <!-- FINAL DETAILS Project Cajuscript Preview -->
-
-<details> <!-- INICIO DETAILS Project Cajuscript Details -->
-<summary>└─📑 Project Cajuscript Details</summary>
-
-## 🎯 Project Overview
-The Cajuscript project automates business information retrieval by integrating with Google Custom Search API. The application reads spreadsheet data, identifies the company name column, and performs automated searches to gather relevant information about each company. Key features include:
-- Spreadsheet data processing and parsing
-- Google Custom Search API integration
-- Automated company information retrieval
-- Results compilation and reporting
-
-This project demonstrates advanced automation capabilities and API integration skills for business intelligence applications.
-
-## 🛠️ Technical Implementation
-- **Framework:** Next.js
-- **Styling:** Tailwind CSS
-- **Features:**
-  - Responsive design for all devices
-  - Smooth animations and transitions
-  - Contact form functionality
-  - Performance optimization
-  - SEO best practices
-
-## ✨ Key Features
-- Clean and professional design
-- Mobile-first responsive layout
-- Interactive UI elements
-- Fast loading times
-- Client-focused content presentation
-
-## 🎨 Design & Development
-The project features a clean, professional design focused on effectively presenting the client's services. Each section was carefully crafted to ensure both visual appeal and clear communication of value propositions.
-
-## 🔧 Technologies Used
-- **Frontend:** Next.js
-- **Styling:** Tailwind CSS
-- **Language:** JavaScript
-- **Deployment:** Netlify
-
-## 🎯 Learning Outcomes
-This freelance project demonstrated:
-- Client communication and requirements gathering
-- Professional design implementation
-- Responsive development techniques
-- Performance optimization
-- Project delivery timelines
+</details>
 
 ---
 
-*This project showcases my ability to deliver professional marketing websites for clients, with a focus on clean design, performance, and effective communication of business value.*
-</details> <!-- FINAL DETAILS Project Cajuscript Details -->
+<details>
+<summary><h3>🤝 Freelance Projects</h3></summary>
 
-<details> <!-- INICIO DETAILS Project Cajuscript Technologies -->
-<summary>└─📑 Project Cajuscript Technologies</summary>
-
-![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - React framework for production")
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript - Programming language")
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white "Netlify - Cloud computing company")
-
-</details> <!-- FINAL DETAILS Project Cajuscript Technologies -->
-
-
-### 🏢 Edificio Canadá - Landing Page - JAN 2025–FEB 2025
+### 🏢 Edificio Canadá - Landing Page
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="http://rvone.com.br/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_OFICIAL_Live_Website-2563eb?style=for-the-badge" alt="Ofical Live Website " />
-</a>
+  <a href="https://edificio-canada-freelance-langing.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
 </div>
 
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://edificio-canada-freelance-langing.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website_FORK_FOR_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="Live Website - for demonstration purposes" />
-</a>
-</div>
-
-<details> <!-- INICIO DETAILS Project Status -->
+<details>
 <summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
-<img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square" />
-</details> <!-- FINAL DETAILS Project Status -->
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Type-Freelance-FF7F50?style=flat-square"/>
+</details>
 
-<details> <!-- INICIO DETAILS Project Preview -->
+<details>
 <summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/edificio-canada-rvone-freelance.png" alt="Edificio Canadá website preview" width="300" />
-</details> <!-- FINAL DETAILS Project Preview -->
+<img src="./assets/projects/edificio-canada.png" alt="Edificio Canadá website preview" width="300"/>
+</details>
 
-<details> <!-- INICIO DETAILS Project Details -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Overview
@@ -1319,9 +1080,9 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 ---
 
 *Project developed as a freelance developer*
-</details> <!-- FINAL DETAILS Project Details -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Technologies -->
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white "Next.js - The React Framework for Production")
@@ -1331,333 +1092,167 @@ A high-end real estate landing page for Edificio Canadá, showcasing luxury apar
 ![SEO](https://img.shields.io/badge/SEO-Optimization-00A86B?style=for-the-badge&logo=searchengineland&logoColor=white "SEO - Search Engine Optimization")
 ![SSR](https://img.shields.io/badge/SSR-Server_Side_Rendering-4285F4?style=for-the-badge&logo=vercel&logoColor=white "SSR - Server Side Rendering")
 
-</details> <!-- FINAL DETAILS Project Technologies -->
+</details>
 
+---
 
-### 🚗 ItuPneus - Landing Page - FEB 2025
+</details>
+
+---
+
+<details>
+<summary><h3>👥 Projects With Friends</h3></summary>
+
+<details>
+<summary>└─🎮 Lembre de min - Visual Novel Game with Anne <br> <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square"/></summary>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
-  <a href="https://itu-pneus-freelance.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Website_FORK_FOR_DEMONSTRATION_PURPOSES-2563eb?style=for-the-badge" alt="ItuPneus Live Website - Demonstration version of the tire and automotive services store landing page"/>
+  <a href="https://lembredemin.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website"/>
+  </a>
+  <a href="https://github.com/ricardo-camilo-programador-frontend-web/LembreDeMin" target="_blank">
+    <img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository"/>
   </a>
 </div>
 
-<details> <!-- INICIO DETAILS Project Preview -->
-<summary>└─📑 Project Preview</summary>
-<img src="./assets/projects/itu-pneus-freelance.png" alt="ItuPneus website preview showing a modern landing page for tire and automotive services" width="300"/>
-</details> <!-- FINAL DETAILS Project Preview -->
-
-<details> <!-- INICIO DETAILS Project Details -->
+<details>
 <summary>└─📑 Project Details</summary>
 
 ## 🎯 Project Overview
-A modern website for ItuPneus, a specialized tire and automotive services store with over 20 years of tradition. The project focused on implementing a professional design while ensuring optimal user experience and sales conversion.
-
-## 🛠️ Technical Implementation
-- **Framework:** Next.js 15
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS
-- **Rendering:** Server-Side Rendering (SSR)
-- **Maps:** Google Maps Integration
-- **Typography:** Google Fonts API
-- **Focus:** SEO & Performance optimization
-
-## 🔍 Key Challenges & Solutions
-- Image optimization maintaining high visual quality
-- Dynamic pricing system with easy updates
-- Mobile-first responsive design
-- Optimized contact forms implementation
-- Structured sitemap and robots.txt
-- WhatsApp integration for quick contact
-
-## ⚡ Performance Metrics
-- Loading time < 3 seconds
-- 90+ Lighthouse score
-- Fully responsive across devices
-- WCAG accessibility standards
-- Optimized for mobile devices
-
-## 🎨 Key Features
-- Modern and intuitive interface
-- Organized service catalog
-- Detailed service descriptions
-- WhatsApp integration
-- Location map with routes
-- Strategic CTAs for conversion
-- Dynamic pricing system
-
-## 🌟 Project Achievements
-- Exceptional mobile performance
-- Optimized SEO for industry terms
-- WCAG accessibility compliance
-- Streamlined user experience
-- Improved conversion rates
-- Professional service presentation
-- Efficient contact systems
-
-## 📱 Service Sections
-- Tire catalog and services
-- Automotive maintenance
-- Location and directions
-- Contact information
-- Company history
-- Service descriptions
-- Price information
-
----
-
-*Project developed as a freelance developer, showcasing expertise in modern web development and UI/UX implementation*
-</details> <!-- FINAL DETAILS Project Details -->
-
-<details> <!-- INICIO DETAILS Project Technologies -->
-<summary>└─📑 Project Technologies</summary>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white "Next.js - The React Framework for Production")
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React - A JavaScript library for building user interfaces")
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript - JavaScript with syntax for types")
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS - A utility-first CSS framework")
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white "Google Maps - Location and routing integration")
-![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white "Google Fonts API - Typography optimization")
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify - Platform for modern web projects")
-![SEO](https://img.shields.io/badge/SEO-Optimization-00A86B?style=for-the-badge&logo=searchengineland&logoColor=white "SEO - Search Engine Optimization")
-![SSR](https://img.shields.io/badge/SSR-Server_Side_Rendering-4285F4?style=for-the-badge&logo=vercel&logoColor=white "SSR - Server Side Rendering")
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white "Lighthouse - Performance monitoring")
-
-</details> <!-- FINAL DETAILS Project Technologies -->
-
----
-
-
-</details> <!-- FINAL DETAILS Freelance Projects -->
-
-<details> <!-- INICIO DETAILS Projects With Friends -->
-<summary><h3>👥 Projects With Friends</h3></summary>
-
-### 🎮 Lembre de min - Visual Novel Game with [@anneanneannehp](https://www.instagram.com/anneanneannehp/)
-
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://lembredemin.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-<a href="https://github.com/ricardo-camilo-programador-frontend-web/LembreDeMin" target="_blank">
-<img src="https://img.shields.io/badge/📁_View_Repository-2563eb?style=for-the-badge" alt="Repository" />
-</a>
-</div>
-
-<details> <!-- INICIO DETAILS Project Status -->
-<summary>└─📑 Project Status</summary>
-  <img src="https://img.shields.io/badge/Status-Paused-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Study-007ACC?style=flat-square" />
-</details> <!-- FINAL DETAILS Project Status -->
-
-<details> <!-- INICIO DETAILS Project Preview -->
-<summary>└─📑 Project Preview</summary>
-  <img src="./assets/projects/lembre-de-min.png" alt="Lembre de Min Visual Novel Game preview" width="300" />
-</details> <!-- FINAL DETAILS Project Preview -->
-
-<details> <!-- INICIO DETAILS Project Details -->
-<summary>└─📑 Project Details</summary>
-
-## 🎯 Project Overview
-A collaborative visual novel game project combining programming expertise with creative storytelling.
+Currently developing a visual novel game in collaboration with [@anneanneannehp](https://www.instagram.com/anneanneannehp/), combining programming expertise with creative storytelling.
 
 ## 🛠️ Technical Stack
-- **Engine:** Ren'Py Visual Novel Engine
+- **Engine:** Ren'Py
 - **Language:** Python
 - **Graphics:** Custom artwork and animations
-- **Audio:** Sound effects and music system
 - **Status:** In Development
 
 ## 🎨 Features
-- Interactive storytelling system
-- Multiple story paths and endings
-- Character dialogue management
+- Interactive storytelling
+- Multiple story paths
+- Character dialogue system
 - Custom artwork integration
 - Sound and music implementation
-- Save/Load game functionality
 
-## 🎨 Development Focus
-- Engaging narrative experience
-- Intuitive user interface
-- Smooth scene transitions
-- Performance optimization
-- Cross-platform compatibility
-
-## 👥 Team Collaboration
-- **Programming:** Ricardo Camilo
+## 👥 Team
+- **Programming & Technical Implementation:** Ricardo Camilo
 - **Art & Story:** [@anneanneannehp](https://www.instagram.com/anneanneannehp/)
-
-## 🎯 Project Goals
-- Create an engaging visual novel experience
-- Implement branching storylines
-- Optimize performance and loading times
-- Ensure cross-platform compatibility
-- Deliver polished user experience
 
 ---
 
-*Project in active development - More features and content coming soon!*
+*More details coming soon as the project develops!*
 
-</details> <!-- FINAL DETAILS Project Details -->
+</details>
 
-<details> <!-- INICIO DETAILS Project Technologies -->
+</details>
+
+<details>
 <summary>└─📑 Project Technologies</summary>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python - Programming language used for game logic and scripting")
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white "Ren'Py - Visual Novel Engine for game development")
 
-</details> <!-- FINAL DETAILS Project Technologies -->
+</details>
+
+</details>
+
+</details>
 
 ---
 
-### 🔮 Cigana Lila - Spiritual Services Website with Cigana Lila
-
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-<a href="https://cigana-lila.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Live_Website-2563eb?style=for-the-badge" alt="Live Website" />
-</a>
-</div>
-
-<details> <!-- INICIO DETAILS Project Status -->
-<summary>└─📑 Project Status</summary>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status: Completed - success" />
-<img src="https://img.shields.io/badge/Type-Collaboration-007ACC?style=flat-square" alt="Type: Collaboration" />
-</details> <!-- FINAL DETAILS Project Status -->
-
-<details> <!-- INICIO DETAILS Project Details -->
-<summary>└─📑 Project Details</summary>
-
-## 🎯 Project Overview
-
-Um projeto colaborativo para criar um site para os serviços espirituais da Cigana Lila, incluindo leituras de tarot, rituais e consultas. O site oferece vários serviços espirituais como baralho cigano, leituras de tarot, amarração amorosa e mais.
-
-## 🛠️ Technical Stack
-- **Framework:** Astro.js
-- **Language:** TypeScript
-- **Deployment:** Netlify
-- **Linter:** ESLint
-
-## ✨ Key Features
-- Listagem de serviços espirituais com descrições e investimentos
-- Agendamento de consultas via WhatsApp
-- Design responsivo para todos os dispositivos
-- UI moderna e intuitiva
-
-</details> <!-- FINAL DETAILS Project Details -->
-
-<details> <!-- INICIO DETAILS Project Technologies -->
-<summary>└─📑 Project Technologies</summary>
-
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&amp;logo=astro&amp;logoColor=white "Astro - The all-in-one web framework")
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white "TypeScript - JavaScript with syntax for types")
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7 "Netlify - Platform for modern web projects")
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&amp;logo=eslint&amp;logoColor=white "ESLint - Pluggable JavaScript linter")
-
-</details> <!-- FINAL DETAILS Project Technologies -->
-
----
-
-</details> <!-- FINAL DETAILS Projects With Friends -->
-
-</details> <!-- FINAL DETAILS Projects -->
-
----
-
-<details> <!-- INICIO Professional Profile -->
+<details>
 <summary><h2>📁 Professional Profile</h2></summary>
 
 <table>
 <tr>
 <td style="background-color: #ffffff; padding: 20px;">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg" alt="Frontend Developer Profile" width="100%" style="max-width: 800px"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Profile.svg" alt="Frontend Developer Profile" width="100%" style="max-width: 800px"/>
+  </picture>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg"/>
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg" alt="Frontend Developer Expertise Overview" width="100%" style="max-width: 800px; margin-top: 20px"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Expertise Overview.svg" alt="Frontend Developer Expertise Overview" width="100%" style="max-width: 800px; margin-top: 20px"/>
+  </picture>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg"/>
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg" alt="Frontend Developer High-Quality Web Applications" width="100%" style="max-width: 800px; margin-top: 20px"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Gih-Quality Web Applications.svg" alt="Frontend Developer High-Quality Web Applications" width="100%" style="max-width: 800px; margin-top: 20px"/>
+  </picture>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg" alt="Frontend Developer Differentiators" width="100%" style="max-width: 800px; margin-top: 20px"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Differentiators.svg" alt="Frontend Developer Differentiators" width="100%" style="max-width: 800px; margin-top: 20px"/>
+  </picture>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
-<img src="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Frontend Developer Education" width="100%" style="max-width: 800px; margin-top: 20px"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg"/>
+    <img src="./assets/profile/Ricardo Camilo - Frontend Developer - Education.svg" alt="Frontend Developer Education" width="100%" style="max-width: 800px; margin-top: 20px"/>
+  </picture>
 </td>
 </tr>
 </table>
 
-</details> <!-- FINAL Professional Profile -->
-
+</details>
 ---
 
 <details>
 <summary><h2>📁 Professional Contact</h2></summary>
 
 <a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect with me on LinkedIn - Professional networking and career opportunities"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Connect with me on LinkedIn - Professional networking and career opportunities"/>
 </a>
 <a href="https://www.99freelas.com.br/user/ricardo-camilo-frontend-developer-typescript" target="_blank">
-<img src="https://img.shields.io/badge/99Freelas-%2300B057.svg?style=for-the-badge&logo=99freelas&logoColor=white" alt="99Freelas" title="Check my profile on 99Freelas - Brazilian freelance marketplace"/>
+  <img src="https://img.shields.io/badge/99Freelas-%2300B057.svg?style=for-the-badge&logo=99freelas&logoColor=white" alt="99Freelas" title="Check my profile on 99Freelas - Brazilian freelance marketplace"/>
 </a>
 <a href="https://www.workana.com/freelancer/7a5de74a4785b737b517d8746a01cd23" target="_blank">
-<img src="https://img.shields.io/badge/Workana-%23204ECF.svg?style=for-the-badge&logo=workana&logoColor=white" alt="Workana" title="View my Workana profile - Latin American freelance platform"/>
+  <img src="https://img.shields.io/badge/Workana-%23204ECF.svg?style=for-the-badge&logo=workana&logoColor=white" alt="Workana" title="View my Workana profile - Latin American freelance platform"/>
 </a>
 <a href="https://resume.io/r/4bDKkHLB9" target="_blank">
-<img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" title="Download my professional resume - Detailed work experience and skills"/>
+  <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" title="Download my professional resume - Detailed work experience and skills"/>
 </a>
 <a href="https://x.com/Ricardo50993066" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" title="Follow me on Twitter - Updates and tech discussions"/>
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" title="Follow me on Twitter - Updates and tech discussions"/>
 </a>
 
-</details> <!-- FINAL Professional Contact -->
-
+</details>
 ---
 
 <details>
 <summary><h2>📁 Tech Stack & Skills</h2></summary>
 
 <p align="center">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" title="React - A JavaScript library for building user interfaces" />&nbsp;
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js Badge" title="Vue.js - The Progressive JavaScript Framework" />&nbsp;
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" title="TypeScript - JavaScript with syntax for types" />&nbsp;
-<img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js Badge" title="Nuxt.js - The Intuitive Vue Framework" />&nbsp;
-<img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Badge" title="Astro - The all-in-one web framework" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge" title="TailwindCSS - A utility-first CSS framework" />&nbsp;
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="Vuetify Badge" title="Vuetify - Material Design Framework for Vue.js" />&nbsp;
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" title="Vite - Next Generation Frontend Tooling" />&nbsp;
-<img src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" alt="Qwik Badge" title="Qwik - Framework for the edge" />
-<img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID Badge" title="SOLID - Object-Oriented Design Principles" />&nbsp;
-<img src="https://img.shields.io/badge/CLEAN_CODE-000000?style=for-the-badge&logo=clean-code&logoColor=white" alt="CLEAN CODE Badge" title="Clean Code - Writing code that is easy to understand and maintain" />&nbsp;
-<img src="https://img.shields.io/badge/PERFORMANCE-000000?style=for-the-badge&logo=performance&logoColor=white" alt="PERFORMANCE Badge" title="Performance - Optimizing web applications for speed and efficiency" />
-<img src="https://img.shields.io/badge/DATA--DRIVEN-000000?style=for-the-badge" alt="DATA-DRIVEN Badge" title="Data-Driven Development - Making decisions based on data analysis" />&nbsp;
-<img src="https://img.shields.io/badge/MOBILE--FIRST-000000?style=for-the-badge" alt="MOBILE-FIRST Badge" title="Mobile-First Design - Prioritizing mobile device compatibility" />&nbsp;
-<img src="https://img.shields.io/badge/ACCESSIBILITY-000000?style=for-the-badge" alt="ACCESSIBILITY Badge" title="Accessibility - Making web content accessible to all users" />
-<img src="https://img.shields.io/badge/CROSS--BROWSER-000000?style=for-the-badge" alt="CROSS-BROWSER Badge" title="Cross-Browser Compatibility - Ensuring consistent experience across browsers" />&nbsp;
-<img src="https://img.shields.io/badge/RESPONSIVE-000000?style=for-the-badge" alt="RESPONSIVE Badge" title="Responsive Design - Adapting to different screen sizes" />&nbsp;
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" title="Axios - Promise based HTTP client for the browser and node.js" />&nbsp;
-<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm Badge" title="pnpm - Fast, disk space efficient package manager" />&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" title="Figma - Collaborative interface design tool" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" title="Angular - Platform for building web applications" />
-<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" alt="REST API Badge" title="REST API - REpresentational State Transfer Architecture" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" title="React - A JavaScript library for building user interfaces" />&nbsp;
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js Badge" title="Vue.js - The Progressive JavaScript Framework" />&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" title="TypeScript - JavaScript with syntax for types" />&nbsp;
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt.js Badge" title="Nuxt.js - The Intuitive Vue Framework" />&nbsp;
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Badge" title="Astro - The all-in-one web framework" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge" title="TailwindCSS - A utility-first CSS framework" />&nbsp;
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="Vuetify Badge" title="Vuetify - Material Design Framework for Vue.js" />&nbsp;
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" title="Vite - Next Generation Frontend Tooling" />&nbsp;
+  <img src="https://img.shields.io/badge/Qwik-%23000000.svg?style=for-the-badge&logo=qwik&logoColor=white" alt="Qwik Badge" title="Qwik - Framework for the edge" />
+  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID Badge" title="SOLID - Object-Oriented Design Principles" />&nbsp;
+  <img src="https://img.shields.io/badge/CLEAN_CODE-000000?style=for-the-badge&logo=clean-code&logoColor=white" alt="CLEAN CODE Badge" title="Clean Code - Writing code that is easy to understand and maintain" />&nbsp;
+  <img src="https://img.shields.io/badge/PERFORMANCE-000000?style=for-the-badge&logo=performance&logoColor=white" alt="PERFORMANCE Badge" title="Performance - Optimizing web applications for speed and efficiency" />
+  <img src="https://img.shields.io/badge/DATA--DRIVEN-000000?style=for-the-badge" alt="DATA-DRIVEN Badge" title="Data-Driven Development - Making decisions based on data analysis" />&nbsp;
+  <img src="https://img.shields.io/badge/MOBILE--FIRST-000000?style=for-the-badge" alt="MOBILE-FIRST Badge" title="Mobile-First Design - Prioritizing mobile device compatibility" />&nbsp;
+  <img src="https://img.shields.io/badge/ACCESSIBILITY-000000?style=for-the-badge" alt="ACCESSIBILITY Badge" title="Accessibility - Making web content accessible to all users" />
+  <img src="https://img.shields.io/badge/CROSS--BROWSER-000000?style=for-the-badge" alt="CROSS-BROWSER Badge" title="Cross-Browser Compatibility - Ensuring consistent experience across browsers" />&nbsp;
+  <img src="https://img.shields.io/badge/RESPONSIVE-000000?style=for-the-badge" alt="RESPONSIVE Badge" title="Responsive Design - Adapting to different screen sizes" />&nbsp;
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" title="Axios - Promise based HTTP client for the browser and node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm Badge" title="pnpm - Fast, disk space efficient package manager" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" title="Figma - Collaborative interface design tool" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" title="Angular - Platform for building web applications" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" alt="REST API Badge" title="REST API - REpresentational State Transfer Architecture" />
 </p>
 
-</details> <!-- FINAL Tech Stack & Skills -->
+</details>
 
 ---
 
@@ -1665,11 +1260,10 @@ Um projeto colaborativo para criar um site para os serviços espirituais da Ciga
 <summary><h2>📁 Currently Studying</h2></summary>
 
 ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nextjs&logoColor=white "Next.js - The React Framework for Production")
-![AdonisJS](https://img.shields.io/badge/AdonisJS-%235A45FF.svg?style=for-the-badge&logo=adonisjs&logoColor=white "AdonisJS 4 - A fully featured web framework for Node.js")
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white "Express - Fast, unopinionated, minimalist web framework for Node.js")
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white "Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine")
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular - Platform for building web applications")
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker - Platform for developing, shipping and running applications")
 
-</details> <!-- FINAL Currently Studying -->
+</details>
 
 ---
 
@@ -1681,40 +1275,36 @@ Um projeto colaborativo para criar um site para os serviços espirituais da Ciga
 <summary><h2>📊 Certificates</h2></summary>
 
 ### 🌐 English Proficiency - EF SET
-
 <a href="https://cert.efset.org/pt/75Zscf" target="_blank">
-<img src="https://img.shields.io/badge/EF_SET-C1_Advanced-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARUlEQVR4nGNgGAWMDAwM/6Hs/0TMYIQy/xPDpxgYGP5DnUgxALKBYmMYGBj+4zIFm7EMDAz/ceqB8SlzKsVOpTiVRgEDAwMAuO4Q3uB2AR0AAAAASUVORK5CYII=" alt="EF SET English Certificate"/>
+  <img src="https://img.shields.io/badge/EF_SET-C1_Advanced-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARUlEQVR4nGNgGAWMDAwM/6Hs/0TMYIQy/xPDpxgYGP5DnUgxALKBYmMYGBj+4zIFm7EMDAz/ceqB8SlzKsVOpTiVRgEDAwMAuO4Q3uB2AR0AAAAASUVORK5CYII=" alt="EF SET English Certificate"/>
 </a>
 
 - **Score:** 66/100 (C1 Advanced)
 - **Reading:** 72/100 (C2 Mastery)
 - **Listening:** 60/100 (B2 Independent)
 
-</details> <!-- FINAL Certificates -->
+</details>
 
 ---
 
 <details>
-<summary><h2>☕ Support my studies</h2></summary>
+<summary><h2>☕ Suport my studies</h2></summary>
 
 If you find my work helpful and would like to support me, you can:
 
 ### 💰 Buy me a coffee
-
 <a href="https://buymeacoffee.com/ricardo.camilo.frontend" target="_blank" title="Support my work by buying me a coffee">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" title="Support my work by buying me a coffee"/>
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" title="Support my work by buying me a coffee"/>
 </a>
 
 ### <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin" title="Donate Bitcoin"/>
-
 key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26qyta6</span>
 
-<details> <!-- INICIO Bitcoin QR Code -->
+<details>
 <summary title="Click to show/hide Bitcoin QR code">Bitcoin QR Code</summary>
 <img src="./assets/bitcoin-qr.webp" alt="Bitcoin QR Code" width="320px" title="Scan this QR code to donate Bitcoin"/>
-</details> <!-- FINAL Bitcoin QR Code -->
-
-</details> <!-- FINAL Support my studies -->
+</details>
+</details>
 
 ---
 
@@ -1725,25 +1315,6 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 ### Specialist in creating modern and performant web experiences
 
 </div>
-
----
-
-
-<details> <!-- INICIO GitHub Analytics -->
-<summary><h2>📊 GitHub Analytics</h2></summary>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ricardo-camilo-programador-frontend-web&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-camilo-programador-frontend-web&layout=compact&theme=vision-friendly-dark)](https://github.com/ricardo-camilo-programador-frontend-web)
-
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ricardo-camilo-programador-frontend-web&theme=radical" alt="GitHub Trophies"/>
-</p>
-</details> <!-- FINAL GitHub Analytics -->
 
 ---
 

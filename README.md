@@ -1310,7 +1310,7 @@ key: <span title="Bitcoin wallet address">bc1qdgqe3a4nruxwlp5wmuajyz0d9tv4hnf26q
 
 <div align="center">
 
-## 🚀 Available for Freelance Projects and Opportunities!
+## 🚀 Unavailable for Freelance Projects and Opportunities.
 
 ### Specialist in creating modern and performant web experiences
 

@@ -22,16 +22,16 @@
 
 ## About Me
 
-Frontend Developer with **6+ years of experience** transforming business challenges into high-impact digital solutions. Specialized in **Vue.js** and **React.js**, with solid experience in Angular and modern frameworks.
+Frontend Developer with **6+ years of experience** transforming business challenges into high-impact digital solutions. Specialized in **Vue.js** and **React.js** ecosystem, with growing knowledge of Angular and modern frameworks.
 
 **What sets me apart:**
 
 | Quality | Description |
 |---------|-------------|
-| **Versatility** | Master 4+ frontend frameworks (Vue, React, Angular, Nuxt, Next.js) |
+| **Expertise** | Deep experience with Vue (Nuxt, Pinia) and React (Next.js) ecosystems |
 | **Quality** | Clean Code, Object Calisthenics, strict TypeScript |
 | **Product** | Code is a means - I prioritize value for users and business |
-| **Learning** | Continuously exploring Node.js, Flutter, Python |
+| **Learning** | Continuously exploring Node.js, Flutter, Python, Angular |
 | **Communication** | C1 Advanced English for international environments |
 
 **Philosophy:** Great developers don't just write functional code - they create experiences. My approach combines technical rigor with empathy for the end user.

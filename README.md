@@ -9,7 +9,7 @@
 <a href="https://persona-nextjs-chronicles-part-2.netlify.app/en" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">
+<a href="https://www.linkedin.com/in/ricardo-camilo-programador-frontend-web-developer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:ricardo.camilo.dev@gmail.com" target="_blank">

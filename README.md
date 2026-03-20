@@ -153,11 +153,11 @@ Next.js + TypeScript + Tailwind CSS
 <td width="50%">
 
 ### Alla Kayan Portfolio
-**Fullstack portfolio**
+**Professional landing page**
 
 React 19 + Express + SQLite
 
-- Frontend + Backend integrated
+- Landing page for backend developer Alla Kayan
 - Functional REST API
 - Simplified deployment
 

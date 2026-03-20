@@ -293,17 +293,14 @@ Desenvolvimento frontend de plataformas financeiras e corporativas:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ricardo-camilo-frontend-web-developer/" target="_blank">
+<a href="https://www.linkedin.com/in/ricardo-camilo-programador-frontend-web-developer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.99freelas.com.br/user/ricardo-camilo-frontend-developer-typescript" target="_blank">
+<a href="https://www.99freelas.com.br/user/CamillusBloodfallen" target="_blank">
   <img src="https://img.shields.io/badge/99Freelas-00B057?style=for-the-badge" alt="99Freelas"/>
 </a>
 <a href="https://www.workana.com/freelancer/7a5de74a4785b737b517d8746a01cd23" target="_blank">
   <img src="https://img.shields.io/badge/Workana-204ECF?style=for-the-badge" alt="Workana"/>
-</a>
-<a href="https://resume.io/r/4bDKkHLB9" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
 </a>
 <a href="https://x.com/Ricardo50993066" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>

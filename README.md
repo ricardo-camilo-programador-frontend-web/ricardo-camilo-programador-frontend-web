@@ -341,13 +341,17 @@ Frontend development for financial and corporate platforms:
 
 ## Certifications
 
-### EF SET English Certificate
+### English Proficiency - EF SET
+
 <a href="https://cert.efset.org/pt/75Zscf" target="_blank">
-  <img src="https://img.shields.io/badge/Score-66%2F100-C1_Advanced-purple?style=for-the-badge" alt="EF SET"/>
+  <img src="https://img.shields.io/badge/English-C1_Advanced-8A2BE2?style=for-the-badge&logo=cambridge&logoColor=white" alt="English C1 Advanced"/>
 </a>
 
-- **Reading:** C2 Mastery (72/100)
-- **Listening:** B2 Independent (60/100)
+| Skill | Level | Score |
+|-------|-------|-------|
+| Reading | C2 Mastery | 72/100 |
+| Listening | B2 Independent | 60/100 |
+| **Overall** | **C1 Advanced** | **66/100** |
 
 ---
 

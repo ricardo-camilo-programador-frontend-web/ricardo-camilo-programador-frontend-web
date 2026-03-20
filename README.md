@@ -22,19 +22,19 @@
 
 ## About Me
 
-Frontend Developer com **6+ anos de experiencia** transformando desafios de negocio em solucoes digitais de alto impacto. Especializado em **Vue.js** e **React.js**, com experiencia solida em Angular e frameworks modernos.
+Frontend Developer with **6+ years of experience** transforming business challenges into high-impact digital solutions. Specialized in **Vue.js** and **React.js**, with solid experience in Angular and modern frameworks.
 
-**O que me diferencia:**
+**What sets me apart:**
 
-| Qualidade | Descricao |
-|-----------|-----------|
-| **Versatilidade** | Domino 4+ frameworks frontend (Vue, React, Angular, Nuxt, Next.js) |
-| **Qualidade** | Clean Code, Object Calisthenics, TypeScript estrito |
-| **Produto** | Codigo e meio - priorizo valor para usuario e negocio |
-| **Aprendizado** | Explorando Node.js, Flutter, Python continuamente |
-| **Comunicacao** | Ingles C1 Advanced para ambientes internacionais |
+| Quality | Description |
+|---------|-------------|
+| **Versatility** | Master 4+ frontend frameworks (Vue, React, Angular, Nuxt, Next.js) |
+| **Quality** | Clean Code, Object Calisthenics, strict TypeScript |
+| **Product** | Code is a means - I prioritize value for users and business |
+| **Learning** | Continuously exploring Node.js, Flutter, Python |
+| **Communication** | C1 Advanced English for international environments |
 
-**Filosofia:** Bons desenvolvedores nao apenas escrevem codigo funcional - criam experiencias. Minha abordagem combina rigor tecnico com empatia pelo usuario final.
+**Philosophy:** Great developers don't just write functional code - they create experiences. My approach combines technical rigor with empathy for the end user.
 
 ---
 
@@ -84,13 +84,13 @@ Frontend Developer com **6+ anos de experiencia** transformando desafios de nego
 <td width="50%">
 
 ### Breath Natural
-**E-commerce de plantas indoor**
+**Indoor plants e-commerce**
 
 Next.js + TypeScript + Tailwind CSS
 
-- Multi-idioma (PT/EN)
-- Carrinho interativo
-- SEO otimizado
+- Multi-language (PT/EN)
+- Interactive shopping cart
+- SEO optimized
 - 90+ Lighthouse
 
 [Live](https://breath-natural-nextjs-chronicles.netlify.app/) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-1)
@@ -99,14 +99,14 @@ Next.js + TypeScript + Tailwind CSS
 <td width="50%">
 
 ### Food Hut
-**Landing page de restaurante**
+**Restaurant landing page**
 
 Angular 17 + PWA + Tailwind CSS
 
 - Progressive Web App
 - Mobile-first design
-- Performance otimizada
-- Video preview disponivel
+- Optimized performance
+- Video preview available
 
 [Live](https://food-hut-angular-chronicles-1.netlify.app/) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/angular-chronicles-part-1)
 
@@ -116,14 +116,14 @@ Angular 17 + PWA + Tailwind CSS
 <td width="50%">
 
 ### Savana
-**E-commerce Nuxt 3**
+**Nuxt 3 E-commerce**
 
 Nuxt 3 + Pinia + i18n
 
-- State management com Pinia
-- Sistema de favoritos
-- Multi-idioma
-- Design responsivo
+- State management with Pinia
+- Favorites system
+- Multi-language
+- Responsive design
 
 [Live](https://savana-nuxtjs-chronicles-part-1.netlify.app/en) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/nuxtjs-chronicles-part-1)
 
@@ -131,12 +131,12 @@ Nuxt 3 + Pinia + i18n
 <td width="50%">
 
 ### Persona Portfolio
-**Portfolio profissional**
+**Professional portfolio**
 
 Next.js + TypeScript + Tailwind CSS
 
 - Dark/Light mode
-- Multi-idioma
+- Multi-language
 - 90+ Lighthouse
 - PWA ready
 
@@ -153,13 +153,13 @@ Next.js + TypeScript + Tailwind CSS
 <td width="50%">
 
 ### Alla Kayan Portfolio
-**Portfolio fullstack**
+**Fullstack portfolio**
 
 React 19 + Express + SQLite
 
-- Frontend + Backend integrados
-- API REST funcional
-- Deploy simplificado
+- Frontend + Backend integrated
+- Functional REST API
+- Simplified deployment
 
 [Code](https://github.com/ricardo-camilo-programador-frontend-web/alla-kayan-portfolio2.0)
 
@@ -167,14 +167,14 @@ React 19 + Express + SQLite
 <td width="50%">
 
 ### Zenith Node
-**Fundamentos Node.js**
+**Node.js fundamentals**
 
 Node.js + TypeScript
 
-- HTTP server nativo
-- Sistema de rotas
-- i18n basico
-- Seguranca (path sanitization)
+- Native HTTP server
+- Routing system
+- Basic i18n
+- Security (path sanitization)
 
 [Live](https://replit.com/@ricardo564/zenith-node-chronicles-part-1) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/node-chronicles-part-1)
 
@@ -189,13 +189,13 @@ Node.js + TypeScript
 <td width="50%">
 
 ### CajuScript
-**Plataforma de noticias**
+**News platform**
 
 Next.js 15 + Google API
 
-- Projeto freelance
-- Integracao Google API
-- SSR otimizado
+- Freelance project
+- Google API integration
+- Optimized SSR
 
 [Code](https://github.com/ricardo-camilo-programador-frontend-web/cajuscript)
 
@@ -203,13 +203,13 @@ Next.js 15 + Google API
 <td width="50%">
 
 ### Edificio Canada
-**Landing page imobiliario**
+**Real estate landing page**
 
 Next.js 13 + TypeScript
 
-- SEO avancado
+- Advanced SEO
 - 90+ Lighthouse
-- Conversao otimizada
+- Conversion optimized
 
 [Live](https://edificio-canada-freelance-langing.netlify.app/)
 
@@ -219,13 +219,13 @@ Next.js 13 + TypeScript
 <td width="50%">
 
 ### Cigana Lila
-**Site servicos espirituais**
+**Spiritual services website**
 
 Astro.js + TypeScript
 
-- Colaboracao
+- Collaboration
 - WhatsApp integration
-- Design intuitivo
+- Intuitive design
 
 [Live](https://cigana-lila.netlify.app/)
 
@@ -238,8 +238,8 @@ Astro.js + TypeScript
 Ren'Py + Python
 
 - Game development
-- Narrativa interativa
-- Colaboracao criativa
+- Interactive storytelling
+- Creative collaboration
 
 [Live](https://lembredemin.netlify.app/) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/LembreDeMin)
 
@@ -253,17 +253,17 @@ Ren'Py + Python
 
 **Labi9.com** (2021 - 2024) - *Frontend Developer*
 
-Desenvolvimento frontend de plataformas financeiras e corporativas:
+Frontend development for financial and corporate platforms:
 
-| Projeto | Tecnologia | Descricao |
-|---------|------------|-----------|
-| [Labi9.com](https://labi9.com/) | Qwik + Tailwind | Site corporativo com PWA |
-| [Loor.vc](https://loor.vc/) | Astro + Vue | Plataforma de investimento |
-| [Loor Admin](https://painel.loor.vc/) | React + Redux | Dashboard de investidores |
-| [GLBK Bank](https://www.glbk.com.br/) | Astro + Vue | Site bancario |
-| [Tippbank](https://tippbank.com.br/) | Astro + Vue | Solucoes de pagamento |
+| Project | Technology | Description |
+|---------|------------|-------------|
+| [Labi9.com](https://labi9.com/) | Qwik + Tailwind | Corporate website with PWA |
+| [Loor.vc](https://loor.vc/) | Astro + Vue | Investment platform |
+| [Loor Admin](https://painel.loor.vc/) | React + Redux | Investor dashboard |
+| [GLBK Bank](https://www.glbk.com.br/) | Astro + Vue | Banking website |
+| [Tippbank](https://tippbank.com.br/) | Astro + Vue | Payment solutions |
 
-**Impacto:** 40% melhoria em performance, 60% reducao em tempo de carregamento, plataformas servindo milhares de usuarios ativos.
+**Impact:** 40% performance improvement, 60% reduction in loading time, platforms serving thousands of active users.
 
 ---
 

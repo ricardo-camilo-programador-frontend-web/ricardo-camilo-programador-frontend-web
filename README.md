@@ -146,24 +146,10 @@ Next.js + TypeScript + Tailwind CSS
 </tr>
 </table>
 
-### Fullstack & Backend Learning
+### Learning Projects
 
 <table>
 <tr>
-<td width="50%">
-
-### Alla Kayan Portfolio
-**Professional landing page**
-
-React 19 + Express + SQLite
-
-- Landing page for backend developer Alla Kayan
-- Functional REST API
-- Simplified deployment
-
-[Code](https://github.com/ricardo-camilo-programador-frontend-web/alla-kayan-portfolio2.0)
-
-</td>
 <td width="50%">
 
 ### Zenith Node
@@ -179,10 +165,26 @@ Node.js + TypeScript
 [Live](https://replit.com/@ricardo564/zenith-node-chronicles-part-1) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/node-chronicles-part-1)
 
 </td>
+<td width="50%">
+
+### Flutter Dimensions
+**Mobile development**
+
+Dart + Flutter
+
+- Pomodoro timer app
+- Cross-platform
+- Mobile-first design
+
+[Code](https://github.com/ricardo-camilo-programador-frontend-web/flutter-dimensions-part-1)
+
+</td>
 </tr>
 </table>
 
-### Freelance & Collaboration
+---
+
+## Freelance & Collaboration
 
 <table>
 <tr>
@@ -218,6 +220,50 @@ Next.js 13 + TypeScript
 <tr>
 <td width="50%">
 
+### DigiBank
+**Banking landing page**
+
+Next.js + TypeScript
+
+- Freelance project
+- Modern banking UI
+- Responsive design
+
+[Live](https://digibank-freelance.netlify.app/)
+
+</td>
+<td width="50%">
+
+### ITU Pneus
+**Tire shop website**
+
+Next.js + TypeScript
+
+- Freelance project
+- Service catalog
+- WhatsApp integration
+
+[Live](https://itu-pneus-freelance.netlify.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Pomodoro Claw
+**Pomodoro timer PWA**
+
+React + TypeScript + PWA
+
+- Progressive Web App
+- Offline support
+- Timer notifications
+
+[Live](https://pomodoro-claw.netlify.app/)
+
+</td>
+<td width="50%">
+
 ### Cigana Lila
 **Spiritual services website**
 
@@ -230,6 +276,8 @@ Astro.js + TypeScript
 [Live](https://cigana-lila.netlify.app/)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### Lembre de Min
@@ -242,6 +290,20 @@ Ren'Py + Python
 - Creative collaboration
 
 [Live](https://lembredemin.netlify.app/) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/LembreDeMin)
+
+</td>
+<td width="50%">
+
+### Alla Kayan
+**Professional landing page**
+
+React 19 + Express + SQLite
+
+- Landing page for backend developer
+- Functional REST API
+- Simplified deployment
+
+[Code](https://github.com/ricardo-camilo-programador-frontend-web/alla-kayan-portfolio2.0)
 
 </td>
 </tr>

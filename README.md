@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://persona-nextjs-chronicles-part-2.netlify.app/en" target="_blank">
+<a href="https://ricardo-camilo-dev-frontend-web.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/ricardo-camilo-programador-frontend-web-developer/" target="_blank">
@@ -130,17 +130,18 @@ Nuxt 3 + Pinia + i18n
 </td>
 <td width="50%">
 
-### Persona Portfolio
+### Portfolio 2.0
 **Professional portfolio**
 
-Next.js + TypeScript + Tailwind CSS
+Vue 3 + TypeScript + Tailwind CSS + Pinia
 
+- Modern design with animations
 - Dark/Light mode
-- Multi-language
+- Multi-language (PT/EN)
+- Feature-based architecture
 - 90+ Lighthouse
-- PWA ready
 
-[Live](https://persona-nextjs-chronicles-2.netlify.app) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2)
+[Live](https://ricardo-camilo-dev-frontend-web.netlify.app/) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/portfolio2.0)
 
 </td>
 </tr>

@@ -181,6 +181,26 @@ Dart + Flutter
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### Persona Portfolio
+**Professional portfolio (Legacy)**
+
+Next.js + TypeScript + Tailwind CSS
+
+- Dark/Light mode
+- Multi-language
+- 90+ Lighthouse
+- PWA ready
+
+[Live](https://persona-nextjs-chronicles-part-2.netlify.app) | [Code](https://github.com/ricardo-camilo-programador-frontend-web/nextjs-chronicles-part-2)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
